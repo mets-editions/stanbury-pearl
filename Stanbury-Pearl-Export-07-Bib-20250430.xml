@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Stanbury-Pearl-Export-07-Bib-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Select Bibliography</title>
+        <author>Stanbury, Sarah</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Amster, Mara I.</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-04" to="2025-05">Audited documents prior to print/export</resp>
+          <resp from="2025-04" to="2025-04">Collected metadata</resp>
+          <resp from="2025-01" to="2025-02">Copyedited and proofread</resp>
+          <resp from="2025-04" to="2025-05">Encoded TEI</resp>
+          <resp from="2025-04" to="2025-04">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-01" to="2025-04">Entered corrections for digital edition</resp>
+          <resp from="2025-01" to="2025-02">Entered corrections for print edition</resp>
+          <resp from="2025-01" to="2025-02">Formatted for print edition</resp>
+          <resp from="2025-01" to="2025-04">Formatted for XML export</resp>
+          <resp from="2025-05" to="2025-05">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2024-02" to="2024-02">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Symons, Dana M.</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Mara I. Amster</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John William Sutton</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Dana M. Symons</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Assistant Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Stanbury, Sarah</editor>
+            <title>Pearl</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2001</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/stanbury-pearl/blob/main/stanbury-pearl-export-corrections-log.docx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 2001</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Stanbury-Pearl-Export-07-Bib"/>
+      <div type="text">
+        <p style="heading">Editions of <hi rend="italic">Pearl</hi></p>
+        <listBibl>
+          <bibl>Anderson, J. J., ed. <hi rend="italic">Sir Gawain and the Green Knight; Pearl;
+              Cleanness; Patience</hi>. Rutland, VT: Tuttle, 1996. [Revision of 1976 Everyman
+            edition by A. C. Cawley and J. J. Anderson.]</bibl>
+          <bibl>Andrew, Malcolm, and Ronald Waldron, eds. <hi rend="italic">The Poems of the Pearl
+              Manuscript: Pearl, Cleanness, Patience, and Sir Gawain and the Green Knight</hi>.
+            London: Edward Arnold, 1978. Third ed. Exeter: University of Exeter Press, 1996.</bibl>
+          <bibl>Cawley, A. C. <hi rend="italic">Pearl; Sir Gawain and the Green Knight</hi>. New
+            York: Dutton, 1962.</bibl>
+          <bibl>Chase, Stanley P. <hi rend="italic">The Pearl: The Text of the Fourteenth-Century
+              English Poem</hi>. Boston: Humphries, 1932.</bibl>
+          <bibl>Gollancz, Sir Israel, ed. and trans. <hi rend="italic">Pearl</hi>. London: Chatto
+            and Windus, 1891; rev. ed., 1897. Second ed. as <hi rend="italic">Pearl, Edited with
+              Modern Rendering, Together with Boccaccio’s Olympia</hi>. London: Chatto and Windus,
+            1921.</bibl>
+          <bibl>Gordon, E. V., ed. <hi rend="italic">Pearl</hi>. Oxford: Clarendon Press,
+            1953.</bibl>
+          <bibl>Hillmann, Sister Mary V., ed. and trans. <hi rend="italic">The Pearl, Medieval Text
+              with a Literal Translation and Interpretation</hi>. [Convent Station, NJ]: College of
+            St. Elizabeth, 1961; rev. ed. Notre Dame, IN: University of Notre Dame Press,
+            1967.</bibl>
+          <bibl>Moorman, Charles. <hi rend="italic">The Works of the Gawain-Poet</hi>. Jackson:
+            University of Mississippi Press, 1977.</bibl>
+          <bibl>Morris, Richard. <hi rend="italic">Early English Alliterative Poems in the
+              West-Midland Dialect of the Fourteenth Century</hi>. EETS o.s. 1. London: Trübner,
+            1864. Rpt. London: Oxford University Press, 1965.</bibl>
+          <bibl>Osgood, Charles G., ed. <hi rend="italic">The Pearl</hi>. Boston: D. C. Heath,
+            1906.</bibl>
+          <bibl>Vantuono, William, ed. and trans. <hi rend="italic">The Pearl Poems: An Omnibus
+              Edition. Vol. 1: Pearl and Cleanness</hi>. New York: Garland, 1984.</bibl>
+        </listBibl>
+        <p style="heading">Bibliographies and Reviews of Scholarship</p>
+        <listBibl>
+          <bibl>Andrew, Malcolm. <hi rend="italic">The Gawain-Poet: An Annotated Bibliography,
+              1839–77</hi>. New York: Garland, 1979.</bibl>
+          <bibl>Blanch, Robert J. “The Current State of <hi rend="italic">Pearl</hi> Criticism.” <hi
+              rend="italic">Chaucer Yearbook</hi> 3 (1996), 21–33. [Review essay on trends in
+            scholarship.]</bibl>
+          <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Supplement to the <hi rend="italic"
+            >Gawain</hi>-Poet: An Annotated Bibliography, 1978–85.” <hi rend="italic">Chaucer
+              Review</hi> 25.4 (1991), 363–86.</bibl>
+          <bibl>Eldredge, Laurence. “The State of <hi rend="italic">Pearl</hi> Studies Since 1933.”
+              <hi rend="italic">Viator</hi> 6 (1975), 171–94. [Divides scholarship on <hi
+              rend="italic">Pearl</hi> into five categories: elegy or allegory debate; heretical or
+            orthodox instruction; pearl symbolism; search for author; historicism.]</bibl>
+          <bibl>Foley, Michael. “The <hi rend="italic">Gawain</hi>-Poet: An Annotated Bibliography,
+            1978–85.” <hi rend="italic">Chaucer Review</hi> 23.3 (1989), 250–82.</bibl>
+        </listBibl>
+        <p style="heading">Criticism</p>
+        <listBibl>
+          <bibl>Ackerman, Robert W. “The Pearl-Maiden and the Penny.” <hi rend="italic">Romance
+              Philology</hi> 17 (1964), 615–23. Rpt. in Conley. Pp. 149–62. [English and Continental
+            sources for female instructress and the parable of the vineyard; penny as Eucharistic
+            host.]</bibl>
+          <bibl>Aers, David. “The Self Mourning: Reflections on <hi rend="italic">Pearl</hi>.” <hi
+              rend="italic">Speculum</hi> 68 (1993), 54–73. [Situates narrator within sociopolitical
+            interests of late fourteenth-century court culture; narrator’s individualism at odds
+            with maiden’s idealization of Catholic communal values.]</bibl>
+          <bibl>Andrew, Malcolm. “Theories of Authorship.” In Brewer and Gibson. Pp. 23–33.
+            [Thorough review of theories of authorship.]</bibl>
+          <bibl>Arthur, Ross G. “The Day of Judgment is Now: A Johannine Pattern in the Middle
+            English <hi rend="italic">Pearl</hi>.” <hi rend="italic">American Benedictine
+              Review</hi> 38 (1987), 227–42. [<hi rend="italic">Pearl</hi> in relation to medieval
+            sign theory.]</bibl>
+          <bibl>Astell, Ann W. <hi rend="italic">The Song of Songs in the Middle Ages</hi>. Ithaca,
+            NY: Cornell University Press, 1990. [Maiden as Anima, or the Bernardine trope of
+            mystical brideship. Male protagonist must encompass feminine principle within
+            himself.]</bibl>
+          <bibl>Barr, Helen. “<hi rend="italic">Pearl</hi> — or ‘The Jeweller’s Tale.’” <hi
+              rend="italic">Medium Ævum</hi> 69 (2000), 59–79. [Pearls and gems in late
+            fourteenth-century aristocratic culture; poem’s “mercantile consciousness” (61) and
+            concerns with social order.]</bibl>
+          <bibl>Bennett, Michael. “The Court of Richard II and the Promotion of Literature.” In <hi
+              rend="italic">Chaucer’s England: Literature in Historical Context</hi>. Ed. Barbara
+            Hanawalt. Minneapolis: University of Minnesota Press, 1992. Pp. 3–20. [Richard II’s
+            Cheshire connections and literary patronage.]</bibl>
+          <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Historical Background.” In Brewer and
+            Gibson. Pp. 71–90. [Locates poems of Cotton Nero A.x. within court circle of Richard II;
+            Cheshire connections.]</bibl>
+          <bibl>Bishop, Ian. <hi rend="italic">Pearl in Its Setting: A Critical Study of the
+              Structure and Meaning of the Middle English Poem</hi>. Oxford: Blackwell, 1968.
+            [Genre, especially allegory; idea of innocence; number symbolism.]</bibl>
+          <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Relatives at the Court of Heaven: Contrasted
+            Treatments of an Idea in <hi rend="italic">Piers Plowman</hi> and <hi rend="italic"
+              >Pearl</hi>.” In <hi rend="italic">Medieval Literature and Antiquities: Studies in
+              Honor of Basil Cottle</hi>. Ed. Myra Stokes and T. L. Burton. Cambridge: D. S. Brewer,
+            1987. Pp. 111–18. [Legal and heavenly courts and advantages of having relatives at
+            both.]</bibl>
+          <bibl>Blanch, Robert J., ed. <hi rend="italic">Sir Gawain and Pearl: Critical Essays</hi>.
+            Bloomington, IN: Indiana University Press, 1966. [Collection of essays.]</bibl>
+          <bibl>Blanch, Robert J., Miriam Youngerman Miller, and Julian N. Wasserman, eds. <hi
+              rend="italic">Text and Matter: New Critical Perspectives of the Pearl-Poet</hi>. Troy,
+            NY: Whitson Press, 1991. [Collection of essays.]</bibl>
+          <bibl>Blanch, Robert J., and Julian N. Wasserman. <hi rend="italic">From Pearl to Gawain:
+              Forme to Fynisment</hi>. Gainesville: University of Florida Press, 1995. [Thematic
+            study from standpoint of providential history; focus on miracles, language, role of
+            narrator, covenants, iconography of the hand.]</bibl>
+          <bibl>Blenkner, Louis, O. S. B. “The Theological Structure of <hi rend="italic"
+            >Pearl</hi>.” <hi rend="italic">Traditio</hi> 24 (1968), 43–75. Rpt. in Conley. Pp.
+            220–71. [Reading of poem according to itineraries of mystical ascent, especially Hugh of
+            St. Victor and Bonaventure.]</bibl>
+          <bibl>Bogdanos, Theodore. <hi rend="italic">Pearl, Image of the Ineffable: A Study in
+              Medieval Poetic Symbolism</hi>. University Park: Pennsylvania State University Press,
+            1983. [Medieval symbolism and sign theory — e.g., Pseudo-Dionysius, Augustine, Aquinas,
+            Bonaventure.]</bibl>
+          <bibl>Borroff, Marie. “<hi rend="italic">Pearl</hi>’s ‘Maynful Mone’: Crux, Simile, and
+            Structure.” In <hi rend="italic">Acts of Interpretation: The Text in its Contexts,
+              700–1600. Essays on Medieval and Renaissance Literature in Honor of E. Talbot
+              Donaldson</hi>. Ed. Mary J. Carruthers and Elizabeth D. Kirk. Norman, OK: Pilgrim
+            Books, 1982. Pp. 159–72. [Moon as example of roundness; poem’s contrasting linear and
+            circular modes.]</bibl>
+          <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Narrative Artistry in <hi rend="italic">St.
+              Erkenwald</hi> and the <hi rend="italic">Gawain</hi>-Group: The Case for Common
+            Authorship Reconsidered.” <hi rend="italic">Studies in the Age of Chaucer</hi> 28
+            (2006), 41–76. [Argument, on basis of verbal artistry, for common authorship.]</bibl>
+          <bibl>Bowers, John. “<hi rend="italic">Pearl</hi> in Its Royal Setting: Ricardian Poetry
+            Revisited.” <hi rend="italic">Studies in the Age of Chaucer</hi> 17 (1995), 111–55.
+            [Reading of <hi rend="italic">Pearl</hi> in relation to Richard II’s court; argues poem
+            is consistently royalist, and imagery of poem reiterates Richard’s regalian themes and
+            images.]</bibl>
+          <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Politics of <hi rend="italic">Pearl</hi>.”
+              <hi rend="italic">Exemplaria</hi> 7 (1995), 419–41. [Parable of vineyard as exemplary
+            of late fourteenth-century social concerns, especially unruly labor.]</bibl>
+          <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Politics of Pearl: Court
+              Poetry in The Age of Richard II</hi>. Cambridge: D. S. Brewer, 2001.</bibl>
+          <bibl>Brewer, Derek, and Jonathan Gibson, eds. <hi rend="italic">A Companion to the
+              Gawain-Poet</hi>. Woodbridge, Suffolk: D. S. Brewer, 1997. [Indispensable collection
+            of essays.]</bibl>
+          <bibl>Bridges, Margaret. “The Sense of an Ending: The Case of the Dream-Vision.” <hi
+              rend="italic">Dutch Quarterly Review</hi> 14 (1984), 81–94. [Ending of poem in failed
+            closure and textual indeterminacy.]</bibl>
+          <bibl>Bullon-Fernandez, Maria. “Byȝonde þe Water: Courtly and Religious Desire in <hi
+              rend="italic">Pearl</hi>.” <hi rend="italic">Studies in Philology</hi> 91 (1994),
+            35–49. [Contrasts between religious and courtly desire; poetic play of erotic desire
+            violates both categories.]</bibl>
+          <bibl>Cherniss, Michael. <hi rend="italic">Boethian Apocalypse: Studies in Middle English
+              Vision Poetry</hi>. Norman, OK: Pilgrim Books, 1987. Pp. 151–68. [<hi rend="italic"
+              >Pearl</hi> as Boethian vision.]</bibl>
+          <bibl>Clopper, Lawrence, “<hi rend="italic">Pearl</hi> and the Consolation of Scripture.”
+              <hi rend="italic">Viator</hi> 23 (1991), 231–45. [Poem as progressive meditative
+            itinerary based on Augustine.]</bibl>
+          <bibl>Condren, Edward I. <hi rend="italic">The Numerical Universe of the Gawain-Pearl
+              Poet: Beyond Ph</hi>. Gainesville: University Press of Florida, 2002. [Numerical
+            organization of <hi rend="italic">Pearl</hi>, along with other poems of Cotton Nero A.x,
+            according to the principle of divine proportion or golden section called “phi” in modern
+            mathematics.]</bibl>
+          <bibl>Conley, John, ed. <hi rend="italic">The Middle English Pearl: Critical Essays</hi>.
+            Notre Dame, IN: University of Notre Dame Press, 1955. [Collection of essays.]</bibl>
+          <bibl>Cox, Catherine S. “<hi rend="italic">Pearl</hi>’s ‘Precios Pere’: Gender, Language,
+            and Difference.” <hi rend="italic">Chaucer Review</hi> 32.4 (1998), 377–90. [Gender
+            binaries inform poem’s poetics and drive its formations of transgressive desire, with
+            feminine representing the plural, carnal, and literal.]</bibl>
+          <bibl>Davenport, W. A. <hi rend="italic">The Art of the Gawain-Poet</hi>. New Jersey:
+            Humanities Press, 1978. [<hi rend="italic">Pearl</hi> chapter gives critical reading of
+            development of narrator and of contrasts between literal and allegorical modes.]</bibl>
+          <bibl>Despres, Denise. <hi rend="italic">“Ghostly Sights”: Visual Meditation in
+              Late-Medieval Literature</hi>. Norman, OK: Pilgrim Books, 1989. [<hi rend="italic"
+              >Pearl</hi> addresses Christian conversion and specifically “penitential practice of
+            visual meditation” (p. 91).]</bibl>
+          <bibl>Donkin, R. A. <hi rend="italic">Beyond Price: Pearls and Pearl Fishing: Origins to
+              the Age of Discovery</hi>. Philadelphia: American Philosophical Society, 1998.
+            [“Pearls in the Medieval World,” pp. 250–75, discusses medieval views on natural history
+            of pearls; harvesting and international trade of pearls in Middle Ages.]</bibl>
+          <bibl>Donner, Morton. “Word Play and Word Form in <hi rend="italic">Pearl</hi>.” <hi
+              rend="italic">Chaucer Review</hi> 24 (1989), 166–82. [Variation in morphological form
+            of link words as important component of poem’s lexical play.]</bibl>
+          <bibl>Duggan, Hoyt N. “Libertine Scribes and Maidenly Editors: Meditations on Textual
+            Criticism and Metrics.” In <hi rend="italic">English Historical Metrics</hi>. Ed. C. B.
+            McCully and J. J. Anderson. Cambridge: Cambridge University Press, 1996. Pp. 219–37.
+            [Contends scribe(s) consistently removed or added syllables, mismetering the poet’s
+            regularly iambic tetrameter line; see his similar argument in Brewer and Gibson, pp.
+            221–42.]</bibl>
+          <bibl>Earl, James W. “Saint Margaret and the <hi rend="italic">Pearl</hi> Maiden.” <hi
+              rend="italic">Modern Philology</hi> 70 (1972), 1–8. [Virgin martyr St. Margaret as
+            source for the <hi rend="italic">Pearl</hi>-maiden.]</bibl>
+          <bibl>Edmondson, George. “<hi rend="italic">Pearl</hi>: The Shadow of the Object, the
+            Shape of the Law.” <hi rend="italic">Studies in the Age of Chaucer</hi> 26 (2004),
+            29–63. [Psychoanalytic reading, informed by Lacan and Žižek, of mourning and
+            ideology.]</bibl>
+          <bibl>Fein, Susannah Greer. “Twelve-Line Stanza Forms in Middle English and the Date of
+              <hi rend="italic">Pearl</hi>.” <hi rend="italic">Speculum</hi> 72 (1997), 367–97.
+            [Contends <hi rend="italic">Pearl</hi> uses a stanza intermediate between octet/quatrain
+            form and the ballade and that the stanza form dates the poem between 1375 and
+            1385.]</bibl>
+          <bibl>Field, Rosalind. “The Heavenly Jerusalem in <hi rend="italic">Pearl</hi>.” <hi
+              rend="italic">Modern Language Review</hi> 81 (1986), 7–17. [Poem’s uses of and
+            divergence from biblical Apocalypse text; image of wounded lamb in Apocalypse
+            MSS.]</bibl>
+          <bibl>Finlayson, John. “<hi rend="italic">Pearl</hi>: Landscape and Vision.” <hi
+              rend="italic">Studies in Philology</hi> 71 (1974), 314–43. [Description of landscape
+            as objective correlative to narrator’s spiritual understanding.]</bibl>
+          <bibl>Fleming, John. “The Centuple Structure of the <hi rend="italic">Pearl</hi>.” In <hi
+              rend="italic">The Alliterative Tradition in the Fourteenth Century</hi>. Ed. Bernard
+            S. Levy and Paul E. Szarmach. Kent, OH: Kent State University Press, 1981. Pp. 81–98.
+            [101, the number of stanzas in poem, as number of spiritual consolation].</bibl>
+          <bibl>Gatta, John. “Transformation Symbolism and the Liturgy of the Mass in <hi
+              rend="italic">Pearl</hi>.” <hi rend="italic">Modern Philology</hi> 71 (1974), 243–56.
+            [Reading of ritualistic allusions, with focus on sacramental interests.]</bibl>
+          <bibl>Ginsberg, Warren. “Place and Dialectic in <hi rend="italic">Pearl</hi> and Dante’s
+              <hi rend="italic">Paradiso</hi>.” <hi rend="italic">ELH</hi> 55 (1988), 731–53. [<hi
+              rend="italic">Pearl</hi>, like Dante’s <hi rend="italic">Paradiso</hi>, located in a
+            spatial as well as discursive dialectic.]</bibl>
+          <bibl>Gross, Charlotte. “Courtly Language in <hi rend="italic">Pearl</hi>.” In Blanch,
+            Miller, and Wasserman. Pp. 79–91. [Franciscan and French sources for courtly language
+            and tensions between eroticism and spirituality.]</bibl>
+          <bibl>Hamilton, Marie P. “The Meaning of the Middle English <hi rend="italic">Pearl</hi>.”
+              <hi rend="italic">PMLA</hi> 70 (1955), 805–25. [Poem as Christian allegory; symbolism
+            of garden, etc.]</bibl>
+          <bibl>Harwood, Britton J. “<hi rend="italic">Pearl</hi> as Diptych.” In Blanch, Miller,
+            and Wasserman. Pp. 61–78. [Study of chiastic structure; influence of Gothic
+            diptych.]</bibl>
+          <bibl>Hoffman, Stanton de Voren. “The <hi rend="italic">Pearl</hi>: Notes for an
+            Interpretation.” <hi rend="italic">Modern Philology</hi> 58 (1960), 73–80. Rpt. in
+            Conley. Pp. 86–102. [<hi rend="italic">Pearl</hi> as elegy.]</bibl>
+          <bibl>Horgan, A. D. “Justice in the <hi rend="italic">Pearl</hi>.” <hi rend="italic"
+              >Review of English Studies</hi> 32 (1981), 173–80. [Contrasts between social and
+            Christian ideas of justice.]</bibl>
+          <bibl>Johnson, Wendell Stacey. “The Imagery and Diction of the <hi rend="italic"
+              >Pearl</hi>: Toward an Interpretation.” <hi rend="italic">ELH</hi> 20 (1953), 161–80.
+            Rpt. in Conley. Pp. 27–49. [Central conflict between world and eternity mirrored in
+            images of nature and of art.]</bibl>
+          <bibl>Kean, Patricia M. <hi rend="italic">The Pearl: An Interpretation</hi>. New York:
+            Barnes and Noble, 1967. [Reading of images, with focus on contrast between earthly
+            limitation and spiritual perfection.]</bibl>
+          <bibl>Lagerholm, Annika Sylén. <hi rend="italic">Pearl and Contemplative Writing</hi>.
+            Lund: Lund Studies in English, 2005. [<hi rend="italic">Pearl</hi> as contemplative text
+            in tradition of Julian of Norwich, Margery Kempe, Richard Rolle, and Walter Hilton;
+            limits of language in expressing the ineffable.]</bibl>
+          <bibl>Lightbown, R. W. <hi rend="italic">Medieval European Jewellery: With a Catalogue of
+              the Collection in the Victoria &amp; Albert Museum</hi>. London: Victoria &amp; Albert
+            Museum, 1992.</bibl>
+          <bibl>Luttrell, A. C. “<hi rend="italic">Pearl</hi>: Symbolism in a Garden Setting.” <hi
+              rend="italic">Neophilologus</hi> 49 (1965), 160–76. Rpt. in Blanch. Pp. 60–85. Rpt. in
+            Conley. Pp. 297–324. [Meanings of “erber” and “huyle”; conventions of medieval
+            gardens.]</bibl>
+          <bibl>Lynch, Kathryn. <hi rend="italic">The High Medieval Dream Vision: Poetry,
+              Philosophy, and Literary Form</hi>. Stanford: Stanford University Press, 1988.
+            [Locates dream vision in <hi rend="italic">Pearl</hi> within late developments of
+            genre.]</bibl>
+          <bibl>Macrae-Gibson, O. D. “<hi rend="italic">Pearl</hi>: The Link-Words and the Thematic
+            Structure.” <hi rend="italic">Neophilologus</hi> 52 (1968), 54–64. Rpt. in Conley. Pp.
+            203–19. [Reading of link-terms.]</bibl>
+          <bibl>Mann, Jill. “Satisfaction and Payment in Middle English Literature.” <hi
+              rend="italic">Studies in the Age of Chaucer</hi> 5 (1983), 17–48. [“Innoghe” in <hi
+              rend="italic">Pearl</hi> as “endlessly sufficient abundance” (p. 29).]</bibl>
+          <bibl>Marti, Kevin. <hi rend="italic">Body, Heart, and Text in the Pearl-Poet</hi>.
+            Queenston, Ontario: Mellen Press, 1991. [<hi rend="italic">Pearl</hi> as replay of a
+            Eucharistic drama, with spatial relations figured as both human body and Gothic
+            cathedral.]</bibl>
+          <bibl>Meyer, Ann R. <hi rend="italic">Medieval Allegory and the Building of the New
+              Jerusalem</hi>. Cambridge: D. S. Brewer, 2003. [<hi rend="italic">Pearl</hi> as Gothic
+            architectural form.]</bibl>
+          <bibl>Muscatine, Charles. “The <hi rend="italic">Pearl</hi> Poet: Style as Defense.” In
+              <hi rend="italic">Poetry and Crisis in the Age of Chaucer</hi>. Notre Dame: University
+            of Notre Dame Press, 1972. Pp. 37–69. [Discussion of poet’s detachment from contemporary
+            history and poem’s fusion of courtly and religious values.]</bibl>
+          <bibl>Nicholls, Jonathan. <hi rend="italic">The Matter of Courtesy: Medieval Courtesy
+              Books and the Gawain-Poet</hi>. Woodbridge, Suffolk: D. S. Brewer, 1985. [Courtesy
+            books in the Middle Ages; short analysis of conflicting codes of courteous conduct in
+              <hi rend="italic">Pearl</hi>.]</bibl>
+          <bibl>Nolan, Barbara. <hi rend="italic">The Gothic Visionary Perspective</hi>. Princeton:
+            Princeton University Press, 1977. [<hi rend="italic">Pearl</hi> as visionary quest;
+            vision and “visionary perspective” as central Gothic tropes.]</bibl>
+          <bibl>Olmert, Michael. “Game-Playing, Moral Purpose, and the Structure of <hi
+              rend="italic">Pearl</hi>.” <hi rend="italic">Chaucer Review</hi> 21 (1987), 383–403.
+              [<hi rend="italic">Pearl</hi> and language of games; influence of medieval board
+            games.]</bibl>
+          <bibl>Osberg, Richard. “The Prosody of Middle English <hi rend="italic">Pearl</hi> and the
+            Alliterative Lyric Tradition.” In <hi rend="italic">English Historical Metrics</hi>. Ed.
+            C. B. McCully and J. J. Anderson. Cambridge: Cambridge University Press, 1996. Pp.
+            150–74. [Derivation of poem from alliterative long line or from French metered poetry;
+            argues that half-line composition of <hi rend="italic">Pearl</hi> similar to
+            alliterative Harley lyrics.]</bibl>
+          <bibl>Patch, Howard R. <hi rend="italic">The Other World, According to Descriptions in
+              Medieval Literature</hi>. Cambridge, MA: Harvard University Press, 1950. [General
+            study of topos of other world.]</bibl>
+          <bibl>Peck, Russell A., “Number as Cosmic Language.” In <hi rend="italic">Essays in the
+              Numerical Criticism of Medieval Literature</hi>. Ed. Carolyn D. Eckhardt. Lewisburg,
+            PA: Bucknell University Press, 1980. Pp. 15–64. [Boethian and Augustinian number
+            symbolism, with application to <hi rend="italic">Pearl</hi> (pp. 44–51, 58–64).]</bibl>
+          <bibl>Phillips, Heather. “The Eucharistic Allusions of <hi rend="italic">Pearl</hi>.” <hi
+              rend="italic">Medieval Studies</hi> 47 (1985), 474–86. [Liturgical references;
+            unfolding of poem imitates process of the mass, with pearl as Eucharistic wafer.]</bibl>
+          <bibl>Prior, Sandra Pierson. <hi rend="italic">The Fayre Formez of the Pearl Poet</hi>.
+            East Lansing: Michigan State University Press, 1996. [Biblical sources of imagery; <hi
+              rend="italic">Pearl</hi> chapter addresses lamb and enthroned God.]</bibl>
+          <bibl>Putter, Ad. <hi rend="italic">Introduction to the Gawain-Poet</hi>. London: Longman,
+            1996. [<hi rend="italic">Pearl</hi>’s narrative evasiveness; poem’s continental
+            analogues.]</bibl>
+          <bibl>Reed, Teresa P. “Mary, the Maiden, and Metonymy in <hi rend="italic">Pearl</hi>.”
+              <hi rend="italic">South Atlantic Review</hi> 65 (2000), 134–62. [Symbolism of Mary as
+            metonym for pearl.]</bibl>
+          <bibl>Reichardt, Paul F. “ ‘Several Illuminations, Coarsely Executed’: The Illustrations
+            of the <hi rend="italic">Pearl</hi> Manuscript.” <hi rend="italic">Studies in
+              Iconography</hi> 18 (1997), 119–142. [Revises critical deprecation of manuscript
+            illustrations to argue that sequence possesses significant coherence of content and
+            design.]</bibl>
+          <bibl>Rhodes, James. “The Dreamer Redeemed: Exile and the Kingdom in the Middle English
+            Poem <hi rend="italic">Pearl</hi>.” <hi rend="italic">Studies in the Age of Chaucer</hi>
+            16 (1994), 119–42. [Reading of debate section in terms of Bakhtinian dialogics, locating
+            dreamer’s voice in context of late medieval views on justification and
+            salvation.]</bibl>
+          <bibl>Riddy, Felicity. “Jewels in <hi rend="italic">Pearl</hi>.” In Brewer and Gibson. Pp.
+            143–55. [Discussion of pearls, gems, jewelers; also patronage for art works.]</bibl>
+          <bibl>Robertson, D. W., Jr. “The ‘Heresy’ of <hi rend="italic">The Pearl</hi>.” <hi
+              rend="italic">Modern Language Notes</hi> 65 (1950), 152–55. Rpt. in Conley. Pp.
+            291–96. [Exegetical explication of parable of vineyard and defense of its
+            orthodoxy.]</bibl>
+          <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Pearl as a Symbol.” <hi rend="italic">Modern
+              Language Notes</hi> 65 (1950), 144–61. Rpt. in Conley. Pp. 18–26. [Symbolism of pearl
+            and reading according to four-fold allegorical method.]</bibl>
+          <bibl>Røstvig, Maren-Sofie. “Numerical Composition in <hi rend="italic">Pearl</hi>: A
+            Theory.” <hi rend="italic">English Studies</hi> 48 (1967), 326–32. [Study of number and
+            number symbolism.]</bibl>
+          <bibl>Russell, Stephen J. <hi rend="italic">The English Dream Vision: Anatomy of a
+              Form</hi>. Columbus: Ohio State University Press, 1988. Pp. 159–74. [Contextualizing
+            of poem within dream-vision form; <hi rend="italic">Pearl</hi> and instability of
+            language.]</bibl>
+          <bibl>Shoaf, R. A. “<hi rend="italic">Purgatorio</hi> and <hi rend="italic">Pearl</hi>:
+            Transgression and Transcendence.” <hi rend="italic">Texas Studies in Literature and
+              Language</hi> 32 (1990), 152–68. [Compares endings of <hi rend="italic"
+              >Purgatorio</hi> and <hi rend="italic">Pearl</hi>, especially fording of Lethe and
+            dreamer’s attempt to cross the stream.]</bibl>
+          <bibl>Silar, Theodore I. “An Analysis of the Legal Sense of the Word <hi rend="italic"
+              >fyn</hi> (<hi rend="italic">finalis concordia</hi>) in <hi rend="italic">Piers
+              Plowman</hi>, <hi rend="italic">Sir Gawain and the Green Knight</hi>, <hi
+              rend="italic">Pearl</hi>, Chaucer’s Works, and Especially the Ending of <hi
+              rend="italic">Troilus and Criseyde</hi>.” <hi rend="italic">Chaucer Review</hi> 32
+            (1998), 282–309. [Poem’s legal puns; review of scholarship on poem’s use of legal
+            language.]</bibl>
+          <bibl>Sklute, Larry M. “Expectation and Fulfillment in <hi rend="italic">Pearl</hi>.” <hi
+              rend="italic">Philological Quarterly</hi> 52 (1973), 663–79. [Narrative trajectory
+            informed by reader’s identification and frustration with narrator.]</bibl>
+          <bibl>Spearing, A. C. “Symbolic and Dramatic Development in <hi rend="italic">Pearl</hi>.”
+              <hi rend="italic">Modern Philology</hi> 60 (1962), 1–12. Rpt. in Blanch. Pp. 98–119.
+            [Dramatic rather than allegorical reading of pearl, arguing that pearl transforms as
+            narrator changes.]</bibl>
+          <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Gawain-Poet: A Critical
+              Study</hi>. Cambridge: Cambridge University Press, 1970. [Important general study; <hi
+              rend="italic">Pearl</hi> chapter explores use of visual arts; dramatic progress of
+            narrator; sources of topoi.]</bibl>
+          <bibl>Staley, Lynn. <hi rend="italic">The Voice of the Gawain-Poet</hi>. Madison:
+            University of Wisconsin Press, 1984. [Exegetically informed study of the four poems of
+            Cotton Nero A.x.]</bibl>
+          <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “<hi rend="italic">Pearl</hi> and the
+            Contingencies of Love and Piety.” In <hi rend="italic">Medieval Literature and
+              Historical Inquiry</hi>. Ed. David Aers. Woodbridge, Suffolk: D. S. Brewer, 2000. Pp.
+            83–114. [Builds case for identifying narrator as Thomas of Woodstock and the <hi
+              rend="italic">Pearl</hi>-maiden as Isabel, his daughter, and for reading poem as
+            commemorative elegy on her entrance into house of Minoresses in London. Examination of
+            cultural patronage.]</bibl>
+          <bibl>Stanbury, Sarah. <hi rend="italic">Seeing the Gawain-Poet: Description and the Act
+              of Perception</hi>. Philadelphia: University of Pennsylvania Press, 1991. [Techniques
+            of focalized gaze in poems of Cotton Nero A.x.]</bibl>
+          <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Feminist Masterplots: The Gaze on the Body of
+              <hi rend="italic">Pearl</hi>’s Dead Girl.” In <hi rend="italic">Feminist Approaches to
+              the Body in Medieval Literature</hi>. Ed. Linda Lomperis and Sarah Stanbury.
+            Philadelphia: University of Pennsylvania Press, 1993. Pp. 96–115. [Gendered narrative
+            gaze of poem in relation to feminist film theory.]</bibl>
+          <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Body and the City in <hi rend="italic"
+              >Pearl</hi>.” <hi rend="italic">Representations</hi> 47 (1994), 271–85.
+            [Psychoanalytic, exegetical, and phenomenological frameworks for mourning as gendered
+            narrative, centered around tropes of Jerusalem as mother.]</bibl>
+          <bibl>Stern, Milton R. “An Approach to <hi rend="italic">The Pearl</hi>.” <hi
+              rend="italic">JEGP</hi> 54 (1955), 684–92. Rpt. in Conley. Pp. 73–85. [Four-fold
+            allegorical method; symbolism of gems and flowers.]</bibl>
+          <bibl>Thorpe, Douglas. <hi rend="italic">A New Earth: The Labor of Language in Pearl,
+              Herbert’s Temple, and Blake’s Jerusalem</hi>. Washington: Catholic University of
+            America Press, 1991. Pp. 27–72. [New Testament parables as source for poem’s
+            metaphorical language and “sacramental poetics.”]</bibl>
+          <bibl>Tomasch, Sylvia. “A <hi rend="italic">Pearl</hi> Punnology.” <hi rend="italic"
+              >JEGP</hi> 88 (1989), 1–20. [Argues that grammar and language underwrite idea of
+            interconnectedness; in-depth analysis of “spot.”]</bibl>
+          <bibl>Turville-Petre, Thorlac. “The <hi rend="italic">Pearl</hi>-Poet in His ‘Fayre
+            Regioun.’” In <hi rend="italic">Essays on Ricardian Literature in Honour of J. A.
+              Burrow</hi>. Ed. Alastair J. Minnis, Charlotte C. Morse, and Thorlac Turville-Petre.
+            Oxford: Clarendon Press, 1997. Pp. 276–94. [Debate over regional versus national poetry
+            in late fourteenth century; <hi rend="italic">Pearl</hi> non-metropolitan (non-London),
+            but less regional than other Cotton Nero A.x. poems.]</bibl>
+          <bibl>Vance, Eugene. “<hi rend="italic">Pearl</hi>: Love and the Poetics of
+            Participation.” In <hi rend="italic">Poetics: Theory and Practice in Medieval English
+              Literature</hi>. Ed. Piero Boitani and Anna Torti. Cambridge: Cambridge University
+            Press. Pp. 131–49. [Theology of participation in <hi rend="italic">Pearl</hi> as well as
+            in Grosseteste, Augustine, Pseudo-Dionysius, and Plotinus.]</bibl>
+          <bibl>Vantuono, William. “<hi rend="italic">Patience</hi>, <hi rend="italic"
+              >Cleanness</hi>, <hi rend="italic">Pearl</hi>, and <hi rend="italic">Gawain</hi>: The
+            Case for Common Authorship.” <hi rend="italic">Annuale Mediaevale</hi> 12 (1971), 37–69.
+            [Evidence based on language, imagery, and structure.]</bibl>
+          <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “John de Mascy of Sale and the <hi rend="italic"
+              >Pearl</hi> Poems.” <hi rend="italic">Manuscripta</hi> 25 (1981), 77–88. [Controversy
+            about authorship; evidence for John de Mascy’s candidacy.]</bibl>
+          <bibl>Watkins, John. “‘Sengeley in Synglere’: <hi rend="italic">Pearl</hi> and Late
+            Medieval Individualism.” <hi rend="italic">Chaucer Yearbook</hi> 2 (1995), 117–36. [Text
+            and late Ricardian social concerns; Parable of Vineyard and Statute of Laborers.]</bibl>
+          <bibl>Watson, Nicholas. “The <hi rend="italic">Gawain</hi>-Poet as Vernacular Theologian.”
+            In Brewer and Gibson. Pp. 293–313. [<hi rend="italic">Pearl</hi> and contemporary
+            vernacular religious instruction; poem’s economy of salvation as “aristocratized
+            theology” privileging lay gentry over career religious.]</bibl>
+          <bibl>Watts, Ann Chalmers. “<hi rend="italic">Pearl</hi>, Inexpressibility, and Poems of
+            Human Loss.” <hi rend="italic">PMLA</hi> 99 (1984), 26–40. [Poem’s reiterated motif of
+            inexpressible loss as enduring literary topos.]</bibl>
+          <bibl>Whitaker, Muriel. “<hi rend="italic">Pearl</hi> and some Illustrated Apocalypse
+            Manuscripts.” <hi rend="italic">Viator</hi> 12 (1981), 183–201. [Well-illustrated
+            examination of illuminated apocalypse manuscripts that may have served as sources for
+            poem.]</bibl>
+          <bibl>Wilson, Edward. “Word Play and the Interpretation of <hi rend="italic">Pearl</hi>.”
+              <hi rend="italic">Medium Aevum</hi> 40 (1971), 116–34. [Poem’s language and verbal
+            echoes as literal rather than allegorical experience.]</bibl>
+          <bibl>Wimsatt, James I. <hi rend="italic">Allegory and Mirror: Tradition and Structure in
+              Middle English Literature</hi>. New York: Pegasus, 1970. [<hi rend="italic">Pearl</hi>
+            and <hi rend="italic">Divine Comedy</hi>; literary analogues of <hi rend="italic"
+              >Pearl</hi>-maiden in marguerite poems; <hi rend="italic">Pearl</hi> and medieval
+            allegory.] </bibl>
+        </listBibl>
+      </div>
+    </body>
+  </text>
+</TEI>

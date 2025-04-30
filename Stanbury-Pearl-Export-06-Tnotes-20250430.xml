@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Stanbury-Pearl-Export-06-Tnotes-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Textual Notes</title>
+        <author>Stanbury, Sarah</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Amster, Mara I.</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-04" to="2025-05">Audited documents prior to print/export</resp>
+          <resp from="2025-04" to="2025-04">Collected metadata</resp>
+          <resp from="2025-01" to="2025-02">Copyedited and proofread</resp>
+          <resp from="2025-04" to="2025-05">Encoded TEI</resp>
+          <resp from="2025-04" to="2025-04">Ensured adherence to METS Style Guide</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-01" to="2025-04">Entered corrections for digital edition</resp>
+          <resp from="2025-01" to="2025-02">Entered corrections for print edition</resp>
+          <resp from="2025-01" to="2025-02">Formatted for print edition</resp>
+          <resp from="2025-01" to="2025-04">Formatted for XML export</resp>
+          <resp from="2025-05" to="2025-05">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2024-02" to="2024-02">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Symons, Dana M.</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Mara I. Amster</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John William Sutton</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Dana M. Symons</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Assistant Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Stanbury, Sarah</editor>
+            <title>Pearl</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2001</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/stanbury-pearl/blob/main/stanbury-pearl-export-corrections-log.docx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 2001</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Stanbury-Pearl-Export-06-Tnotes"/>
+      <div type="text">
+        <note type="tnote" n="1">8<space rend="indent1"/><hi rend="italic">synglure</hi>. I.e.,
+          “unique.” A and Gor emend to <hi rend="italic">synglere</hi>; G to <hi rend="italic"
+            >syngulere</hi>. I follow the MS reading, since <hi rend="italic">-ure</hi> rhymes with
+            <hi rend="italic">-ere</hi> in words of French origin, as H notes.</note>
+        <note type="tnote" n="2">11<space rend="indent1"/><hi rend="italic">fordolked</hi>. G emends
+          to <hi rend="italic">fordokked</hi>.</note>
+        <note type="tnote" n="3">17<space rend="indent1"/><hi rend="italic">herte</hi>. MS: <hi
+            rend="italic">hert</hi>. G also emends for the sake of meter.</note>
+        <note type="tnote" n="4">25<space rend="indent1"/><hi rend="italic">mot</hi>. In the MS only
+          the <hi rend="italic">t</hi> is clear. Editors have emended to <hi rend="italic"
+          >mot</hi>.</note>
+        <note type="tnote" n="5">26<space rend="indent1"/><hi rend="italic">runne</hi>. MS: <hi
+            rend="italic">ru</hi><hi rend="italic">n̄</hi><hi rend="italic">en</hi> (<hi
+            rend="italic">runnen</hi>). Editors, except V, emend.</note>
+        <note type="tnote" n="6">35<space rend="indent1"/><hi rend="italic">spryngande</hi>. MS: <hi
+            rend="italic">sprygande</hi>. I accord with A, AW, G, and Gor who emend to <hi
+            rend="italic">spryngande</hi>; H and V retain MS reading and divide <hi rend="italic"
+            >spryg ande</hi>.</note>
+        <note type="tnote" n="7">46<space rend="indent1"/><hi rend="italic">fayr reflayr</hi>. AW
+          suggest that word division in the MS is unreliable and that <hi rend="italic">fayrre
+            flayr</hi>, the conditional/comparative construction gives a more logical reading. But
+            <hi rend="italic">Cleanness</hi>, line 1079, gives “Þer watȝ rose reflayr where rote
+          hatȝ ben ever,” which suggests that the MS reading in <hi rend="italic">Pearl</hi> is
+          probably correct. See <hi rend="italic">MED</hi>
+          <hi rend="italic">reflair(e)</hi> n.</note>
+        <note type="tnote" n="8">49<space rend="indent1"/><hi rend="italic">spenned</hi>. MS: <hi
+            rend="italic">spe</hi><hi rend="italic">n̄</hi><hi rend="italic">d</hi> (<hi
+            rend="italic">spennd</hi>). V reads <hi rend="italic">spenud</hi>; AW retain <hi
+            rend="italic">spennd</hi>.</note>
+        <note type="tnote" n="9">53<space rend="indent1"/><hi rend="italic">penned</hi>. MS: <hi
+            rend="italic">spe</hi><hi rend="italic">n̄</hi><hi rend="italic">ed</hi> (<hi
+            rend="italic">spenned</hi>). I follow AW and G in emending to <hi rend="italic"
+            >penned</hi> (“imprisoned”) on the basis of alliteration and the grounds that the poet
+          normally avoids repeating rhymes.</note>
+        <note type="tnote" n="10">54<space rend="indent1"/><hi rend="italic">fyrce</hi>. MS: <hi
+            rend="italic">fyrte</hi>. Editors, except H and V, emend. See note to line 675.</note>
+        <note type="tnote" n="11">60<space rend="indent1"/><hi rend="italic">precios</hi>. MS: <hi
+            rend="italic">p<hi rend="superscript">9</hi>cos</hi> (<hi
+            rend="italic">precos</hi>). Editors, except V, emend.</note>
+        <note type="tnote" n="12">68<space rend="indent1"/><hi rend="italic">ryche</hi>. MS: <hi
+            rend="italic">rych</hi>. G also emends.</note>
+        <note type="tnote" n="13">72<space rend="indent1"/><hi rend="italic">adubbemente</hi>. MS:
+            <hi rend="italic">adubmente</hi>. My emendation accords with AW, G, and Gor. A and V
+          emend to <hi rend="italic">adubbement</hi>.</note>
+        <note type="tnote" n="14">77<space rend="indent1"/><hi rend="italic">on slydes</hi>. MS: <hi
+            rend="italic">onslydeȝ</hi>. My reading agrees with A, AW, and Gor, who read as two
+          separate words, “slide over each other.”</note>
+        <note type="tnote" n="15">81<space rend="indent1"/><hi rend="italic">gravayl that</hi>. G
+          emends to <hi rend="italic">gravayl that I</hi>.</note>
+        <note type="tnote" n="16">89<space rend="indent1"/><hi rend="italic">flowen</hi>. MS: <hi
+            rend="italic">floyen</hi>, with <hi rend="italic">y</hi> changed to <hi rend="italic"
+            >w</hi> by scribe.</note>
+        <note type="tnote" n="17">95<space rend="indent1"/><hi rend="italic">gracios</hi>. MS: <hi
+            rend="italic">gracos</hi>. Editors, except V, emend.</note>
+        <note type="tnote" n="18">103<space rend="indent1"/><hi rend="italic">feier</hi>. G and H
+          emend to <hi rend="italic">feirer</hi>.</note>
+        <note type="tnote" n="19">106<space rend="indent1"/><hi rend="italic">bukes</hi>. Editors,
+          except V, have emended as <hi rend="italic">bonkes</hi>. The word in the MS is either <hi
+            rend="italic">bukes</hi> or <hi rend="italic">bnkes</hi>. Although <hi rend="italic"
+            >u</hi> and <hi rend="italic">n</hi> are virtually indistinguishable in the MS, editors
+          have added <hi rend="italic">o</hi> to read <hi rend="italic">bonkes</hi>, “steep banks.”
+          V argues for a reading of <hi rend="italic">bukes</hi> as variant spelling of <hi
+            rend="italic">bek</hi>, “small stream.” Streams sparkling as spun gold makes far more
+          sense than river banks sparkling.</note>
+        <note type="tnote" n="20">113<space rend="indent1"/><hi rend="italic">stonden</hi>. AW emend
+          to <hi rend="italic">stoden</hi>, “shone.”</note>
+        <note type="tnote" n="21">115<space rend="indent1"/><hi rend="italic">As</hi>. MS: <hi
+            rend="italic">a</hi>. Editors, except V, emend.</note>
+        <note type="tnote" n="22">119<space rend="indent1"/><hi rend="italic">alle</hi>. H emends to
+            <hi rend="italic">all</hi>.</note>
+        <note type="tnote" n="23">122<space rend="indent1"/><hi rend="italic">wlonke</hi>. MS: <hi
+            rend="italic">wlonk</hi>. G also emends.</note>
+        <note type="tnote" n="24">131<space rend="indent1"/><hi rend="italic">waynes</hi>. H reads
+          as “gains”: “the mortal for whom she gains her intent.”</note>
+        <note type="tnote" n="25">134<space rend="indent1"/><hi rend="italic">I tom</hi>. G emends
+          to <hi rend="italic">tom I</hi>.</note>
+        <note type="tnote" n="26">138<space rend="indent1"/><hi rend="italic">over</hi>. MS: <hi
+            rend="italic">oþ<hi rend="superscript">9</hi></hi> (<hi rend="italic">other</hi>).
+          Editors emend to <hi rend="italic">over</hi>, except H and V, who retain MS
+          reading.</note>
+        <note type="tnote" n="27">142<space rend="indent1"/><hi rend="italic">hoped</hi>. MS: <hi
+            rend="italic">hope</hi>. Editors, except H and V, emend.</note>
+        <note type="tnote" n="28">144<space rend="indent1"/><hi rend="italic">ay</hi>. MS: <hi
+            rend="italic">a</hi>. Editors, except H and V, emend.</note>
+        <note type="tnote" n="29">154<space rend="indent1"/><hi rend="italic">wo</hi>. G emends to
+            <hi rend="italic">wothe</hi>.</note>
+        <note type="tnote" n="30">166<space rend="indent1"/><hi rend="italic">schore</hi>. Gor
+          emends to <hi rend="italic">shore</hi>.</note>
+        <note type="tnote" n="31">179<space rend="indent1"/><hi rend="italic">astount</hi>. MS: <hi
+            rend="italic">atount</hi>. I follow AW and G in emending to <hi rend="italic"
+            >astount</hi> on the basis of alliteration.</note>
+        <note type="tnote" n="32">185<space rend="indent1"/><hi rend="italic">hoped</hi>. MS: <hi
+            rend="italic">hope</hi>. Editors, except H and V, emend.</note>
+        <note type="tnote" n="33">192<space rend="indent1"/><hi rend="italic">precios</hi>. MS: <hi
+            rend="italic">p<hi rend="superscript">9</hi>cos</hi> (<hi
+            rend="italic">precos</hi>). Editors, except V, emend.</note>
+        <note type="tnote" n="34">200<space rend="indent1"/><hi rend="italic">yyen</hi>. G and Gor
+          emend to <hi rend="italic">ene</hi>.</note>
+        <note type="tnote" n="35">225<space rend="indent1"/><hi rend="italic">tonge</hi>. MS: <hi
+            rend="italic">tong</hi>. G also emends.</note>
+        <note type="tnote" n="36">229<space rend="indent1"/><hi rend="italic">pyse</hi>. G and Gor
+          emend to <hi rend="italic">pyece</hi>; H to <hi rend="italic">pece</hi>.</note>
+        <note type="tnote" n="37">241<space rend="indent1"/><hi rend="italic">quoth</hi>. Gor and H
+          render as <hi rend="italic">quod</hi>. The manuscript abbreviation for this word gives no
+          indication of present or past tense. I expand throughout to <hi rend="italic"
+          >quoth</hi>.</note>
+        <note type="tnote" n="38">244<space rend="indent1"/><hi rend="italic">thee</hi>. MS: <hi
+            rend="italic">þe</hi>. I have followed METS policy of differentiating the pronoun from
+          the article on grounds that they were probably pronounced differently in the fourteenth
+          century; so too in lines 263, 266, 267, 268, 274, 316, 341, 343, 385, 397, 402, 474, 558,
+          560, 700, 707, 743, 747, 764, 910, 967, 973, 975, and 1199.</note>
+        <note type="tnote" n="39">252<space rend="indent1"/><hi rend="italic">jueler</hi>. MS: <hi
+            rend="italic">juelere</hi>. I have emended so that the spelling corresponds with the
+          other end-words of stanzas in this fitt.</note>
+        <note type="tnote" n="40">262<space rend="indent1"/><hi rend="italic">nee</hi>. G emends to
+            <hi rend="italic">ne</hi>.</note>
+        <note type="tnote" n="41"><space rend="indent1"/><hi rend="italic">nere</hi>. MS: <hi
+            rend="italic">here</hi>. H and V retain <hi rend="italic">here</hi>. I follow A, AW, G,
+          and Gor in emending for logic.</note>
+        <note type="tnote" n="42">286<space rend="indent1"/><hi rend="italic">broght</hi>. MS: <hi
+            rend="italic">bro</hi><hi rend="italic">ȝ</hi>. Editors, except V, emend.</note>
+        <note type="tnote" n="43"><space rend="indent1"/><hi rend="italic">blysse</hi>. MS: <hi
+            rend="italic">blys</hi>. G also emends.</note>
+        <note type="tnote" n="44">288<space rend="indent1"/><hi rend="italic">joyfol</hi>. Gor reads
+            <hi rend="italic">ioyful</hi>.</note>
+        <note type="tnote" n="45">302<space rend="indent1"/><hi rend="italic">loves</hi>. Most
+          editors emend to <hi rend="italic">leves</hi> (“believes”) here and in line 308. I agree
+          with V in retaining MS <hi rend="italic">loueȝ</hi>. The dreamer’s love of the visible
+          world is central to the story. As V notes, <hi rend="italic">loves</hi> also builds
+          effective word-play with the two uses of <hi rend="italic">leve</hi> in the stanza.</note>
+        <note type="tnote" n="46">319<space rend="indent1"/><hi rend="italic">counsayle</hi>. MS:
+            <hi rend="italic">coūsayl</hi> (<hi rend="italic">counsayl</hi>). G’s emendation,
+          followed by Gor.</note>
+        <note type="tnote" n="47">323<space rend="indent1"/><hi rend="italic">man</hi>. MS: <hi
+            rend="italic">ma</hi>. G, H, and V do not emend.</note>
+        <note type="tnote" n="48">331<space rend="indent1"/><hi rend="italic">gares</hi>. G emends
+          to <hi rend="italic">gare</hi>.</note>
+        <note type="tnote" n="49">335<space rend="indent1"/><hi rend="italic">perle</hi>. MS: <hi
+            rend="italic">perleȝ</hi>. Editors, except H, emend.</note>
+        <note type="tnote" n="50">342<space rend="indent1"/><hi rend="italic">in wele </hi><hi
+            rend="italic">and wo</hi>. MS: <hi rend="italic">&amp; wele &amp; wo</hi>. Editors,
+          except V, emend.</note>
+        <note type="tnote" n="51">353<space rend="indent1"/><hi rend="italic">Stynst</hi>. A, AW, G,
+          and Gor emend to <hi rend="italic">stynt</hi>. As G notes, the scribe also used a similar
+          form in <hi rend="italic">Cleanness</hi>, line 359. V cites H. L. Savage’s review of
+          Gordon’s edition of <hi rend="italic">Pearl</hi> (<hi rend="italic">MLN</hi> 71 [1956],
+          127), who argues that <hi rend="italic">stynst</hi> is a correct form.</note>
+        <note type="tnote" n="52">358<space rend="indent1"/><hi rend="italic">And thy</hi>. G emends
+          to <hi rend="italic">that alle thy</hi>.</note>
+        <note type="tnote" n="53"><space rend="indent1"/><hi rend="italic">fleme</hi>. MS: <hi
+            rend="italic">leme</hi>. Along with A, C, and AW, I follow Gor’s emendation to <hi
+            rend="italic">fleme</hi>, “banish.” Other editors retain <hi rend="italic">leme</hi>,
+          “And through thy losses gently gleam” (H).</note>
+        <note type="tnote" n="54">359<space rend="indent1"/><hi rend="italic">marre</hi>. G emends
+          to <hi rend="italic">marred</hi>.</note>
+        <note type="tnote" n="55">363<space rend="indent1"/><hi rend="italic">rapely I rave</hi>.
+          MS: <hi rend="italic">rapely</hi><hi rend="italic"> raue</hi>. Editors, except V,
+          emend.</note>
+        <note type="tnote" n="56">369<space rend="indent1"/><hi rend="italic">kythes</hi>. MS: <hi
+            rend="italic">lyþeȝ</hi>. Following G, editors, except H and V, emend.</note>
+        <note type="tnote" n="57">381<space rend="indent1"/><hi rend="italic">carpe</hi>. MS: <hi
+            rend="italic">carp</hi>. G also emends.</note>
+        <note type="tnote" n="58">382<space rend="indent1"/><hi rend="italic">maneres</hi>. MS: <hi
+            rend="italic">marereȝ</hi>. G emends to <hi rend="italic">maneres</hi>, “manners,” and
+          is followed by A, AW, and Gor. H derives <hi rend="italic">mareres</hi> from <hi
+            rend="italic">mare res</hi>, “great eloquence”; V retains <hi rend="italic"
+          >mareres</hi>, “vitality,” as variant spelling of <hi rend="italic">marrow</hi>.</note>
+        <note type="tnote" n="59">396<space rend="indent1"/><hi rend="italic">in</hi>. A emends to
+            <hi rend="italic">and</hi>.</note>
+        <note type="tnote" n="60">399<space rend="indent1"/><hi rend="italic">byde</hi>. V reads as
+            <hi rend="italic">uyde</hi>, “wade.”</note>
+        <note type="tnote" n="61">418<space rend="indent1"/><hi rend="italic">Hys lef</hi><hi
+            rend="italic"> is</hi>. For logic there must be a stop, however unusual the mid-line
+          caesura, following <hi rend="italic">is</hi>.</note>
+        <note type="tnote" n="62">426<space rend="indent1"/><hi rend="italic">vyrgyn flour</hi>. H
+          emends to <hi rend="italic">vyrgynflor</hi>.</note>
+        <note type="tnote" n="63">433<space rend="indent1"/><hi rend="italic">sayde</hi>. MS: <hi
+            rend="italic">syde</hi>. Editors, except V, emend.</note>
+        <note type="tnote" n="64">441<space rend="indent1"/><hi rend="italic">hevens</hi>. H emends
+          to <hi rend="italic">hevenes</hi>.</note>
+        <note type="tnote" n="65">460<space rend="indent1"/><hi rend="italic">tryste</hi>. MS: <hi
+            rend="italic">tyste</hi>. Editors, except V, emend.</note>
+        <note type="tnote" n="66">461<space rend="indent1"/><hi rend="italic">sawle</hi>. MS: <hi
+            rend="italic">sawhe</hi>. Editors emend, though V claims that MS indicates correction to
+            <hi rend="italic">sawle</hi>.</note>
+        <note type="tnote" n="67">469<space rend="indent1"/><hi rend="italic">Cortaysé</hi>. G
+          emends to <hi rend="italic">cortaysye</hi>.</note>
+        <note type="tnote" n="68">472<space rend="indent1"/>Line missing in MS. G supplies, <hi
+            rend="italic">Me thynk thou spekes now ful</hi><hi rend="italic"> wronge</hi>, and V
+          suggests, <hi rend="italic">To speke of a new note</hi><hi rend="italic"> I
+          long</hi>.</note>
+        <note type="tnote" n="69">479<space rend="indent1"/><hi rend="italic">he</hi>. MS: <hi
+            rend="italic">ho</hi>. Editors, except V, emend.</note>
+        <note type="tnote" n="70">480<space rend="indent1"/><hi rend="italic">cortaysé</hi>. G
+          emends to <hi rend="italic">cortaysye</hi>. AW and H read <hi rend="italic">cortayse</hi>
+          as a noun, “courteous one.”</note>
+        <note type="tnote" n="71">486<space rend="indent1"/><hi rend="italic">fyrste</hi>. MS: <hi
+            rend="italic">fyrst</hi>. G also emends.</note>
+        <note type="tnote" n="72">499<space rend="indent1"/><hi rend="italic">In sample</hi>. G and
+          V join words as <hi rend="italic">insample</hi> for <hi rend="italic">ensample</hi>,
+          “parable.”</note>
+        <note type="tnote" n="73">505<space rend="indent1"/><hi rend="italic">thys</hi>. G emends to
+            <hi rend="italic">hys</hi>.</note>
+        <note type="tnote" n="74">510<space rend="indent1"/><hi rend="italic">pené on a day</hi>. G
+          omits <hi rend="italic">on</hi>.</note>
+        <note type="tnote" n="75">523<space rend="indent1"/><hi rend="italic">resonabele</hi>. G
+          emends to <hi rend="italic">resnabele</hi>.</note>
+        <note type="tnote" n="76">524<space rend="indent1"/><hi rend="italic">pay</hi>. MS: <hi
+            rend="italic">pray</hi>. Editors, except H and V, emend.</note>
+        <note type="tnote" n="77">527<space rend="indent1"/><hi rend="italic">nw</hi>. G emends to
+            <hi rend="italic">new</hi>.</note>
+        <note type="tnote" n="78">529<space rend="indent1"/><hi rend="italic">date of day</hi>. MS:
+            <hi rend="italic">day of date</hi>. Editors, except V, emend.</note>
+        <note type="tnote" n="79">532<space rend="indent1"/><hi rend="italic">hem</hi>. MS: <hi
+            rend="italic">hen</hi>. Editors, except V, emend.</note>
+        <note type="tnote" n="80">535<space rend="indent1"/><hi rend="italic">yemen</hi>. Editors,
+          except V (<hi rend="italic">ye men</hi>), write as one word.</note>
+        <note type="tnote" n="81">538<space rend="indent1"/><hi rend="italic">and</hi>. MS: <hi
+            rend="italic">&amp; &amp;</hi>. H and V retain <hi rend="italic">and and</hi>, “and
+          when.”</note>
+        <note type="tnote" n="82">542<space rend="indent1"/><hi rend="italic">meyny</hi>. G emends
+          to <hi rend="italic">meny</hi>.</note>
+        <note type="tnote" n="83">543<space rend="indent1"/><hi rend="italic">owe</hi>. G emends to
+            <hi rend="italic">awe</hi>.</note>
+        <note type="tnote" n="84">544<space rend="indent1"/><hi rend="italic">reprené</hi>. G emends
+          to <hi rend="italic">repreny</hi>.</note>
+        <note type="tnote" n="85">547<space rend="indent1"/><hi rend="italic">lowe</hi>. G emends to
+            <hi rend="italic">lawe</hi>.</note>
+        <note type="tnote" n="86">550<space rend="indent1"/><hi rend="italic">hade</hi>. H emends to
+            <hi rend="italic">had</hi>.</note>
+        <note type="tnote" n="87">557<space rend="indent1"/><hi rend="italic">on</hi>. MS: <hi
+            rend="italic">om</hi>, with the third minim crossed out.</note>
+        <note type="tnote" n="88">558<space rend="indent1"/><hi rend="italic">waning</hi>. MS: <hi
+            rend="italic">wanig</hi>. Editors, except H, emend.</note>
+        <note type="tnote" n="89">564<space rend="indent1"/><hi rend="italic">aske</hi>. MS: <hi
+            rend="italic">ask</hi>. G also emends.</note>
+        <note type="tnote" n="90">565<space rend="indent1"/><hi rend="italic">louyly</hi>. G emends
+          to <hi rend="italic">leuyly</hi>.</note>
+        <note type="tnote" n="91">572<space rend="indent1"/><hi rend="italic">called</hi>. MS: <hi
+            rend="italic">calle</hi>. Editors, except H and V, emend.</note>
+        <note type="tnote" n="92">574<space rend="indent1"/><hi rend="italic">wore</hi>. I follow
+          V’s reading of MS <hi rend="italic">wore</hi> as variant of <hi rend="italic">ware</hi>,
+          “expend.” Other editors have translated as past of verb “to be,” i.e., “were.”</note>
+        <note type="tnote" n="93">586<space rend="indent1"/><hi rend="italic">longe</hi>. MS: <hi
+            rend="italic">long</hi>. G also emends.</note>
+        <note type="tnote" n="94">596<space rend="indent1"/><hi rend="italic">pertermynable</hi>. G,
+          Gor, and H expand the abbreviation to read <hi rend="italic">pretermynable</hi>.</note>
+        <note type="tnote" n="95">615<space rend="indent1"/><hi rend="italic">com</hi>. A and H
+          emend to <hi rend="italic">come</hi>.</note>
+        <note type="tnote" n="96">616<space rend="indent1"/><hi rend="italic">fere</hi>. MS: <hi
+            rend="italic">lere</hi>. G emends to <hi rend="italic">here</hi> (“wage”); H and V
+          retain MS <hi rend="italic">lere</hi> (“lure, compensation” — usually a term from
+          hunting). My reading accords with A, AW, and Gor, reading <hi rend="italic">fere</hi>
+          which carries meanings in Middle English of “company,” or “rank” or “reward.”</note>
+        <note type="tnote" n="97">630<space rend="indent1"/><hi rend="italic">niyght</hi>. G and H
+          read as <hi rend="italic">myght</hi>, which makes good sense; <hi rend="italic"
+            >niyght</hi> is more consistent with the pattern of imagery.</note>
+        <note type="tnote" n="98">635<space rend="indent1"/><hi rend="italic">hym</hi>. A, C, G, and
+          Gor emend to <hi rend="italic">hem</hi>. V points out that <hi rend="italic">hym</hi> is
+          occasionally used as the plural form in this MS.</note>
+        <note type="tnote" n="99"><space rend="indent1"/><hi rend="italic">fyrste</hi>. MS: <hi
+            rend="italic">fyrst</hi>. G also emends.</note>
+        <note type="tnote" n="100">645<space rend="indent1"/><hi rend="italic">theron com</hi>. MS:
+            <hi rend="italic">þer on com</hi>. G joins the verbal: <hi rend="italic">ther
+          oncom</hi>.</note>
+        <note type="tnote" n="101"><space rend="indent1"/><hi rend="italic">astyt</hi>. MS: <hi
+            rend="italic">as tyt</hi>. H and G write as two words; other editors, and myself, as
+          one, “immediately.”</note>
+        <note type="tnote" n="102">649<space rend="indent1"/><hi rend="italic">out</hi>. MS: <hi
+            rend="italic">out out</hi>. Editors emend.</note>
+        <note type="tnote" n="103">656<space rend="indent1"/><hi rend="italic">inne</hi>. G emends
+          to <hi rend="italic">in</hi>.</note>
+        <note type="tnote" n="104">665<space rend="indent1"/><hi rend="italic">con not</hi>. A
+          emends to <hi rend="italic">con noght</hi>.</note>
+        <note type="tnote" n="105">672<space rend="indent1"/><hi rend="italic">As</hi>. MS: <hi
+            rend="italic">at</hi>. G retains and emends: <hi rend="italic">At inoscence, is saf by
+            ryghte</hi>, “In innocence, is saved by right”; Gor emends to <hi rend="italic"
+          >And</hi>. My emendation accords with H, C, A, and AW.</note>
+        <note type="tnote" n="106">673<space rend="indent1"/><hi rend="italic">thus</hi>. MS: <hi
+            rend="italic">þ9 þ9</hi> (<hi rend="italic">thus thus</hi>). Editors emend.</note>
+        <note type="tnote" n="107">675<space rend="indent1"/><hi rend="italic">face</hi>. As V
+          notes, in MS <hi rend="italic">t</hi> and <hi rend="italic">c</hi> are often difficult to
+          distinguish. Editors have read <hi rend="italic">face</hi>. See also line 672 for editors’
+          uncertainties over “inoscent[c]e,” and also “fyrce,” line 54, where MS may read
+          “fyrte.”</note>
+        <note type="tnote" n="108">678<space rend="indent1"/><hi rend="italic">hyghe</hi>. MS: <hi
+            rend="italic">hyȝ</hi>. G also emends.</note>
+        <note type="tnote" n="109"><space rend="indent1"/><hi rend="italic">hylle</hi>. MS: <hi
+            rend="italic">hylleȝ</hi>. Editors emend.</note>
+        <note type="tnote" n="110">683<space rend="indent1"/><hi rend="italic">stepe</hi>. MS: <hi
+            rend="italic">step</hi>. G also emends.</note>
+        <note type="tnote" n="111">688<space rend="indent1"/><hi rend="italic">nieghbor</hi>. G
+          emends to <hi rend="italic">neghbor</hi>.</note>
+        <note type="tnote" n="112">690<space rend="indent1"/><hi rend="italic">How kyntly oure
+            Koyntyse hym con aquyle</hi>. MS: <hi rend="italic">how </hi><hi rend="italic">kyntly
+            oure con aquyle</hi>. Although V retains line as written in MS, most editors agree that
+          there is clearly a scribal error. AW emend: <hi rend="italic">Hym Koyntyse oure con
+            aquyle</hi>. A and Gor emend: <hi rend="italic">How Koyntise onoure con aquyle</hi>. H
+          emends: <hi rend="italic">How kyntly onore con aquyle</hi>. My emendation follows the
+          suggestion by G that the scribe dropped two words, <hi rend="italic">koyntyse hym</hi>,
+          from the middle of the line. The source of the passage is Wisdom 10:10: <hi rend="italic"
+            >Haec profugum irae fratris iustum deduxit</hi><hi rend="italic"> per vias rectas, et
+            ostendit illi regnum Dei</hi> (“She [Wisdom] conducted the just, when he fled from his
+          brother’s wrath, through the right ways, and showed him the kingdom of God”).</note>
+        <note type="tnote" n="113">698<space rend="indent1"/><hi rend="italic">sey</hi>. G and Gor
+          emend to <hi rend="italic">syz</hi>.</note>
+        <note type="tnote" n="114">700<space rend="indent1"/><hi rend="italic">For</hi>. MS: <hi
+            rend="italic">sor</hi>. All editors emend.</note>
+        <note type="tnote" n="115">701<space rend="indent1"/><hi rend="italic">com</hi>. G emends to
+            <hi rend="italic">come</hi>.</note>
+        <note type="tnote" n="116">702<space rend="indent1"/><hi rend="italic">tryed</hi>. AW and G
+          emend to <hi rend="italic">cryed</hi>, in part to further alliteration and in part to
+          avoid use of two repeating end-words in the same stanza. Yet the stanza is striking for
+          its lack of alliteration; and, as V notes, occasionally end-words are repeated within
+          stanzas, as in the repetition of “clere” in lines 735 and 737. C also follows the
+          MS.</note>
+        <note type="tnote" n="117">714<space rend="indent1"/><hi rend="italic">touch</hi>. Some
+          editors read <hi rend="italic">touth</hi>, then emend. But see note to line 675.</note>
+        <note type="tnote" n="118">715<space rend="indent1"/><hi rend="italic">hym</hi>. A, G, and
+          Gor emend to <hi rend="italic">hem</hi>. Most editors read <hi rend="italic">hym</hi> as
+          legitimate variant spelling for “them,” i.e., the people bringing their children to be
+          healed by Christ’s touch. My reading of syntax and punctuation in this line accords with
+          AW. Other editors translate the line with indirect speech, “asked them to let (Christ)
+          be.”</note>
+        <note type="tnote" n="119">739<space rend="indent1"/><hi rend="italic">ryghtwys</hi>. MS:
+            <hi rend="italic">ry</hi><hi rend="italic">ȝ tywys</hi>. Editors emend.</note>
+        <note type="tnote" n="120">752<space rend="indent1"/><hi rend="italic">carpe</hi>. A, AW, G,
+          and Gor emend to <hi rend="italic">carped</hi>. The use of present tense, retained by H
+          and V, is consistent with the movement from past to present in the stanza as a
+          whole.</note>
+        <note type="tnote" n="121"><space rend="indent1"/><hi rend="italic">propertes</hi>. G emends
+          to <hi rend="italic">propertys</hi>.</note>
+        <note type="tnote" n="122">768<space rend="indent1"/><hi rend="italic">And pyght me</hi>. G
+          emends to <hi rend="italic">He pyght me</hi>.</note>
+        <note type="tnote" n="123">775<space rend="indent1"/><hi rend="italic">anunnder</hi>. AW, G,
+          and Gor read first letter as <hi rend="italic">o</hi>, <hi rend="italic">on-uunder</hi>
+          (AW: <hi rend="italic">onuunder</hi>). H emends to <hi rend="italic">onunder</hi>. My
+          reading accords with A and V.</note>
+        <note type="tnote" n="124">778<space rend="indent1"/><hi rend="italic">maryag</hi>. G emends
+          to <hi rend="italic">maryage</hi>.</note>
+        <note type="tnote" n="125">785<space rend="indent1"/><hi rend="italic">Lambes</hi>. Gor
+          emends to <hi rend="italic">lambeȝ</hi>.</note>
+        <note type="tnote" n="126">786<space rend="indent1"/><hi rend="italic">A hondred and forty
+            thowsande flot</hi>. G and Gor emend the number to <hi rend="italic">a hondred and
+            forty</hi><hi rend="italic"> fowre thowsande</hi> for consistency with Revelation 14:1,
+          3. In lines 869–70 the number of brides is given as 144,000.</note>
+        <note type="tnote" n="127">802<space rend="indent1"/><hi rend="italic">lande nem</hi>. MS:
+            <hi rend="italic">lande men</hi>, though <hi rend="italic">l</hi> can easily be read as
+            <hi rend="italic">h</hi>, as Gor has noted. A, AW, and Gor emend to <hi rend="italic"
+            >hande nem</hi>, “took hold of.” V leaves as is, translating “as a lamb that the
+          shearers appraise in fields.” My emendation accords with G and H, “takes hold of in the
+          field,” emending minimally for logic and rhyme while preserving alliteration. The prophecy
+          of Christ as a lamb silent before the shearers derives from Isaiah 53:7.</note>
+        <note type="tnote" n="128">803<space rend="indent1"/><hi rend="italic">query</hi>. G emends
+          to <hi rend="italic">quere</hi>.</note>
+        <note type="tnote" n="129">815<space rend="indent1"/><hi rend="italic">lomp</hi>. G emends
+          to <hi rend="italic">lomb</hi>. As Gor notes, Appendix 2, p. 93, <hi rend="italic"
+            >lomp</hi> is a legitimate West Midland variant spelling for <hi rend="italic"
+          >lomb</hi>. The poet uses both spellings in the MS, perhaps to play as well on the
+          metonymy between lamb and light.</note>
+        <note type="tnote" n="130">817<space rend="indent1"/>Most editors add <hi rend="italic"
+            >In</hi>: <hi rend="italic">In </hi><hi rend="italic">Jerusalem</hi>, etc. H and V
+          retain the line as in MS, as do I for metrical reasons.</note>
+        <note type="tnote" n="131">825<space rend="indent1"/><hi rend="italic">wroghte</hi>. MS: <hi
+            rend="italic">wroȝt</hi>. G also emends.</note>
+        <note type="tnote" n="132">829<space rend="indent1"/><hi rend="italic">swete</hi>. MS: <hi
+            rend="italic">swatte</hi>. Editors, except H and V, emend for rhyme.</note>
+        <note type="tnote" n="133">836<space rend="indent1"/><hi rend="italic">John</hi>. MS: <hi
+            rend="italic">ioh</hi><hi rend="italic">n̄</hi>. MS abbreviates <hi rend="italic"
+            >John</hi> variously in the many appearances of the word. V expands, unaccountably, to
+            <hi rend="italic">Johan</hi> here and in following appearances. I follow practices of
+          former editors in rendering according to modern usage.</note>
+        <note type="tnote" n="134"><space rend="indent1"/><hi rend="italic">saw</hi>. MS: <hi
+            rend="italic">saytȝ</hi>. Editors, except H and V, emend.</note>
+        <note type="tnote" n="135">838<space rend="indent1"/><hi rend="italic">in seme</hi>. G joins
+            <hi rend="italic">inseme</hi>, “together.”</note>
+        <note type="tnote" n="136">843<space rend="indent1"/><hi rend="italic">masklle</hi>. G
+          emends to <hi rend="italic">maskelle</hi>.</note>
+        <note type="tnote" n="137">848<space rend="indent1"/><hi rend="italic">nouther</hi>. MS: <hi
+            rend="italic">non oþ<hi rend="superscript">9</hi></hi> (<hi rend="italic">non
+          other</hi>). G emends as <hi rend="italic">nother</hi>; V writes as <hi rend="italic">no
+            nother</hi>; H retains MS. My emendation accords with A, AW, and Gor.</note>
+        <note type="tnote" n="138">856<space rend="indent1"/><hi rend="italic">tha</hi>. A, AW, C,
+          G, and Gor emend to <hi rend="italic">that</hi>. <hi rend="italic">Tha</hi> is similarly
+          used in <hi rend="italic">Sir Gawain and the Green Knight</hi>, line 877, as V notes; it
+          also makes a more musical line.</note>
+        <note type="tnote" n="139">861<space rend="indent1"/><hi rend="italic">Lombe</hi>. MS: <hi
+            rend="italic">lonbe</hi>. G reads <hi rend="italic">loumbe</hi>.</note>
+        <note type="tnote" n="140">865<space rend="indent1"/><hi rend="italic">tale</hi>. MS: <hi
+            rend="italic">talle</hi>. Editors, except AW and V, emend. <hi rend="italic">Tale</hi>
+          would be glossed as “story.” <hi rend="italic">Talle</hi> might mean “account,” as in
+          “tally.” The catch phrase at the bottom of the previous page reads: “leste les þow leue my
+          tale farā,” which supports the emendation.</note>
+        <note type="tnote" n="141">867<space rend="indent1"/><hi rend="italic">the</hi>. H emends to
+            <hi rend="italic">tha</hi>.</note>
+        <note type="tnote" n="142">873<space rend="indent1"/><hi rend="italic">fro</hi>. Gor emends
+          to <hi rend="italic">from</hi>.</note>
+        <note type="tnote" n="143">874<space rend="indent1"/><hi rend="italic">laden</hi>. G emends
+          to <hi rend="italic">leden</hi>.</note>
+        <note type="tnote" n="144">892<space rend="indent1"/><hi rend="italic">that</hi><hi
+            rend="subscript">1</hi>. MS: <hi rend="italic">þay</hi>. Editors, except H and V,
+          emend.</note>
+        <note type="tnote" n="145">905<space rend="indent1"/><hi rend="italic">among</hi>. G emends
+          to <hi rend="italic">amonc</hi>.</note>
+        <note type="tnote" n="146">911<space rend="indent1"/><hi rend="italic">blose</hi>. <hi
+            rend="italic">Blose</hi> is a hapax logomenon. I agree with most editors in translating
+          as “churl.” G emends to <hi rend="italic">wose</hi>, “wild man of the woods”; AW emend to
+            <hi rend="italic">bose</hi>, “boss” or “a lump of a man”; V reads <hi rend="italic"
+            >blose</hi> as an alteration of <hi rend="italic">blas</hi>, “gust of wind.”</note>
+        <note type="tnote" n="147">912<space rend="indent1"/><hi rend="italic">vayle</hi>. MS: <hi
+            rend="italic">vayl</hi>. G also emends.</note>
+        <note type="tnote" n="148">918<space rend="indent1"/><hi rend="italic">won</hi>. G emends to
+            <hi rend="italic">wone</hi>.</note>
+        <note type="tnote" n="149">932<space rend="indent1"/><hi rend="italic">I se</hi>. MS: <hi
+            rend="italic">&amp; I se</hi>, retained by H and V. Other editors emend.</note>
+        <note type="tnote" n="150">934<space rend="indent1"/><hi rend="italic">gracious</hi>. MS:
+            <hi rend="italic">g<hi rend="superscript">9</hi>co9</hi> (<hi
+            rend="italic">gracous</hi>). Editors, except V, emend.</note>
+        <note type="tnote" n="151">935<space rend="indent1"/><hi rend="italic">bygynges</hi>.
+          Whether the first letter of the word is a <hi rend="italic">b</hi> or <hi rend="italic"
+            >l</hi> is uncertain. G and H read MS: <hi rend="italic">lygynges</hi>, “lodgings”; A,
+          AW, and Gor read as <hi rend="italic">lygynges</hi> and emend to <hi rend="italic"
+            >bygynges</hi>, a common Middle English word meaning “a large house.” V argues
+          convincingly that MS reads <hi rend="italic">bygynge</hi><hi rend="italic">ȝ</hi>.</note>
+        <note type="tnote" n="152">945<space rend="indent1"/><hi rend="italic">Lompe</hi>. G emends
+          to <hi rend="italic">lombe</hi>. As in line 1046, the pun links light and the Lamb that is
+          Christ.</note>
+        <note type="tnote" n="153">958<space rend="indent1"/><hi rend="italic">flesch</hi>. MS: <hi
+            rend="italic">fresth</hi> or <hi rend="italic">fresch</hi>. Editors, except V, have
+          emended to <hi rend="italic">flesch</hi>, “flesh.” V argues for retaining MS <hi
+            rend="italic">fresch</hi>, “young bodies,” but the line then becomes a tongue
+          twister.</note>
+        <note type="tnote" n="154">977<space rend="indent1"/><hi rend="italic">I</hi>. Added by
+          editors, except V. G emends to <hi rend="italic">wolde I ther</hi>.</note>
+        <note type="tnote" n="155">992<space rend="indent1"/><hi rend="italic">bauteles</hi>.
+          Editors read <hi rend="italic">banteles</hi>. Michael Thompson, “Castles,” in Brewer and
+          Gibson, p. 121, argues that <hi rend="italic">banteles</hi> should properly be read <hi
+            rend="italic">bauteles</hi> and describe small arched machicolations, a tiered feature
+          of castle fortification that would date the poem after 1360. Thompson’s argument also
+          applies to <hi rend="italic">bauteles</hi> in <hi rend="italic">Cleanness</hi>, lines
+          1458–59.</note>
+        <note type="tnote" n="156">995<space rend="indent1"/><hi rend="italic">ilke</hi>. MS: <hi
+            rend="italic">ilk</hi>. G also emends.</note>
+        <note type="tnote" n="157">997<space rend="indent1"/><hi rend="italic">John</hi>. Supplied
+          by editors.</note>
+        <note type="tnote" n="158">998<space rend="indent1"/><hi rend="italic">name</hi>. G emends
+          to <hi rend="italic">names</hi>.</note>
+        <note type="tnote" n="159">999<space rend="indent1"/><hi rend="italic">fyrste</hi>. MS: <hi
+            rend="italic">fyrst</hi>. G also emends.</note>
+        <note type="tnote" n="160">1004<space rend="indent1"/><hi rend="italic">thrydde</hi>. MS:
+            <hi rend="italic">thryd</hi>. G also emends.</note>
+        <note type="tnote" n="161">1007<space rend="indent1"/><hi rend="italic">rybé</hi>. G emends
+          to <hi rend="italic">sarde</hi>, after Revelation.</note>
+        <note type="tnote" n="162">1014<space rend="indent1"/><hi rend="italic">jacyngh</hi>. A, AW,
+          G, and Gor emend to <hi rend="italic">jacynght</hi>. I accord with H and V, who note that
+          the scribe dropped final <hi rend="italic">-t</hi> before words beginning with <hi
+            rend="italic">th</hi> — likely a practice that reflected pronunciation.</note>
+        <note type="tnote" n="163">1015<space rend="indent1"/><hi rend="italic">tryeste</hi>. MS:
+            <hi rend="italic">gentyleste</hi>. Along with AW, I follow G’s emendation, which
+          attempts to correct for what G labels an obvious scribal error, repeating <hi
+            rend="italic">gent</hi> from the preceding line.</note>
+        <note type="tnote" n="164">1017<space rend="indent1"/><hi rend="italic">bautels</hi>. See
+          note to line 992.</note>
+        <note type="tnote" n="165"><space rend="indent1"/><hi rend="italic">bent</hi>. G emends to
+            <hi rend="italic">brent</hi>, “steep.” Other editors have retained and translated as
+          “attached,” but <hi rend="italic">bautels</hi> would logically be <hi rend="italic"
+            >bent</hi> or “curved”; see note to line 992.</note>
+        <note type="tnote" n="166">1018<space rend="indent1"/><hi rend="italic">Of</hi>. Editors,
+          except V, read <hi rend="italic">o</hi>. A small <hi rend="italic">f</hi> is inserted
+          above the line between <hi rend="italic">o</hi> and <hi rend="italic">j</hi>. Osgood
+          argued the <hi rend="italic">f</hi> is in a later hand, but V notes it is in the same
+          brown ink, a reading with which I concur.</note>
+        <note type="tnote" n="167">1026<space rend="indent1"/><hi rend="italic">glayre</hi>.
+          Egg-white fixative used in manuscript illumination.</note>
+        <note type="tnote" n="168">1028<space rend="indent1"/><hi rend="italic">perre</hi>. A, AW,
+          Gor, and V write <hi rend="italic">perré</hi>. I retain as <hi rend="italic">perre</hi>
+          for metrical regularity.</note>
+        <note type="tnote" n="169">1035<space rend="indent1"/><hi rend="italic">poursent</hi>. H
+          reads <hi rend="italic">n</hi> as <hi rend="italic">u</hi>: <hi rend="italic"
+            >pourseut</hi>, “in succession.”</note>
+        <note type="tnote" n="170">1036<space rend="indent1"/><hi rend="italic">ryche</hi>. MS: <hi
+            rend="italic">rych</hi>. G also emends.</note>
+        <note type="tnote" n="171">1046<space rend="indent1"/><hi rend="italic">selfe</hi>. MS: <hi
+            rend="italic">self</hi>. G also emends.</note>
+        <note type="tnote" n="172"><space rend="indent1"/><hi rend="italic">lambe-lyght</hi>. <hi
+            rend="italic">Lombe</hi> or <hi rend="italic">lambe</hi> is unclear in the MS, but looks
+          more like <hi rend="italic">lambe</hi>. A and V read <hi rend="italic">lambe</hi>; other
+          editors read <hi rend="italic">lombe</hi>. G emends to <hi rend="italic"
+          >lompe</hi>.</note>
+        <note type="tnote" n="173">1050<space rend="indent1"/><hi rend="italic">syght</hi>. MS: <hi
+            rend="italic">lyȝt</hi>. With AW, I follow G’s emendation, on the grounds that the poet
+          is unlikely to have repeated the same rhyming word in one stanza. These lines may pun on
+          lamb and lamp.</note>
+        <note type="tnote" n="174">1058<space rend="indent1"/><hi rend="italic">As</hi>. MS: <hi
+            rend="italic">a</hi>. Editors, except H and V, emend.</note>
+        <note type="tnote" n="175">1063<space rend="indent1"/><hi rend="italic">mynster</hi>. MS:
+            <hi rend="italic">mynyster</hi>. AW, Gor, H, and V also emend.</note>
+        <note type="tnote" n="176">1064<space rend="indent1"/><hi rend="italic">refet</hi>. MS: <hi
+            rend="italic">reget</hi>. I accord with A, AW, and Gor in emending to <hi rend="italic"
+            >refet</hi>, “refresh.”</note>
+        <note type="tnote" n="177">1076<space rend="indent1"/><hi rend="italic">selfe</hi>. MS: <hi
+            rend="italic">self</hi>. G also emends.</note>
+        <note type="tnote" n="178">1081<space rend="indent1"/><hi rend="italic">gret</hi>. Gor
+          emends to <hi rend="italic">great</hi>.</note>
+        <note type="tnote" n="179">1083<space rend="indent1"/><hi rend="italic">bayle</hi>. MS: <hi
+            rend="italic">baly</hi>. G, Gor, and H also emend to <hi rend="italic">bayle</hi>. V
+          argues emendation is unnecessary, since <hi rend="italic">y</hi> varies with <hi
+            rend="italic">e</hi>, but in this case <hi rend="italic">bayle</hi> is preferable for
+          rhyme.</note>
+        <note type="tnote" n="180">1086<space rend="indent1"/><hi rend="italic">freuch</hi>. A and
+          AW emend to <hi rend="italic">frech</hi>; Gor to <hi rend="italic">frelich</hi>.</note>
+        <note type="tnote" n="181">1092<space rend="indent1"/><hi rend="italic">wer</hi>. Gor emends
+          to <hi rend="italic">were</hi>.</note>
+        <note type="tnote" n="182">1097<space rend="indent1"/><hi rend="italic">enpryse</hi>. MS:
+            <hi rend="italic">enpresse</hi>. I accord with A, G, Gor, and H in emendation for
+          rhyme.</note>
+        <note type="tnote" n="183">1104<space rend="indent1"/><hi rend="italic">with gret</hi>. MS:
+            <hi rend="italic">w<hi rend="superscript">t</hi>outen</hi>.
+          Emendation for logic accords with A, AW, C, G, and Gor. V follows MS.</note>
+        <note type="tnote" n="184">1112<space rend="indent1"/><hi rend="italic">wedes</hi>. G emends
+          to <hi rend="italic">wede</hi>.</note>
+        <note type="tnote" n="185">1117<space rend="indent1"/><hi rend="italic">that</hi>. G emends
+          to <hi rend="italic">that ther</hi>.</note>
+        <note type="tnote" n="186">1125<space rend="indent1"/><hi rend="italic">thurgh the
+            urthe</hi>. H emends to <hi rend="italic">thurgh urthe</hi>.</note>
+        <note type="tnote" n="187">1133<space rend="indent1"/><hi rend="italic">Hys</hi>. G emends
+          to <hi rend="italic">hyse</hi>.</note>
+        <note type="tnote" n="188">1170<space rend="indent1"/><hi rend="italic">brathe</hi>. MS
+          appears to have <hi rend="italic">þ</hi> written over <hi rend="italic">h</hi>, but it is
+          uncertain. G, H, and V write <hi rend="italic">brathe</hi>; A, AW, and Gor write <hi
+            rend="italic">braththe</hi>. Both spellings were in use in the fourteenth
+          century.</note>
+        <note type="tnote" n="189">1179<space rend="indent1"/><hi rend="italic">quyke</hi>. MS: <hi
+            rend="italic">quykeȝ</hi>. Editors emend.</note>
+        <note type="tnote" n="190">1185<space rend="indent1"/><hi rend="italic">If</hi>. MS: <hi
+            rend="italic">īf</hi>. Editors emend.</note>
+        <note type="tnote" n="191">1186<space rend="indent1"/><hi rend="italic">stykes</hi>. AW and
+          G emend to <hi rend="italic">strykes</hi>, “who come,” i.e., “you who come in a fair
+          crown.”</note>
+        <note type="tnote" n="192">1190<space rend="indent1"/><hi rend="italic">gyven</hi>. MS: <hi
+            rend="italic">geven</hi>. I accord with A, G, and Gor in emending for the sake of
+          rhyme.</note>
+        <note type="tnote" n="193">1196<space rend="indent1"/><hi rend="italic">moghten</hi>. A, AW,
+          G, and Gor emend to <hi rend="italic">moghte</hi>. I retain MS reading for metrical
+          reasons.</note>
+      </div>
+    </body>
+  </text>
+</TEI>

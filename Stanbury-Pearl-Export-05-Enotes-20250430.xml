@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Stanbury-Pearl-Export-05-Enotes-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Explanatory Notes</title>
+        <author>Stanbury, Sarah</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Amster, Mara I.</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-04" to="2025-05">Audited documents prior to print/export</resp>
+          <resp from="2025-04" to="2025-04">Collected metadata</resp>
+          <resp from="2025-01" to="2025-02">Copyedited and proofread</resp>
+          <resp from="2025-04" to="2025-05">Encoded TEI</resp>
+          <resp from="2025-04" to="2025-04">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-01" to="2025-04">Entered corrections for digital edition</resp>
+          <resp from="2025-01" to="2025-02">Entered corrections for print edition</resp>
+          <resp from="2025-01" to="2025-02">Formatted for print edition</resp>
+          <resp from="2025-01" to="2025-04">Formatted for XML export</resp>
+          <resp from="2025-05" to="2025-05">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2024-02" to="2024-02">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed and suggested explanatory notes</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed and suggested explanatory notes</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Symons, Dana M.</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Mara I. Amster</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John William Sutton</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Dana M. Symons</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Assistant Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Stanbury, Sarah</editor>
+            <title>Pearl</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2001</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/stanbury-pearl/blob/main/stanbury-pearl-export-corrections-log.docx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 2001</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Stanbury-Pearl-Export-05-Enotes"/>
+      <div type="text">
+        <note type="enote" n="1">1<space rend="indent1"/><hi rend="italic">Perle</hi>. The pearl is
+          the text’s central object and symbol. Pearls were luxury items, widely used to decorate
+          expensive clothing and precious objects: the <hi rend="italic">Breviaire de
+            Belleville</hi> that Richard II received in 1396 as a gift from Philip the Bold had a
+          cover studded with pearls, as described by Jeanne Krochalis, “The Books and Reading of
+          Henry V and His Circle,” <hi rend="italic">Chaucer Review</hi> 23 (1988), 59–60. The
+          immense popularity of pearls as decorative items in the fourteenth century is attested by
+          the inventory of Alice Perrers, mistress of Edward III, when her goods were seized in
+          1379, listing 21,800 pearls and 30 ounces of seed pearls (Frederick Devon, <hi
+            rend="italic">Issues of the Exchequer; Being a Collection of</hi><hi rend="italic">
+            Payments Made out of His Majesty’s Revenue, from King</hi><hi rend="italic"> Henry III
+            to King Henry VI Inclusive. With an Appendix</hi><hi rend="italic">. Extracted and
+            Translated from the Original Rolls of the Ancient</hi><hi rend="italic"> Pell Office,
+            Now Remaining in the Custody of the Right</hi><hi rend="italic"> Honourable Sir John
+            Newport, Bart. Comptroller-General of His Majesty</hi><hi rend="italic">’s
+            Exchequer</hi>. Vol. 2 [London: J. Murray, 1837], pp. 209–10; cited in Donkin, p. 268).
+          The most valuable pearls were imported from the far east (“Oute of Oryent,” line 3) via
+          the Mediterranean. The analogy between the pearl of price and the kingdom of heaven,
+          explicated in lines 732–35, derives from the parable in Matthew 13:45–46, and was a
+          popular allegorical theme for medieval theologians. Pearls were also conventionally
+          equated with the pure soul and virginity, as described in the etymology opening the legend
+          of St. Margaret in the immensely popular <hi rend="italic">Golden Legend</hi> by Jacobus
+          de Voragine, and with the Virgin Mary, the star of the sea (<hi rend="italic">stella
+            maris</hi>). For gems in late fourteenth-century court culture, see Riddy, in Brewer and
+          Gibson; Barr; and Bowers, “<hi rend="italic">Pearl</hi> in Its Royal Setting”; and for
+          pearls, see Donkin, “Pearls in the Medieval World,” pp. 250–75; Lightbown, pp. 30–31; and
+          R. Allen Shoaf’s edition of Usk’s <hi rend="italic">The Testament of Love</hi> (Kalamazoo,
+          MI: Medieval Institute Publications, 1998), pp. 8–10, with frontispiece reproductions of
+          the Virgin Mary and babe, the pearl as both star of the sea, and a pearl oyster in the
+          sea, from MS Bodley 602, fol. 34. In <hi rend="italic">The </hi><hi rend="italic"
+            >Apocryphal New Testament</hi>, ed. M. R. James (Oxford: Clarendon Press, 1953), pp.
+          209–16, Mary at the moment of her Assumption is compared to a pearl: “Then the Saviour
+          spoke [to Mary], saying: ‘Come, thou most precious pearl, enter into the treasury
+          (receptacle) of eternal life.’”</note>
+        <note type="enote" n="2"><space rend="indent1"/><hi rend="italic">paye</hi>. Used as a verb
+            <hi rend="italic">paye</hi> means both “to please” and “to pay.” <hi rend="italic"
+            >Paye</hi>, with its suggestions of both worldly commerce and also spiritual rewards, is
+          the link-word of the final stanza group and the last word of the poem.</note>
+        <note type="enote" n="3">2<space rend="indent1"/><hi rend="italic">To clanly clos</hi>.
+          Unpunctuated, as is the whole manuscript, this line has been variously interpreted: “too
+          chastely set in gold” (G), “for a splendid setting” (V), or “to set radiantly in gold so
+          clear,” as other editors, myself included, have read the line. <hi rend="italic"
+            >Clanly</hi> is also used in Middle English in the sense of “cleanly,”
+          “chastely.”</note>
+        <note type="enote" n="4">3<space rend="indent1"/><hi rend="italic">Oute of Oryent</hi>.
+          I.e., where the best pearls come from. See note to line 1.</note>
+        <note type="enote" n="5">4<space rend="indent1"/><hi rend="italic">Ne . . . never</hi>.
+          Double negatives are equivalent to single negatives. “I never found her precious peer
+          (equal in value).”</note>
+        <note type="enote" n="6">5<space rend="indent1"/><hi rend="italic">reken</hi>. As an
+          attribute of person, <hi rend="italic">reken</hi> can mean “capable” or
+          “righteous.”</note>
+        <note type="enote" n="7"><space rend="indent1"/><hi rend="italic">araye</hi>. Pertains to
+          forms of display or ordering and can range in meaning from the concrete to the
+          abstract.</note>
+        <note type="enote" n="8">6<space rend="indent1"/><hi rend="italic">sydes</hi>. The term
+          appears elsewhere in the poem to denote a feature of landscape, as in hill side (line 73)
+          or the side of a river (line 975), but in Middle English <hi rend="italic">syde</hi> is
+          often anatomical and a standard of courtly rhetoric for denoting a woman’s figure or
+          clothing; see <hi rend="italic">sydes</hi> as features of the <hi rend="italic"
+          >Pearl</hi>-maiden’s garment, lines 198 and 218. The use of the term in the opening stanza
+          foreshadows the metonomy that will link pearl with maiden. For discussions of gender and
+          embodiment in <hi rend="italic">Pearl</hi>, see Bullon-Fernandez; Cox; and Stanbury,
+          “Feminist Masterplots” and “The Body and the City.”</note>
+        <note type="enote" n="9">9<space rend="indent1"/><hi rend="italic">erbere</hi>. The <hi
+            rend="italic">MED</hi> gives as its first definition for <hi rend="italic">herber</hi> a
+          “pleasure garden,” which is borne out here by the description of spice plants and flowers.
+          See Luttrell.</note>
+        <note type="enote" n="10">10<space rend="indent1"/><hi rend="italic">hit</hi>. Gor explains
+          that conventions in Middle English for indicating gender were, to an extent,
+          case-dependent. Whereas “poetic license” might allow interchange between masculine and
+          feminine pronouns when a word is used as a direct object or object of a preposition, in
+          subject position a pronoun signals a clear mark of gender C or its absence. Hence the uses
+          of the feminine “hyr” as direct agent in lines 4, 6, 8, and 9, but the neuter <hi
+            rend="italic">hit</hi> as subject of the verb in line 10. As both Gor and AW note, the
+          uses of “hyr” hint at the pearl’s feminine apotheosis, even as the neuter <hi
+            rend="italic">hit</hi> returns us to the gemstone.</note>
+        <note type="enote" n="11"><space rend="indent1"/><hi rend="italic">yot</hi>. I follow H and
+          AW in reading <hi rend="italic">yot</hi> as derived from <hi rend="italic">yette</hi>, “to
+          pour, tumble”; see <hi rend="italic">OED</hi>
+          <hi rend="italic">yet</hi>. Other editors have read the unusual <hi rend="italic">yot</hi>
+          as a variant spelling of <hi rend="italic">yode</hi>, past tense of the verb <hi
+            rend="italic">gon</hi>, “to go.” “Tumble,” coupled with the subsequent “sprange” in line
+          13, suggests the pearl’s vivacity and even agency.</note>
+        <note type="enote" n="12">11<space rend="indent1"/><hi rend="italic">luf-daungere</hi>.
+          Apparently a unique compound in Middle English, <hi rend="italic">luf-daungere</hi> is a
+          term from courtly love and evokes desire for the unattainable as well as feudal service to
+          the lady, from OF <hi rend="italic">daungere</hi>, “feudal power,” as AW note. Compare
+          Chaucer’s The Wife of Bath’s Prologue, where Alisoun says her fifth husband “was of his
+          love daungerous to me” (<hi rend="italic">CT</hi> III[D]514). In <hi rend="italic">Le
+            Roman de la Rose</hi> Dangiers signifies the lady’s refusal; see lines 2831–32.</note>
+        <note type="enote" n="13">12<space rend="indent1"/><hi rend="italic">pryvy</hi>. From OF <hi
+            rend="italic">privé</hi>, it has the sense of personal, intimate, or one’s own.</note>
+        <note type="enote" n="14"><space rend="indent1"/><hi rend="italic">spot</hi>. The link-word
+          of the first stanza group, <hi rend="italic">spot</hi> conveys the double senses of
+          blemish and place that remain in contemporary usage. For link-words see Macrae-Gibson and
+          Tomasch.</note>
+        <note type="enote" n="15">17<space rend="indent1"/><hi rend="italic">That</hi>. I.e.,
+          pondering and wishing, which only cause pain.</note>
+        <note type="enote" n="16">19<space rend="indent1"/><hi rend="italic">swete a sange</hi>. The
+          orchestration of sound into song is a central component of the narrator’s vision of the
+          landscape and of the New Jerusalem, as in lines 91–94, 877–88, and 1123–28. As Gor notes,
+          the song is also the lyric and text of <hi rend="italic">Pearl</hi> itself.</note>
+        <note type="enote" n="17">23<space rend="indent1"/><hi rend="italic">juele</hi>. G emends to
+            <hi rend="italic">mele</hi>, i.e., a “merry theme,” yoking song and pearl. Subsequent
+          editors have not followed suit. Riddy, in Brewer and Gibson, p. 147, notes that Middle
+          English <hi rend="italic">juele</hi> means not only a gemstone but also a precious art
+          object. See also Barr.</note>
+        <note type="enote" n="18">28<space rend="indent1"/><hi rend="italic">schyne</hi>. MS: <hi
+            rend="italic">schyneȝ</hi>. I follow AW who emend to <hi rend="italic">schyne</hi> to
+          correct for grammatical agreement. <hi rend="italic">Schyne</hi> and “sprede” (line 25)
+          both depend on “mot nedes” (line 25) a reading consistent with the stanza’s picture of
+          natural conditionality: that spot must be overgrown with spice plants; flowers must shine.
+          This stanza imagines the cycle of decay and regeneration in the “erber”; the fourth stanza
+          will then move to direct experience when the narrator recounts his entrance into the
+          garden. Note the uses of the conditional and the convoluted negatives that mark this
+          stanza’s exposition of regeneration.</note>
+        <note type="enote" n="19">29<space rend="indent1"/><hi rend="italic">fede</hi>. Most editors
+          read as “faded” from OF <hi rend="italic">fade</hi>, with the vowel <hi rend="italic"
+            >a</hi> modified to <hi rend="italic">e</hi> by poet or scribe for rhyme. My reading
+          accords with G, who translates as “rotted” or “decayed” from the ON <hi rend="italic"
+            >feyja</hi>, a reading supported by the <hi rend="italic">MED</hi> as well as the
+          stanza’s display of rot and regeneration as a causal cycle.</note>
+        <note type="enote" n="20">31–32<space rend="indent1"/>This proverbial phrase is based on I
+          Corinthians 15:34–38 and John 12:24, as Gor notes.</note>
+        <note type="enote" n="21">39<space rend="indent1"/><hi rend="italic">hygh seysoun</hi>. In
+          medieval texts dates are customarily identified by the event celebrated in the religious
+          calendar, rather than by the lunar calendar as in modern practice. Here the high season
+          may refer to the Feast of the Assumption of the Virgin on August 15; the Feast of the
+          Transfiguration of Christ on August 8; or Lammastide, on August 1, a harvest festival in
+          which bread made from the first harvested grain was offered in the churches; see Christina
+          Hole, <hi rend="italic">English Traditional </hi><hi rend="italic">Customs</hi> (London:
+          Batsford, 1975), p. 89. The following line defining <hi rend="italic">hygh seysoun</hi>
+          through the actions of the harvest supports Lammastide, as G first argued.</note>
+        <note type="enote" n="22">44<space rend="indent1"/><hi rend="italic">powdered</hi>. To
+          powder or to scatter also suggests decorative illustration, often in heraldry as in <hi
+            rend="italic">OED</hi>
+          <hi rend="italic">powder</hi>, v.1, sense 4, “to ornament with spots or small devices
+          scattered over the surface,” as V notes. Terms describing the landscape in the language of
+          manuscript illumination also appear in lines 77–78, 106.</note>
+        <note type="enote" n="23">43–44<space rend="indent1"/>All the flowers named are highly
+          aromatic and had uses as spices in the Middle Ages, adding to the picture of the “erber”
+          as a pleasure garden. See Stern; as G first noted, the list of plants is reminiscent of
+          the spice garden in <hi rend="italic">Le Roman de la Rose</hi>; compare Chaucer’s
+          translation, lines 1367–72. In the <hi rend="italic">Romaunt</hi>, the spices are
+          after-dinner condiments: “And many a spice delitable / To eten whan men rise fro table”
+          (lines 1371–72).</note>
+        <note type="enote" n="24">45<space rend="indent1"/><hi rend="italic">hit</hi>. I.e., the
+          “spot” (line 37), “erber” (line 38), and “huyle” (line 41) where the pearl was
+          lost.</note>
+        <note type="enote" n="25">47<space rend="indent1"/><hi rend="italic">wot and wene</hi>. A
+          verse tag and alliterative formula.</note>
+        <note type="enote" n="26">59<space rend="indent1"/><hi rend="italic">slepyng-slaghte</hi>.
+            <hi rend="italic">Slaghte</hi> is derived from OE <hi rend="italic">slæht</hi>, meaning
+          slaughter or a violent stroke, and normally means a sudden blow in Middle English; see AW
+          and Gor.</note>
+        <note type="enote" n="27">61<space rend="indent1"/><hi rend="italic">in space</hi>. AW, Gor,
+          and H read <hi rend="italic">in space</hi> as “in a space of time.” I accord with other
+          editors in favoring reading <hi rend="italic">space</hi> as location, though both meanings
+          may well apply.</note>
+        <note type="enote" n="28">62<space rend="indent1"/><hi rend="italic">sweven</hi>. Dreams are
+          conventional points of departure for many philosophical or political verse narratives
+          (dream visions) in the Middle Ages. Although truth of dreams was much debated, majority
+          opinion appears to have taken seriously their prophetic and revelatory potential. See
+          Lynch, pp. 1–46, but also pp. 163, 193; and Nolan, pp. 156–204. Chaucer gives a vivid
+          replay of the debate in The Nun’s Priest’s Tale.</note>
+        <note type="enote" n="29">71<space rend="indent1"/><hi rend="italic">webbes</hi>. Throughout
+          the text the poet frequently makes analogies between natural forms and works of art or
+          craft (here textiles); see for instance lines 76, 77, 114, and note to line 44.</note>
+        <note type="enote" n="30">91<space rend="indent1"/><hi rend="italic">sytole-stryng</hi>. The
+          citole was a plucked instrument similar to the lute, and a precursor to the
+          cittern.</note>
+        <note type="enote" n="31"><space rend="indent1"/><hi rend="italic">gyternere</hi>. A gittern
+          was a guitar-like instrument, usually with four strings.</note>
+        <note type="enote" n="32">95<space rend="indent1"/><hi rend="italic">gle</hi>. Also means
+          “mirth,” “entertainment.”</note>
+        <note type="enote" n="33">105<space rend="indent1"/><hi rend="italic">reveres</hi>. Although
+            <hi rend="italic">reveres</hi> usually means “rivers” in alliterative poetry, the word
+          can also mean “meadows along a streambank,” a sense more in keeping with the logic of the
+          dreamer’s movement toward a body of water, as Gor notes. H and V gloss as “rivers.”</note>
+        <note type="enote" n="34">113<space rend="indent1"/><hi rend="italic">stepe</hi>. As Gor
+          notes, <hi rend="italic">stepe</hi> is often used in Middle English to refer to eyes
+          “staring” or “glaring,” though it is also used to convey the sense of “brilliant.”
+          “Staring” evokes the action of visual rays that is also suggested in “stremande” (line
+          115) and “[s]taren” (line 116). The passage as a whole animates place with extromissive
+          powers of vision, even as the people sleep. For vision in medieval aesthetics, see Michael
+          Camille, <hi rend="italic">Gothic Art: Visions and Revelations in the Medieval</hi><hi
+            rend="italic"> World</hi> (London: Weidenfeld and Nicolson, 1996), pp.16–25; Norman
+          Klassen, <hi rend="italic">Chaucer on Love, Knowledge and Sight</hi> (Cambridge: D. S.
+          Brewer, 1995), pp. 53–74; and Stanbury, <hi rend="italic">Seeing the Gawain</hi><hi
+            rend="italic">-Poet</hi>, pp. 12–41.</note>
+        <note type="enote" n="35">115<space rend="indent1"/><hi rend="italic">strothe-men</hi>. The
+          term is uncertain. Gor argues that <hi rend="italic">stroth</hi> had the meaning of
+          “marshy land (overgrown with brushwood),” and <hi rend="italic">strothe-men</hi> likely
+          means “men of this world.” Ralph W. V. Elliott, “Some Northern Landscape Features in <hi
+            rend="italic">Sir Gawain and the</hi><hi rend="italic"> Green Knight</hi>,” in <hi
+            rend="italic">Iceland and the Mediaeval World: Studies</hi><hi rend="italic"> in Honour
+            of Ian Maxwell</hi>, ed. Gabriel Turville-Petre and John S. Martin (Melbourne:
+          Organising Committee, 1974), pp. 132–43, notes that in Old Icelandic <hi rend="italic"
+            >storth</hi> carries the sense of a young wood or plantation and hence proposes “country
+          folk, woodlanders.” Evidently the poet is juxtaposing extremes from the stars on high to
+          swamp dwellers at the bottom through which distance the wondrous light streams.</note>
+        <note type="enote" n="36">117<space rend="indent1"/><hi rend="italic">pyght</hi>. <hi
+            rend="italic">Pyght</hi> is frequently used in the poem to describe adornment with
+          pearls or gems; see lines 192, 205, 217, 229, 240, and 241.</note>
+        <note type="enote" n="37">129<space rend="indent1"/><hi rend="italic">fraynes</hi>. A, Gor,
+          and H translate <hi rend="italic">fraynes</hi> as “makes trial” or “puts (men) to the
+          test.” I accord with G and V in translating as “wishes,” a gloss the <hi rend="italic"
+            >MED</hi> supports.</note>
+        <note type="enote" n="38">131<space rend="indent1"/><hi rend="italic">her </hi><hi
+            rend="italic">wylle</hi>. AW emend to <hi rend="italic">his</hi>, believing <hi
+            rend="italic">her</hi> to be a scribal error for <hi rend="italic">his</hi>, and read
+          the lines, “the man to whom she sends his desire seeks to have more and more (of it).” As
+          I read the lines, <hi rend="italic">her wylle</hi> conveys the sense of fortune as the
+          catalyst of the will, which in turn incites desire, “ay more and more” (line 132).</note>
+        <note type="enote" n="39">132<space rend="indent1"/><hi rend="italic">Hyttes</hi>. AW gloss
+          as “seek, wish”; A, G, and Gor gloss as “comes, chances, attains as a result”; H reads as
+          “is likely.” “Casts” in the sense of “thrusts,” might also be implied. The <hi
+            rend="italic">more</hi> that fortune sends is further specified in the next
+          stanza.</note>
+        <note type="enote" n="40">139–40<space rend="indent1"/>Most editors generally accord with
+          Gor: “I thought the stream was a division made by pools, separating the delights” — i.e.,
+          the delights on both sides of the water. G emends line 140 to <hi rend="italic">Bytwene
+            meres by Myrthe made</hi>. D. C. Fowler, “On the Meaning of <hi rend="italic"
+          >Pearl</hi>, 139–40,” <hi rend="italic">MLQ</hi> 21 (1960), 27–29, offers the suggestion,
+          “I thought that the water was a deception / Made by meres among the delights.”</note>
+        <note type="enote" n="41">161<space rend="indent1"/><hi rend="italic">faunt</hi>. The <hi
+            rend="italic">MED</hi> gives “young child” and “infant” for <hi rend="italic">faunt</hi>
+          (from OF <hi rend="italic">enfaunt</hi>), though H translates as “youthful being.”</note>
+        <note type="enote" n="42">165<space rend="indent1"/>The comparison is to sheets of gold
+          leaf, consistent with a pattern of analogy between the sights of the dreamer’s vision and
+          manuscript illumination.</note>
+        <note type="enote" n="43">172<space rend="indent1"/>AW read: “as had been but little wont to
+          do so before,” as do A and G. I accord with V and H in reading <hi rend="italic"
+            >lyttel</hi> as a duration of time: “as a short while ago was wont thereto” (H). Gor
+          notes both readings are possible.</note>
+        <note type="enote" n="44">184<space rend="indent1"/><hi rend="italic">hawk in halle</hi>. A
+          courtly hunting image, consistent with his fears of her escape (“eschaped”) in line
+          187.</note>
+        <note type="enote" n="45">197<space rend="indent1"/><hi rend="italic">beau biys</hi>. MS
+          shows five minims, or vertical strokes, between <hi rend="italic">a</hi> and <hi
+            rend="italic">y</hi>. A, AW, and Gor read as <hi rend="italic">beau biys</hi>,
+          “beautiful white linen garment,” after Revelation 19:8, where the bride of the lamb is
+          arrayed in splendid “byssinum.” As Riddy, in Brewer and Gibson, p. 144, notes, citations
+          in the <hi rend="italic">MED</hi> make it clear that biys is a luxury cloth. G, H, and V
+          read as <hi rend="italic">beaumys</hi>, with <hi rend="italic">be</hi> as “around” and <hi
+            rend="italic">mys</hi> derived from Latin <hi rend="italic">amice</hi>, “cape” or
+          “surcoat”: hence “mantle or surcoat.”</note>
+        <note type="enote" n="46">199<space rend="indent1"/><hi rend="italic">at my </hi><hi
+            rend="italic">devyse</hi>. Editors have read <hi rend="italic">at my devyse</hi> as “in
+          my opinion,” a common expression in Middle English. It is possible the phrase may also
+          refer to a heraldic emblem or coat of arms, i.e., “after my device,” and hence the
+          daughter’s dress as a heraldic gown. <hi rend="italic">OED</hi> “device,” sense 9, gives
+          “an emblematic figure or design . . . heraldic bearing.” In line 856 the <hi rend="italic"
+            >Pearl</hi>-maiden speaks of her pearls as a heraldic crest. Froissart mentions the
+          dresses of ladies attending the jousts in Smithfield as decorated with the livery of
+          Richard II. In <hi rend="italic">Confessio Amantis</hi>, Gower describes a group of ladies
+          dressed after the new fashion introduced by Anne of Bohemia, “the new guise of Beme,” as
+          dressed in clothing embroidered with fanciful devices; see <hi rend="italic">Camden’s
+            Remains</hi>, p. 197, cited in J. R. Planché, <hi rend="italic">History of British
+            Costume, from the Earliest</hi><hi rend="italic"> Period to the Close of the Eighteenth
+            Century</hi> (London: George Bell and Sons, 1874), pp. 178, 179–80. An unmarried
+          daughter could be represented as bearing the paternal arms. In a miniature in the Luttrell
+          Psalter, fol. 202v (c. 1325–35), Agnes Sutton and Beatrice Scrope are both represented in
+          heraldic gowns showing the signs of their husband and father, respectively; see <hi
+            rend="italic">Age of Chivalry: Art in Plantagenet England, 1200</hi><hi rend="italic"
+            >–1400</hi>, ed. Jonathan Alexander and Paul Binski (London: Royal Academy of Arts,
+          1987), p. 58. See also the fifteenth-century stained-glass portraits in Long Melford
+          Church, where the dresses of the Clopton women are decorated with both the paternal and
+          marital coats of arms (<hi rend="italic">Mapping Margery Kempe</hi>, <ref
+            target="http://www.holycross.edu/kempe" type="external"
+            >http://www.holycross.edu/kempe</ref>, s.v., Parish and Cathedral). On heraldic badges,
+          see Lightbown, pp. 196–201.</note>
+        <note type="enote" n="47">201<space rend="indent1"/><hi rend="italic">wot and wene</hi>.
+          Verse tag. See line 47.</note>
+        <note type="enote" n="48">210<space rend="indent1"/><hi rend="italic">here-leke</hi>. MS:
+            <hi rend="italic">lere</hi><hi rend="italic"> leke</hi>. I agree with Gor, who reads as
+            <hi rend="italic">here leke</hi>, “her hair enclosed her.” H reads <hi rend="italic"
+            >lere leke</hi> as “face-radiance, radiance of countenance”; G reads <hi rend="italic"
+            >here </hi><hi rend="italic">heke</hi>; A, AW, and V read <hi rend="italic"
+            >lere-leke</hi> as “wimple,” lit. “face-linen.” Since the stanza emphasizes her unbound
+          hair and lovely complexion, she would have been unlikely to be wearing a wimple. The
+          description is evocative of late medieval depictions of the virgin martyrs, who rarely
+          wear face linen and most often have unbound hair. For images, see Karen Winstead, <hi
+            rend="italic">Virgin Martyrs: Legends of Sainthood in </hi><hi rend="italic">Late
+            Medieval England</hi> (Ithaca: Cornell University Press, 1997).</note>
+        <note type="enote" n="49">215<space rend="indent1"/><hi rend="italic">depe </hi><hi
+            rend="italic">colour</hi>. A, AW, and Gor translate as “glowing whiteness” (G as
+          “glowing beauty”), whereas H and V follow A. S. Cook, “<hi rend="italic">Pearl</hi>,
+          212ff,” <hi rend="italic">Modern Philology</hi> 6 (1908), 197, who argues that <hi
+            rend="italic">depe colour</hi> stands for “wide collar.” “Collar” follows the logic of
+          the top-to-toe description and makes sense of “porfyl,” “embroidered border,” in line
+          216.</note>
+        <note type="enote" n="50">233<space rend="indent1"/><hi rend="italic">nerre then aunte
+            </hi><hi rend="italic">or nece</hi>. <hi rend="italic">Nerre</hi> can imply either
+          location or relationship, as in contemporary usage, though the sense here is clearly
+          filiative.</note>
+        <note type="enote" n="51">235<space rend="indent1"/><hi rend="italic">spyce</hi>. G, Gor,
+          and H emend to <hi rend="italic">spece</hi>, “person.” As V notes, emendation is
+          unnecessary, since <hi rend="italic">e</hi> is a normal variant with <hi rend="italic"
+            >i</hi> (<hi rend="italic">y</hi>). <hi rend="italic">Spyce</hi> also means “spice
+          plant,” certainly within the metaphoric register of the poem, especially since in stanzas
+          2 and 3 the poet describes how the spice plants of the “erber” are fertilized by the decay
+          of the girl’s body.</note>
+        <note type="enote" n="52">236<space rend="indent1"/><hi rend="italic">wommon lore</hi>.
+          Editors have translated <hi rend="italic">wommon lore</hi> as “woman’s way” or “in womanly
+          fashion.” By far the commonest uses of <hi rend="italic">lore</hi> in Middle English
+          concern teaching, instruction, or doctrine. <hi rend="italic">MED</hi>, sense 2a, offers
+          examples of the possessive; e.g., Chaucer’s “Christes lore” (The General Prologue to <hi
+            rend="italic">The Canterbury Tales</hi>, line 527). <hi rend="italic">Lore</hi> as
+          “counsel” follows logically from her speaking in the preceding line.</note>
+        <note type="enote" n="53">245<space rend="indent1"/><hi rend="italic">aglyghte</hi>. A, AW,
+          Gor, and V translate as “slipped away,” G as “glided,” but I prefer H’s more literal
+          “glittered away,” in keeping with the kinetic and lapidary imaging of loss throughout the
+          poem.</note>
+        <note type="enote" n="54">250<space rend="indent1"/><hi rend="italic">daunger</hi>. See line
+          11, and note on <hi rend="italic">luf</hi><hi rend="italic">-daungere</hi>.</note>
+        <note type="enote" n="55">254<space rend="indent1"/><hi rend="italic">graye</hi>. The eyes
+          of beautiful women are conventionally described as gray in English courtly love
+          poetry.</note>
+        <note type="enote" n="56">259<space rend="indent1"/><hi rend="italic">cofer</hi>. Usually a
+          “strong box for storage of valuables,” but also with secondary meaning of “coffin.”</note>
+        <note type="enote" n="57">260<space rend="indent1"/><hi rend="italic">gracios </hi><hi
+            rend="italic">gaye</hi>. AW read <hi rend="italic">gracios gay</hi> as an adjective
+          modifying garden: “charmingly fair garden.” <hi rend="italic">Gracios gaye</hi> may also
+          mean “gracious fair one,” as in line 189. The grammatical construction is
+          ambiguous.</note>
+        <note type="enote" n="58">271<space rend="indent1"/><hi rend="italic">kynde of the
+            kyste</hi>. The maiden speaks enigmatically of roses, chests, and pearls to introduce
+          ideas of death and transfiguration. <hi rend="italic">Kyste</hi> can also suggest a
+          reliquary.</note>
+        <note type="enote" n="59">274<space rend="indent1"/><hi rend="italic">oght of noght</hi>.
+          I.e., has made a pearl out of an ephemeral rose.</note>
+        <note type="enote" n="60">277<space rend="indent1"/><hi rend="italic">geste</hi>. The <hi
+            rend="italic">MED</hi> cites this line for <hi rend="italic">geste</hi> as “one newly
+          arrived in a place.” The meaning of <hi rend="italic">gesta</hi>, “story, tale,” which
+          alliterates with <hi rend="italic">juel</hi>, may also pertain.</note>
+        <note type="enote" n="61">283<space rend="indent1"/><hi rend="italic">ma </hi><hi
+            rend="italic">feste</hi>. “Make a festival,” i.e., “make merry.”</note>
+        <note type="enote" n="62">307<space rend="indent1"/><hi rend="italic">westernays</hi>. For a
+          summary of the debate on this term, see V. <hi rend="italic">Westernays</hi> does not
+          appear elsewhere in Middle English, and may be the poet’s neologism from OF <hi
+            rend="italic">bestorner</hi>, e.g., “wrongly turned,” as when a church faces west rather
+          than east.</note>
+        <note type="enote" n="63">312<space rend="indent1"/><hi rend="italic">dem</hi>. G emends to
+            <hi rend="italic">deme</hi>. The link word of this stanza group, <hi rend="italic"
+            >dem</hi> covers a broad range of actions under the general rubric “judge,” from God’s
+          judgment to human acts of evaluation, consideration, and critique.</note>
+        <note type="enote" n="64">345<space rend="indent1"/><hi rend="italic">daunce as any do</hi>.
+          The image is a hunting metaphor and describes the agonal moment.</note>
+        <note type="enote" n="65">351<space rend="indent1"/><hi rend="italic">mendes</hi>. H
+          translates as “opinions,” taking <hi rend="italic">mendes</hi> as a variant for <hi
+            rend="italic">mynde</hi>: “Your opinions mount to not a mite.” V translates after <hi
+            rend="italic">OED</hi>
+          <hi rend="italic">mend</hi>, sb., sense 2, “remedy.”</note>
+        <note type="enote" n="66">359<space rend="indent1"/><hi rend="italic">mythe</hi>. As V
+          notes, most editors have read <hi rend="italic">mythe</hi> as “conceal.” <hi rend="italic"
+            >Mythe</hi> from Middle English <hi rend="italic">mouthen</hi>, “to say, speak,
+          pronounce,” and hence “mutter” or even “mouth off,” is more consistent with the thought of
+          the stanza.</note>
+        <note type="enote" n="67">365<space rend="indent1"/>Early editors joined lines 365 and 366,
+          “as water gushing from a stream / I put myself at his mercy,” but following the suggestion
+          by Gor I have joined lines 364–65: “my heart was afflicted with loss / As water welling
+          from a spring.” Although water flowing from a spring would be expected to be redemptive
+          (baptismal waters), the irruptive emotions in this stanza are all on the side of grief.
+          Hence the image of spring-water is ironically placed — on the side of grief but belonging
+          properly to consolation.</note>
+        <note type="enote" n="68">368<space rend="indent1"/><hi rend="italic">forloyne</hi>. A
+          hunting term to describe when dogs race ahead too fast and lose the pack; see Ad Putter,
+          “The Ways and Words of the Hunt: Notes on <hi rend="italic">Sir</hi><hi rend="italic">
+            Gawain and the Green Knight</hi>, <hi rend="italic">The Master of Game</hi>, <hi
+            rend="italic">Sir</hi><hi rend="italic"> Tristrem</hi>, <hi rend="italic">Pearl</hi>,
+          and <hi rend="italic">Saint Erkenwald</hi>,” <hi rend="italic">Chaucer Review</hi> 40
+          (2006), 354–85, at 373.</note>
+        <note type="enote" n="69"><space rend="indent1"/><hi rend="italic">endorde</hi>. G reads
+          “adored one,” but as AW note, Gert Rønberg, “A Note on ‘Endorde’ in <hi rend="italic"
+            >Pearl</hi> (368),” <hi rend="italic">English Studies</hi> 57 (1976), 198, argues that
+          it is from OF <hi rend="italic">endorer</hi>, “to invest with gold or a gold-like
+          quality.”</note>
+        <note type="enote" n="70">375<space rend="indent1"/><hi rend="italic">wothe</hi>. G reads
+          “path,” H reads “search,” and other editors “dangers.” My reading follows G’s “path” from
+          OE <hi rend="italic">wath</hi>, “hunting ground, hence generically, place.”</note>
+        <note type="enote" n="71">380<space rend="indent1"/><hi rend="italic">by stok other
+            ston</hi>. As H notes, this common phrase in alliterative poetry can also be a mild
+          oath.</note>
+        <note type="enote" n="72">385<space rend="indent1"/><hi rend="italic">blent</hi>. I.e.,
+          “blended in bliss,” “set in joy.”</note>
+        <note type="enote" n="73">395<space rend="indent1"/><hi rend="italic">hyghe gate</hi>. Most
+          editors have read as “highway,” after <hi rend="italic">OED</hi>
+          <hi rend="italic">gate</hi>, sense 1b, which gives the line as an example of the meaning
+          of <hi rend="italic">gate</hi> as road: “the highway of all my joy.” The more common
+          meaning of <hi rend="italic">gate</hi> in Middle English is the modern sense; that meaning
+          may pertain as well — e.g., the main gate, a reading that evokes the gates of the New
+          Jerusalem in lines 1034 ff.</note>
+        <note type="enote" n="74">407<space rend="indent1"/><hi rend="italic">My Lorde the
+          Lamb</hi>. This is the first of many references to Christ as the Lamb of God.</note>
+        <note type="enote" n="75">410<space rend="indent1"/><hi rend="italic">stage</hi>. G glosses
+          as “degree of advancement,” after <hi rend="italic">OED</hi>
+          <hi rend="italic">stage</hi> sb., sense 3. The attention to hierarchical ordering
+          anticipates the dreamer’s intellectual and emotional crisis concerning the Pearl’s place
+          in the hierarchy of heaven, as V notes.</note>
+        <note type="enote" n="76">416<space rend="indent1"/><hi rend="italic">wage</hi>. G argues
+          that <hi rend="italic">wage</hi> must come from French “wager,” and here must be used in
+          the sense of “to be assured.” Gor emphasizes the mercantile in “continue securely” or
+          “bring reward,” anticipating the material rhetoric of line 417 and later of the vineyard
+          parable.</note>
+        <note type="enote" n="77">419<space rend="indent1"/><hi rend="italic">pyese</hi>. I accord
+          with V who argues that what editors have read as <hi rend="italic">prese</hi>, “value,” is
+          in fact <hi rend="italic">pyese</hi>, “maiden,” rendering lines 417–19: “And endowed with
+          all His heritage / Is His beloved. I am entirely His, / His maiden, His honored one; and
+          His lineage . . .” <hi rend="italic">Pyece</hi> for maiden appears in lines 192 and 229.
+          The maiden’s description of her marriage echoes the mystical marriage of St. Katherine in
+          the many late medieval versions of the legend. When pressed to marry, Katherine finally
+          agrees, but sets the condition that her bridegroom must be the richest, the most
+          beautiful, and the most noble (compare <hi rend="italic">parage</hi>, also in line 419)
+          man in the world — adding, in some versions, that he also has to be born of a virgin. See
+          for example, <hi rend="italic">St. Katherine of Alexandria</hi><hi rend="italic">: The
+            Late Middle English Prose Legend in Southwell Minster MS</hi><hi rend="italic"> 7</hi>,
+          ed. Saara Nevanlinna and Irma Taavitsainen (Cambridge: D. S. Brewer, 1993), p. 73, and
+          Katherine J. Lewis, <hi rend="italic">The Cult</hi><hi rend="italic"> of St. Katherine in
+            Late Medieval England</hi> (Woodbridge, Suffolk: Boydell Press, 2000).</note>
+        <note type="enote" n="78">430<space rend="indent1"/><hi rend="italic">Fenyx of Arraby</hi>.
+          Christ is often compared to the phoenix, a symbol of rebirth; in this case the phoenix
+          represents Mary’s immaculate conception. As G notes, Blanch is compared to the <hi
+            rend="italic">Fenix of Arabye</hi> in Chaucer’s <hi rend="italic">Book of the
+            Duchess</hi> (lines 980–81).</note>
+        <note type="enote" n="79">431<space rend="indent1"/><hi rend="italic">freles</hi>. AW follow
+          H and emend to <hi rend="italic">fereles</hi>, “without equal,” in keeping with the
+          emphasis in the stanza on the Virgin’s uniqueness. “Flawless,” however, is consistent with
+          the metaphor of the phoenix as a sign of the immaculate conception.</note>
+        <note type="enote" n="80">432<space rend="indent1"/><hi rend="italic">quen of
+          cortaysye</hi>. I.e., the Virgin Mary.</note>
+        <note type="enote" n="81">434<space rend="indent1"/><hi rend="italic">folde</hi>. I.e.,
+          folds her face in her hands or, as G (also H) suggests, her garment. A, AW, and Gor
+          translate as “upturned.”</note>
+        <note type="enote" n="82">441<space rend="indent1"/><hi rend="italic">emperise</hi>. I.e.,
+          Mary the “quen of cortaysye” (line 432).</note>
+        <note type="enote" n="83">450<space rend="indent1"/><hi rend="italic">fayn of otheres
+            hafyng</hi>. The maiden describes heaven as egalitarian and without envy, with each
+          queen or king (i.e., saved soul) rejoicing in the <hi rend="italic">hafyng</hi> or
+          possessions of the others.</note>
+        <note type="enote" n="84">445–52<space rend="indent1"/>Compare <hi rend="italic">The London
+            Lapidary of King Philip</hi>: “nyne ordres of angeles that lyven in that joye that noon
+          hath envye of othre, that is the life corouned, in the which shal noon entre but he be
+          kyng corouned or quene, for all be corouned be name” (<hi rend="italic">English
+            Medieval</hi><hi rend="italic"> Lapidaries</hi>, ed. Joan Evans and Mary S. Sargeantson,
+          EETS o.s. 190 [London: Oxford University Press, 1933], pp. 19–20, as noted by Robert J.
+          Blanch, “Color Symbolism and Mystical Contemplation in <hi rend="italic">Pearl</hi>,” <hi
+            rend="italic">Nottingham Medieval Studies</hi> 17 [1973], 74). See also V.</note>
+        <note type="enote" n="85">457<space rend="indent1"/><hi rend="italic">Saynt Poule</hi>. The
+          definition of courtesy that follows is an exposition of St. Paul’s analogy in
+          I Corinthians 12:12–31. The image of the corporate body describes the ordering of heaven
+          and of the soul as an idealized courtly society, an organism of egalitarian
+          hierarchy.</note>
+        <note type="enote" n="86">464<space rend="indent1"/>I.e., exists between your limbs.</note>
+        <note type="enote" n="87">473<space rend="indent1"/><hi rend="italic">over hygh</hi>. The
+          dreamer objects to the beatitude of one so young, noting that the same reward is given to
+          one who suffers “in penaunce” all his life (line 477).</note>
+        <note type="enote" n="88">485<space rend="indent1"/><hi rend="italic">Pater ne Crede</hi>.
+          The dreamer’s point that the <hi rend="italic">Pearl</hi>-maiden’s two-year sojourn in
+          “oure thede” (line 483) was too short to learn the Paternoster (Lord’s Prayer) or Creed
+          suggests that she was a child, as most readers have assumed. H suggests that she was a
+          novitiate, as does Staley, “<hi rend="italic">Pearl</hi> and the Contingencies of Love and
+          Piety.” Mother Angela Carson, O.S.U., “Aspects of Elegy in the Middle English <hi
+            rend="italic">Pearl</hi>,” <hi rend="italic">Studies in Philology</hi> 62 (1965), 17,
+          argues that the lines indicate she was a foreigner.</note>
+        <note type="enote" n="89">497<space rend="indent1"/><hi rend="italic">As </hi><hi
+            rend="italic">Mathew meles</hi>. The parable of the vineyard, lines 497–500, is from
+          Matthew 20:1–16. The poet’s changes to the biblical source give the parable application to
+          fourteenth-century social conditions, and perhaps even specifically to the Statute of
+          Laborers of 1388, according to Bowers, “The Politics of <hi rend="italic">Pearl</hi>”; and
+          Watkins.</note>
+        <note type="enote" n="90">504<space rend="indent1"/><hi rend="italic">dere the date</hi>.
+          The time of year is March and the activity is the pruning of vines, as in the March entry
+          in the <hi rend="italic">Très Riches </hi><hi rend="italic">Heures</hi> of the Duc de
+          Berry. <hi rend="italic">Date</hi> as link-word juxtaposes church time and merchant time;
+          see Barr, pp. 71–72.</note>
+        <note type="enote" n="91">505<space rend="indent1"/><hi rend="italic">hyne</hi>. A, AW, and
+          Gor translate as “laborers.” I translate as “households” because the uses of <hi
+            rend="italic">hyne</hi> in the poem (lines 632, 1211) refer broadly to members of a
+          household or even God’s household, rather than to laborers, as G notes.</note>
+        <note type="enote" n="92">512<space rend="indent1"/><hi rend="italic">man hit clos</hi>.
+          I.e., tie up the pruned vines.</note>
+        <note type="enote" n="93">555<space rend="indent1"/>Matthew 20:12 reads: <hi rend="italic"
+            >Hi novissimi una hora fecerunt</hi> (“These last have worked but one hour”). This verse
+          is paraphrased in line 551, but here <hi rend="italic">houres two</hi> effectively recalls
+          that the maiden “lyfed not two yer in oure thede” (line 483), as noted in V.</note>
+        <note type="enote" n="94">565–68<space rend="indent1"/>As G notes, these lines paraphrase
+          the Vulgate and seem to echo uncannily the Wycliffite Bible, Matthew 20:15: “‘Whether it
+          is not leueful to me to do that that Y wole? Whether thin iye is wicked, for Y am
+          good?’”</note>
+        <note type="enote" n="95">570–72<space rend="indent1"/>These lines paraphrase Matthew
+          20:16.</note>
+        <note type="enote" n="96">588<space rend="indent1"/><hi rend="italic">to-yere</hi>. Most
+          editors have translated “this year,” but as G notes, <hi rend="italic">to-yere</hi>
+          carries the colloquial sense of “for a long time.”</note>
+        <note type="enote" n="97">581–88<space rend="indent1"/>I.e., though she died early, she was
+          received fully into heaven.</note>
+        <note type="enote" n="98">603<space rend="indent1"/><hi rend="italic">inlyche</hi>. Editors,
+          except H and V, have translated as “alike, the same.” As V comments, in note to line 546,
+          “fully” “suits the interpretation of the parable of the vineyard more exactly, since each
+          soul receives ‘fully’ the reward of salvation, even though there are ranks in the
+          hierarchical system of heaven.”</note>
+        <note type="enote" n="99">609–10<space rend="indent1"/><hi rend="italic">dard</hi>. The word
+          may derive from OE <hi rend="italic">darian</hi>, “lurk in dread,” or from OE <hi
+            rend="italic">durran</hi>, “dare,” as Gor notes in a comment on the difficulty of these
+          lines. Most editors have followed G in rendering “His privilege is great who always stood
+          in awe / Of Him who brings salvation from sin.” My reading accords with AW, “His (God’s)
+          generosity is great (or abundant): those who at any time in their lives submitted to Him
+          who rescues sinners — from them no bliss will be withheld.”</note>
+        <note type="enote" n="100">617<space rend="indent1"/><hi rend="italic">bourne abate</hi>.
+          The sense of the maiden’s argument here is that everybody sins and forfeits heaven, but
+          God’s grace can save them.</note>
+        <note type="enote" n="101">635<space rend="indent1"/><hi rend="italic">fyne</hi>. Most
+          readers have read as adverb, “at the first in full.” I accord with the suggestion by
+          Carter Revard, “A Note on ‘at the fyrst fyne’ (<hi rend="italic">Pearl</hi> 635),” <hi
+            rend="italic">English Language Notes</hi> 1 (1964), 164–66, who interprets <hi
+            rend="italic">fyne</hi> as a noun according to <hi rend="italic">MED</hi> senses 6–11
+          (legal terms related to contracts) and translates “as according to the original
+          contract.”</note>
+        <note type="enote" n="102">652<space rend="indent1"/><hi rend="italic">deth secounde</hi>.
+          The first redemption over death, determined by Adam’s fall, is baptism; the second is in
+          Christ’s resurrection.</note>
+        <note type="enote" n="103">674<space rend="indent1"/><hi rend="italic">God</hi>. A, G, and
+          Gor interpret this as “good,” but, following suggestion by H, other editors, myself as
+          well, have read as <hi rend="italic">God</hi>.</note>
+        <note type="enote" n="104">677<space rend="indent1"/><hi rend="italic">Sauter</hi>. A
+          Psalter, or collection of the psalms. Collections of the psalms were among the few prayer
+          books normally owned by the laity; the term “psalter” could also mean a book of hours or a
+          type of compilation prayer book commonly owned by non-clerical or lay people, often
+          exquisitely illuminated. Many were owned by women. The passage paraphrases Psalm 14:1–3 or
+          Psalm 23:3, 4. For the history and use of books of hours, see John Harthan, <hi
+            rend="italic">Books of Hours</hi><hi rend="italic"> and Their Owners</hi> (London:
+          Thames and Hudson, 1982).</note>
+        <note type="enote" n="105">689<space rend="indent1"/><hi rend="italic">sas</hi>. G, Gor, H,
+          and V translate word as “sees,” but “says” makes far more sense with the biblical source.
+          AW emend to <hi rend="italic">sayz</hi>, a change that, as V shows, is not
+          necessary.</note>
+        <note type="enote" n="106">691<space rend="indent1"/><hi rend="italic">he</hi>. Gor and H
+          emend to <hi rend="italic">ho</hi>, i.e., “wisdom,” a female personification. As G notes,
+          Wisdom would have suggested Christ to a medieval reader; hence the pronoun <hi
+            rend="italic">he</hi> to indicate Wisdom as Christ.</note>
+        <note type="enote" n="107">697–700<space rend="indent1"/>See Psalm 142:2.</note>
+        <note type="enote" n="108">703<space rend="indent1"/><hi rend="italic">Allege</hi>. Early
+          editors read <hi rend="italic">allege</hi> as an imperative, “renounce your claim.”
+          Following Gor, editors have read <hi rend="italic">allege</hi> as conditional subjunctive,
+          “if you plead,” i.e., “if you try to plead your case before God, you might get trapped by
+          the same kind of talk,” entrapment, that is, in legalisms. For use of legal terms, see
+          Silar.</note>
+        <note type="enote" n="109">721<space rend="indent1"/><hi rend="italic">Jesu</hi>. This line
+          is the only place in the poem where the concatenation fails. AW substitute <hi
+            rend="italic">ryght</hi> for <hi rend="italic">Jesu</hi>, “justice,” as a
+          personification of Jesus.</note>
+        <note type="enote" n="110">711–24<space rend="indent1"/>Passage is based on Luke 18:15–17,
+          Matthew 19:13–15, and Mark 10:13–16.</note>
+        <note type="enote" n="111">733<space rend="indent1"/><hi rend="italic">makelles</hi>. G
+          emends to <hi rend="italic">maskeles</hi>, and also in line 757, to preserve the
+          continuity of the link words. But by alternating <hi rend="italic">makeles</hi> with <hi
+            rend="italic">maskeles</hi> the poet plays on the equivalence of spotlessness and
+          peerlessness.</note>
+        <note type="enote" n="112">735<space rend="indent1"/><hi rend="italic">hevenesse clere</hi>.
+          G emends to <hi rend="italic">hevenes spere</hi>, “heaven’s sphere,” to avoid repeating
+            <hi rend="italic">clere</hi> as rhyming word twice in one stanza. H and V translate as
+          “heaven’s brightness,” whereas other editors, and myself, translate <hi rend="italic"
+            >clere</hi> as an adjective modifying the noun <hi rend="italic">hevenesse</hi>,
+          “heaven.”</note>
+        <note type="enote" n="113">730–35<space rend="indent1"/>The story of the pearl of price
+          comes from Matthew 13:45–46.</note>
+        <note type="enote" n="114">740<space rend="indent1"/><hi rend="italic">stode</hi>. V accords
+          with G in reading <hi rend="italic">stode</hi> as a noun meaning “place”: <hi
+            rend="italic">hit stode</hi>, “its place.” Other editors, myself included, understand
+            <hi rend="italic">stode</hi> as a verb meaning either “stood” or “shone.” <hi
+            rend="italic">Stode</hi>, which appears frequently in the MS, almost always is in the
+          form of the verb. One possible meaning of the term as noun, however, is <hi rend="italic"
+            >MED</hi> sense 4, s.v., <hi rend="italic">stod</hi>, “an ornamental boss on a
+          garment.”</note>
+        <note type="enote" n="115">750<space rend="indent1"/><hi rend="italic">Pymalyon
+          paynted</hi>. The contrast between the work of nature and of art is conventional; see <hi
+            rend="italic">Le Roman </hi><hi rend="italic">de la Rose</hi>, 16013 ff. As Ovid tells
+          the story, Pygmalion carved an image of a beautiful woman and then fell in love with it.
+          The story was often used in the Middle Ages to signify the seductions of art and idolatry.
+          For discussion and illustrations, see Michael Camille, <hi rend="italic">The </hi><hi
+            rend="italic">Gothic Idol: Ideology and Image-Making in Medieval Art</hi> (Cambridge:
+          Cambridge University Press, 1991), pp. 316–38; and D. W. Robertson, Jr., <hi rend="italic"
+            >A Preface to Chaucer: Studies in Medieval Perspectives</hi> (Princeton: Princeton
+          University Press, 1969), pp. 99–103, 157–58. Chaucer uses the trope as a debate between
+          art and nature in The Physician’s Tale, lines 8–38.</note>
+        <note type="enote" n="116">755<space rend="indent1"/><hi rend="italic">ostriys</hi>. The
+          reading of this word has been the subject of a long debate. G emends to <hi rend="italic"
+            >of triys</hi>, “of peace, truce.” Gor reads the word as <hi rend="italic">offys</hi>,
+          “office,” a reading that has been followed by subsequent editors; so too AW, A, and C. The
+          issues over interpretation are based on the central letters of the word: are they <hi
+            rend="italic">ff</hi> or <hi rend="italic">st</hi> followed by a scribal abbreviation
+          for <hi rend="italic">ri</hi>? My vote for “oyster” has been swayed by the argument of E.
+          T. Donaldson that <hi rend="italic">ostriys</hi> is acceptable on orthographic, syntactic,
+          and textual/symbolic grounds; “Oysters, Forsooth: Two Readings in <hi rend="italic"
+            >Pearl</hi>,” in <hi rend="italic">Studies Presented to Tauno</hi><hi rend="italic"> F.
+            Mustanoja on the Occasion of His Sixtieth Birthday</hi>, <hi rend="italic"
+            >Neuphilologische</hi><hi rend="italic"> Mitteilungen</hi> 73 (1972), 75–82. While the
+          abbreviation mark indicating <hi rend="italic">ri</hi> could possibly be read as the top
+          of an <hi rend="italic">f</hi> that missed its connection with the stroke, as Davis argues
+          in his defense of a reading of the term as <hi rend="italic">offys</hi> (Norman Davis,
+          review of Gordon’s edition of <hi rend="italic">Pearl</hi>, <hi rend="italic">Medium
+            Aevum</hi> 23 [1954], 98–99), the word presents in the MS very clearly, and the letter
+          in question is unlike <hi rend="italic">f</hi> as written elsewhere in the MS. V says that
+          “the tops of f’s are not always securely joined in the MS” — but the example he gives, <hi
+            rend="italic">of</hi> in line 752, is not convincing, for in that example the top is
+          much closer to the stroke.<p style="enote-indent">“Oyster,” which can be derived without
+            emendation, can also be defended on textual grounds. As Donaldson argues, introducing an
+            oyster at this point in the poem would be entirely what one might expect of both poet
+            and dreamer. This stanza in particular is remarkable for its density of metaphor, full
+            of supposition and grounded in localizing particulars as the dreamer asks the pearl who
+            formed her and what bears her. In medieval natural history, pearls were believed to be
+            produced from dew drops swallowed by the oyster, a belief that contributed to the rich
+            symbolism of pearls. See Donkin, pp. 1–22.</p></note>
+        <note type="enote" n="117">761<space rend="indent1"/><hi rend="italic">wete</hi>. I accord
+          with A, AW, G, and Gor who translate as “wet,” e.g., “dismal” — a characterization of the
+          world that also perhaps answers, tongue-in-cheek, the narrator’s question about her origin
+          as oyster. Other editors have proposed very different translations: H reads as noun,
+          “woe,” and V the very plausible adjective “mad,” derived from <hi rend="italic">wede</hi>,
+          “to go insane.”</note>
+        <note type="enote" n="118">763<space rend="indent1"/>The language is from the Song of Songs
+          4:7–8: <hi rend="italic">Tota pulchra es, </hi><hi rend="italic">amica mea, et macula non
+            est in te. Veni de </hi><hi rend="italic">Libano, sponsa mea . . .</hi> (“You are fair,
+          my love, there is no flaw in you. Come with me from Lebanon, my bride . . . ”). The verse
+          was widely used in medieval literature, and in both sacred and fully profane
+          contexts.</note>
+        <note type="enote" n="119">769<space rend="indent1"/><hi rend="italic">bryd</hi>. Both
+          meanings of “bride” and “bird” are implied. The use of <hi rend="italic">bryd</hi>,
+          “bird,” for a girl is conventional in Middle English love poetry.</note>
+        <note type="enote" n="120">776<space rend="indent1"/>I.e., have lived in much strife as
+          virgin martyrs, as suggested by Morton Bloomfield, “Some Notes on <hi rend="italic">Sir
+            Gawain and the</hi><hi rend="italic"> Green Knight</hi> (lines 374, 546, 752, 1236) and
+            <hi rend="italic">Pearl</hi> (lines 1–12, 61, 775–776, 968),” in <hi rend="italic"
+            >Studies in</hi><hi rend="italic"> Language, Literature, and Culture of the Middle Ages
+            and Later</hi><hi rend="italic">: Studies in Honor of Rudolph Willard</hi>, ed. E. Bagby
+          Atwood and Archibald A. Hill (Austin: University of Texas Press, 1969), p. 302; or as
+          “career virgins,” as argued by Watson, in Brewer and Gibson, p. 302. For virgin martyrs,
+          see Karen A. Winstead, <hi rend="italic">Virgin Martyrs: Legends of Sainthood </hi><hi
+            rend="italic">in Late Medieval England</hi> (Ithaca: Cornell University Press,
+          1997).</note>
+        <note type="enote" n="121">792<space rend="indent1"/><hi rend="italic">The nwe cyté o
+            Jerusalem</hi>. This is the first of many references to the New Jerusalem, references
+          that increase in intensity up to the climactic or chthonic moment when the dreamer sees
+          the Lamb in the middle of the city. Representations of the New Jerusalem, the mystical and
+          heavenly city as distinct from the material city of “Jerusalem, Jordan, and Galalye” (line
+          817) that the maiden describes in the next stanzas (lines 793–840) appear in illustrations
+          of the Book of Revelation (Apocalypse). Illuminated manuscripts of the Apocalypse were
+          popular items among wealthy patrons in the high and late Middle Ages. See Introduction,
+          pp. 15–17; on political appropriations of Apocalypse imagery in late medieval England, see
+          Bowers, “<hi rend="italic">Pearl</hi> in Its Royal Setting.”</note>
+        <note type="enote" n="122">805–06<space rend="indent1"/>Jesus’ scourging and carrying of the
+          Cross to Calvary were popular subjects, illustrated widely in English panel painting and
+          alabasters and described in countless ways in lyrics, in devotional literature, and in the
+          medieval drama. A powerful dramatization of the nailing of Christ to the Cross appears in
+          the York <hi rend="italic">Crucifixion</hi>.</note>
+        <note type="enote" n="123">811<space rend="indent1"/>I.e., “for the sake of sin He set His
+          own life as totally unimportant.”</note>
+        <note type="enote" n="124">818<space rend="indent1"/>According to the Gospels John baptized
+          in Jordan, not in Jerusalem and Galilee.</note>
+        <note type="enote" n="125">819<space rend="indent1"/><hi rend="italic">Ysaye</hi>. See
+          Isaiah 53:7, where Christ’s silence before his accusers is prophesied.</note>
+        <note type="enote" n="126">824<space rend="indent1"/><hi rend="italic">upon</hi>. V reads as
+          adverb, “openly,” but most editors follow G, who has made a more convincing case for <hi
+            rend="italic">upon</hi> as a “preposition placed after the pronoun it governs,” “upon
+          that,” i.e., “at which all this world has worked,” or colloquially, “that all this world
+          has committed.”</note>
+        <note type="enote" n="127">829<space rend="indent1"/>From this point until the last stanza
+          group much of the imagery and language is taken from the Book of Revelation.</note>
+        <note type="enote" n="128">829–30<space rend="indent1"/>I.e., was perceived as a lamb by
+          “ayther prophete” (line 831), both John the Baptist and Isaiah, as named in lines
+          819–20.</note>
+        <note type="enote" n="129">833<space rend="indent1"/><hi rend="italic">The</hi><hi
+            rend="italic"> thryde tyme</hi>. I.e., first by Isaiah (53:7), then by John the Baptist,
+          then (the third time) by St. John the Evangelist (Revelation 5:6).</note>
+        <note type="enote" n="130">837<space rend="indent1"/><hi rend="italic">leves sware</hi>. In
+          Revelation John reads a scroll. <hi rend="italic">Leves sware</hi> suggest he reads a
+          book, as Gor notes.</note>
+        <note type="enote" n="131">841<space rend="indent1"/>This stanza group contains six stanzas,
+          unlike the five stanzas in each of the other nineteen stanza-groups. The additional
+          stanza, which brings the total lines of the poem to 1212, furthers the play on the number
+          twelve throughout the text: twelve lines per stanza, twelve gem-like foundation layers of
+          the New Jerusalem (lines 993–1021); twelve degrees of the New Jerusalem (lines 1021–32);
+          twelve gates of the New Jerusalem (line 1035). See Introduction, p. 5, and Peck, pp.
+          15–64. Peck, pp. 44–51, considers structural and symbolic uses of 12 in <hi rend="italic"
+            >Pearl</hi>.</note>
+        <note type="enote" n="132"><space rend="indent1"/><hi rend="italic">pechche</hi>. Most
+          editors translate as “stain.” My reading as “patch” accords with G, H, and V.</note>
+        <note type="enote" n="133">869<space rend="indent1"/><hi rend="italic">maydennes</hi>. In
+          his biblical commentary, widely read in the fourteenth century, Augustine glosses
+          “maidens” to mean virgins generically — i.e., either female or male, as AW note. In the
+          Latin Vulgate Bible, however, “virgins” are explicitly male — i.e., “they who were not
+          polluted by women.” For virginity in the Middle Ages see Barbara Newman, <hi rend="italic"
+            >From</hi><hi rend="italic"> Virile Woman to WomanChrist: Studies in Medieval Religion
+            and Literature</hi> (Philadelphia: University of Pennsylvania Press, 1995), pp. 28–35.
+          Although <hi rend="italic">mayden</hi> may designate a male who has abstained from sex, it
+          is a common term in Middle English love poetry, and the person named as such is almost
+          invariably female. For the virginity tradition and <hi rend="italic">Pearl</hi>, see
+          Watson, in Brewer and Gibson, p. 301.</note>
+        <note type="enote" n="134">873–75<space rend="indent1"/>The destructive scenes of the Book
+          of Revelation are not evoked in <hi rend="italic">Pearl</hi>. These lines alone convey
+          something of the sense of destruction, or at least natural forces at work, so common in
+          many medieval visual renderings of the Book of Revelation, from illuminated apocalypse
+          manuscripts to tympani, carved scenes over doorways, on medieval parishes and cathedrals.
+          See Introduction, pp. 15–17. For a richly illustrated introduction to the topic, see
+          Jonathan Alexander, with Michael Michael and Martin Kauffmann, “The Last Things:
+          Representing the Unrepresentable,” in <hi rend="italic">The Apocalypse and the Shape of
+            </hi><hi rend="italic">Things to Come</hi>, ed. Frances Carey (London: British Museum
+          Press, 1999), pp. 43–98.</note>
+        <note type="enote" n="135">886–87<space rend="indent1"/><hi rend="italic">fowre bestes . . .
+            aldermen</hi>. The four beasts are the Evangelists, represented in medieval iconography
+          as lion (Mark), ox (Luke), eagle (John), and man (Matthew). <hi rend="italic"
+            >Aldermen</hi> doubtless signifies the twenty-four elders. Scenes representing God
+          enthroned and surrounded by the four evangelists and by elders with musical instruments
+          appear frequently in illuminated Apocalypse manuscripts. For the biblical sources for the
+          imaging of beasts, elders, and enthroned God, see Revelation 4:4, 7, and Ezekiel 1. The
+          term <hi rend="italic">aldermen</hi> may give this description a particularly familiar and
+          urban cast. A chronicle entry for 1392 recounts that the Mayor of London was summoned with
+          “24 aldermannis” (among others) to a council with the king; <hi rend="italic">Knighton’s
+            Chronicle 1337</hi><hi rend="italic">–1396</hi>, ed. and trans. G. H. Martin (Oxford:
+          Clarendon Press, 1995), p. 544.</note>
+        <note type="enote" n="136">892<space rend="indent1"/><hi rend="italic">meyny</hi>. Used here
+          as in lines 899 and 960, <hi rend="italic">meyny</hi> describes a lord’s retinue in terms
+          consistent with late fourteenth-century aristocratic practice.</note>
+        <note type="enote" n="137"><space rend="indent1"/><hi rend="italic">swe</hi>. Probably from
+            <hi rend="italic">sue</hi>, “follow,” but perhaps from <hi rend="italic">sough</hi> and
+          meaning “the swell of praise,” in keeping with the emphasis on music and sound.</note>
+        <note type="enote" n="138">894<space rend="indent1"/><hi rend="italic">newe fryt</hi>.
+          Compare the fruits in the transformed garden at the beginning of the poem, lines 87 and
+          104.</note>
+        <note type="enote" n="139">895<space rend="indent1"/><hi rend="italic">hit</hi>. I.e., the
+          “meyny” or “retinue” of virgins singing in praise of and in likeness to the Lamb.</note>
+        <note type="enote" n="140">896<space rend="indent1"/><hi rend="italic">lote</hi>. The word
+          may signify either voice or appearance, as may <hi rend="italic">hwe</hi>; compare line
+          873, where “hue” refers to the cry sounded in heaven. The evocation of sound is consistent
+          with the emphasis on voice and melody in these stanzas. Editors translate <hi
+            rend="italic">hwe</hi> as “hue” (color); I prefer “sound” in keeping with references to
+          song earlier in the stanza.</note>
+        <note type="enote" n="141">865–900<space rend="indent1"/>See Revelation 14:1–5 for biblical
+          source.</note>
+        <note type="enote" n="142">905<space rend="indent1"/><hi rend="italic">mokke and mul</hi>.
+            <hi rend="italic">Mul</hi>, “dust” or “mud,” recalls “moul” of line 23, and here
+          specifically suggests the difference in social class between the pearl and himself. As
+          Barr notes, mud is often used in medieval texts to designate peasants (pp. 60,
+          74n17).</note>
+        <note type="enote" n="143">920<space rend="indent1"/><hi rend="italic">David</hi>. David was
+          the conqueror of Jerusalem and second king of Israel, 1000–962 BCE.</note>
+        <note type="enote" n="144">922<space rend="indent1"/><hi rend="italic">note</hi>. A term
+          that suggests both a dazzling undertaking as well as musical sound. As Osgood points out,
+          in St. Erkenwald the new building of St. Paul’s is also “a noble note.”</note>
+        <note type="enote" n="145">923<space rend="indent1"/><hi rend="italic">under mone</hi>.
+          I.e., on earth. The phrase also implies a contrast between the maiden’s spotlessness and
+          the changeable nature of the moon — its spottiness: see line 1070.</note>
+        <note type="enote" n="146">925<space rend="indent1"/><hi rend="italic">moteles meyny</hi>. A
+          pun on “homeless” and “spotless,” evoking the similarly uneasy pun developed in the uses
+          of “spot” in the first stanza group.</note>
+        <note type="enote" n="147">943<space rend="indent1"/><hi rend="italic">nwe</hi>. <hi
+            rend="italic">Nwe</hi> may refer to the new law (Christianity) or to the new Jerusalem.
+          The maiden explains that the literal Jerusalem is the city of the old law, remade
+          figuratively as the new or heavenly Jerusalem through the crucifixion, the event enacting
+          the new law — i.e., that humans can win eternal life.</note>
+        <note type="enote" n="148"><space rend="indent1"/><hi rend="italic">sonde</hi>. <hi
+            rend="italic">Sonde</hi> may alternatively be read as a noun, as in AW and V who
+          translate <hi rend="italic">sonde</hi> as “embassy” and “dispensation”: “but the new, that
+          descended by God’s embassy.”</note>
+        <note type="enote" n="149">952<space rend="indent1"/><hi rend="italic">Ceté of God</hi>.
+          Used in the Old Testament and in biblical exegesis to denote both old and new
+          Jerusalems.</note>
+        <note type="enote" n="150"><space rend="indent1"/><hi rend="italic">Syght of Pes</hi>. Also
+            <hi rend="italic">visio pacis</hi>; denotes more directly the new or heavenly
+          city.</note>
+        <note type="enote" n="151">953<space rend="indent1"/><hi rend="italic">at ene</hi>. Editors
+          translate variously: G and H as “formerly”; A, AW and Gor as “was made secure”; V as
+          “immediately.”</note>
+        <note type="enote" n="152">967<space rend="indent1"/><hi rend="italic">aquylde</hi>. Editors
+          translate variously: AW as “obtained permission” and V as “prevailed upon.” S.v., <hi
+            rend="italic">aquylde</hi>
+          <hi rend="italic">MED</hi> gives “obtain” as well as “flush, track, pursue,” meanings that
+          continue a pattern of hunting references that appears throughout the poem, e.g., lines 184
+          and 345.</note>
+        <note type="enote" n="153">969<space rend="indent1"/><hi rend="italic">cloystor</hi>.
+          “Cloister,” “enclosure,” as metonym for “city,” but with sense of enclosure, emphasizing
+          the idea that heaven is an ideal cloister.</note>
+        <note type="enote" n="154">970<space rend="indent1"/><hi rend="italic">fote</hi>. Editors
+          have differed on whether we are to take <hi rend="italic">fote</hi> as a measure of
+          distance or as the body part. Its placement as final word in the line leaves both
+          possibilities in play.</note>
+        <note type="enote" n="155">979–81<space rend="indent1"/>In Revelation 21:10. John is taken
+          by the angel to a mountain, where he sees the city descending from heaven.</note>
+        <note type="enote" n="156">999<space rend="indent1"/><hi rend="italic">Jasper</hi>. As AW
+          and Gor note, not the modern jasper, but a brightly colored and especially green
+          chalcedony.</note>
+        <note type="enote" n="157">1003<space rend="indent1"/><hi rend="italic">calsydoyne</hi>.
+          Probably a kind of white quartz. See note in Gor.</note>
+        <note type="enote" n="158">1012<space rend="indent1"/><hi rend="italic">twynne-hew</hi>. MS:
+            <hi rend="italic">twy</hi><hi rend="italic">n̄</hi><hi rend="italic">e how</hi> (<hi
+            rend="italic">twynne </hi><hi rend="italic">how</hi>). A, AW, and Gor emend to <hi
+            rend="italic">twynne-hew</hi>. As notes in G and Gor explain, the twin-hue of the topaz
+          may derive from the lapidaries or from a commentary on the Apocalypse, such as Bede
+          (Migne, PL 93.200): <hi rend="italic">topasius . . . duos habere fertur colores; unum auri
+            purissimi, et alterum </hi><hi rend="italic">aetherea claritate relucentem</hi> [topaz .
+          . . is said to have two colors; one of the purest gold, and the other reflecting ethereal
+          clarity].</note>
+        <note type="enote" n="159">994–1020<space rend="indent1"/>The natural and mystical
+          properties of each of these stones are detailed in medieval lapidaries; see Robert J.
+          Blanch, “Precious Metal and Gem Symbolism in <hi rend="italic">Pearl</hi>,” in <hi
+            rend="italic">Sir Gawain and Pearl: Critical Essays</hi>, ed. Robert J. Blanch, pp.
+          86–97; and Riddy, in Brewer and Gibson, pp. 143–55. Except for the ruby of line 1007, the
+          catalogue follows closely the account in Revelation 21.</note>
+        <note type="enote" n="160">1027<space rend="indent1"/><hi rend="italic">wones wythinne</hi>.
+          As G notes, Revelation 21 says nothing of dwellings within the city.</note>
+        <note type="enote" n="161">1030<space rend="indent1"/><hi rend="italic">Twelve
+          forlonge</hi>. Revelation 21:16 has 12,000 furlongs. G omits <hi rend="italic">space</hi>
+          and adds <hi rend="italic">thousande</hi>. He is probably correct that 12 represents a
+          scribal error and that the line was somehow initially rendered to convey 12,000, in
+          keeping with the biblical source. Charles Moorman, however, argues that 12 furlongs
+          accords with the dimensions of a medieval manor, “manayre” (line 1029). See “Some Notes on
+            <hi rend="italic">Patience</hi> and <hi rend="italic">Pearl</hi>,” <hi rend="italic"
+            >Southern Quarterly</hi> 4 (1965), 72–73. Revelation 21 also makes no mention of “wones
+          wythinne” (line 1027), a detail added to both familiarize and domesticate the New
+          Jerusalem.</note>
+        <note type="enote" n="162">1032<space rend="indent1"/>I.e., measured by the angel with the
+          measuring rod of Ezekiel 40–44.</note>
+        <note type="enote" n="163">1041<space rend="indent1"/><hi rend="italic">byrth-whates</hi>. G
+          emends to <hi rend="italic">byrthe-whates</hi>. The idea that the names of the children of
+          Israel are written on the gates of the city derives from Revelation 21:12; that they
+          appear according to the order of their birth, from Exodus 28.</note>
+        <note type="enote" n="164">1052<space rend="indent1"/><hi rend="italic">apparaylmente</hi>.
+          The term likely refers to the elders and evangelists, as H argues, as the maiden has
+          described in lines 885–87.</note>
+        <note type="enote" n="165">1058<space rend="indent1"/><hi rend="italic">flet</hi>. Editors
+          have translated variously as “tidal estuary” (V) and as the verb “flowed” (H). <hi
+            rend="italic">Flet</hi>, from “floor, ground” accords most closely with the sense of the
+          source in Revelation: “flowing from the throne of God,” a scene depicted in some
+          illuminated manuscripts, i.e., the Trinity College Apocalypse, which shows the river
+          flowing out of the room in which God is enthroned. See the illustration in Jonathan
+          Alexander, “The Last Things: Representing the Unrepresentable,” in <hi rend="italic"
+            >The</hi><hi rend="italic"> Apocalypse and the Shape of Things to Come</hi>, ed. Frances
+          Carey, p. 77.</note>
+        <note type="enote" n="166">1069 ff.<space rend="indent1"/>The stanza describes the
+          miraculous, God-generated light of the New Jerusalem, a brilliance that eclipses other
+          celestial bodies, i.e., moon and sun.</note>
+        <note type="enote" n="167">1077–80<space rend="indent1"/>See Revelation 22:2.</note>
+        <note type="enote" n="168">1093<space rend="indent1"/><hi rend="italic">maynful</hi>.
+          Compare the expression “might and main,” in Middle English a conventional formula, “myghty
+          and maynful.”</note>
+        <note type="enote" n="169">1099<space rend="indent1"/><hi rend="italic">vergynes</hi>. See
+          note to line 869.</note>
+        <note type="enote" n="170">1098–1100<space rend="indent1"/>See Revelation 14:4.</note>
+        <note type="enote" n="171">1106<space rend="indent1"/>See Revelation 21:21.</note>
+        <note type="enote" n="172">1107<space rend="indent1"/>See Revelation 5:11.</note>
+        <note type="enote" n="173">1108<space rend="indent1"/><hi rend="italic">livrés</hi>. G
+          emends to <hi rend="italic">livre</hi>. Most editors translate as “dress.” <hi
+            rend="italic">Livrés</hi> also means the official garb of a group or guild, which would
+          seem to be the sense intended here. For a discussion of livery badges in the court of
+          Richard II and in the Wilton Diptych, see Riddy, in Brewer and Gibson, p. 153n; Bowers,
+            “<hi rend="italic">Pearl</hi> in Its Royal Setting,” pp. 136–39; and Barr, pp. 67–68.
+          See also note to line 199.</note>
+        <note type="enote" n="174">1110<space rend="indent1"/>See Revelation 14:1–4.</note>
+        <note type="enote" n="175">1111<space rend="indent1"/><hi rend="italic">golde</hi>. MS: <hi
+            rend="italic">glode</hi>. Editors emend. See Revelation 5:6.</note>
+        <note type="enote" n="176">1126<space rend="indent1"/><hi rend="italic">Vertues</hi>. One of
+          the nine orders of angels.</note>
+        <note type="enote" n="177">1135<space rend="indent1"/><hi rend="italic">wounde ful
+          wyde</hi>. The image is of the sacrificial Lamb, Christ crucified. Field and Whitaker
+          discuss the medieval pictorial traditions for the image; for a psychoanalytic reading of
+          the wound, see Stanbury, “Feminist Masterplots.”</note>
+        <note type="enote" n="178">1156–59<space rend="indent1"/>These lines present many
+          possibilities for interpretation. In line 1156, <hi rend="italic">walte</hi> has been read
+          as “held, set,” from Middle English <hi rend="italic">wale</hi> or <hi rend="italic"
+            >welde</hi>, by A, AW, G, and Gor; as “kept” by C; and as “vexed” by H and V. The <hi
+            rend="italic">MED</hi> suggests “chosen,” p. ppl. of <hi rend="italic">walen</hi>, a
+          reading with which I concur: i.e., although she has already been claimed or chosen by the
+          Lamb, the dreamer still wants to hurl himself into the stream.</note>
+        <note type="enote" n="179">1157–59<space rend="indent1"/>G connects <hi rend="italic">fech
+            me bur</hi> (line 1158) with the dialect phrase “to take one’s birr,” i.e., to gather
+          momentum for a leap, and translates: “Nothing, methought, might hinder me / From fetching
+          birr and taking off; / And noght should keep me from the start.” A reads: “I thought that
+          nothing might hinder me from gathering my strength and taking possession (of the Maiden)
+          for myself.” My reading of the lines approximates that of AW: “I thought that nothing
+          could harm me by dealing me a blow and offering obstruction to me.” <hi rend="italic"
+            >Bur</hi> appears frequently in <hi rend="italic">Sir Gawain and the Green Knight</hi>
+          in the sense of a martial “blow.” This stanza and the following are rich in abrupt
+          monosyllabic words conveying suddenness and violence.</note>
+        <note type="enote" n="180">1174<space rend="indent1"/><hi rend="italic">raxled</hi>. I.e.,
+          in the sense of awakening from a swoon.</note>
+        <note type="enote" n="181">1205<space rend="indent1"/><hi rend="italic">lote</hi>. <hi
+            rend="italic">Lote</hi>, Middle English <hi rend="italic">lot</hi>, which some editors
+          translate as “experience,” carries connotations of chance or luck. AW note that <hi
+            rend="italic">lote</hi> can also mean “speech” or “word”: “I received this word.”</note>
+        <note type="enote" n="182">1206<space rend="indent1"/><hi rend="italic">enclyin</hi>.
+          Editors translate “lying prostrate” — i.e., the dreamer. I accord with V in following <hi
+            rend="italic">MED</hi> suggestion that term is an adjective, <hi rend="italic"
+            >enclin</hi>, modifying the pearl, “bowed down, humble, submissive.”</note>
+        <note type="enote" n="183">1208<space rend="indent1"/><hi rend="italic">In Krystes dere
+            blessyng and myn</hi>. This phrase appears frequently in addresses from parent to child
+          in the late Middle Ages, as observed by Norman Davis, “A Note on <hi rend="italic"
+            >Pearl</hi>,” in Conley, ed., pp. 325–34.</note>
+        <note type="enote" n="184">1209<space rend="indent1"/><hi rend="italic">forme of bred and
+            wyn</hi>. I.e., the visual display of the host during the Mass. The phrase, part of the
+          prayer at communion, was, as Margaret Aston says, “the laconic lay equivalent for
+          transubstantiation in all its complexities.” See <hi rend="italic">Faith and Fire: Popular
+            and Unpopular</hi><hi rend="italic"> Religion, 1350–1600</hi> (Rio Grande, Ohio:
+          Hambledon Press, 1993), pp. 46–47. For uses of the formula, see also John Mirk’s <hi
+            rend="italic">Instructions for Parish Priests</hi>, ed. Edward Peacock, EETS o.s. 31
+          (London: Trübner &amp; Co., 1868; Woodbridge, Suffolk: Boydell &amp; Brewer, 1996), p. 8,
+          line 246, and p. 291. The formula also appears frequently in fourteenth- and
+          fifteenth-century debates about the Eucharistic rite: see for example the “Testimony of
+          William Thorpe” in <hi rend="italic">Two Wycliffite Texts: The Sermon of</hi><hi
+            rend="italic"> William Taylor 1406: The Testimony of William Thorpe 1407</hi>, ed. Anne
+          Hudson, EETS o.s. 301 (Oxford: Oxford University Press, 1993), p. 31.<p
+            style="enote-indent">Most editors understand <hi rend="italic">That</hi> as a reference
+            to Christ. Phillips, p. 479, argues that <hi rend="italic">That</hi> refers to the pearl
+            (“hit” of line 1207) and both refer to the Eucharistic wafer.</p></note>
+        <note type="enote" n="185">1211<space rend="indent1"/><hi rend="italic">homly hyne</hi>. The
+          term <hi rend="italic">homly</hi> defies precise translation in modern English. It refers
+          literally to the “homely,” to things of the household and private life, with the
+          implication that <hi rend="italic">homly hyne</hi> are trustworthy and trusting household
+          servants, allied with the lord or head of household in a harmonious hierarchical
+          relationship.</note>
+      </div>
+    </body>
+  </text>
+</TEI>

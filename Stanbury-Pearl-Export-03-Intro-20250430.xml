@@ -1,0 +1,1090 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Stanbury-Pearl-Export-03-Intro-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Introduction</title>
+        <author>Stanbury, Sarah</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Amster, Mara I.</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-04" to="2025-05">Audited documents prior to print/export</resp>
+          <resp from="2025-04" to="2025-04">Collected metadata</resp>
+          <resp from="2025-01" to="2025-02">Copyedited and proofread</resp>
+          <resp from="2025-04" to="2025-05">Encoded TEI</resp>
+          <resp from="2025-04" to="2025-04">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-01" to="2025-04">Entered corrections for digital edition</resp>
+          <resp from="2025-01" to="2025-02">Entered corrections for print edition</resp>
+          <resp from="2025-01" to="2025-02">Formatted for print edition</resp>
+          <resp from="2025-01" to="2025-04">Formatted for XML export</resp>
+          <resp from="2025-05" to="2025-05">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2024-02" to="2024-02">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Symons, Dana M.</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Mara I. Amster</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John William Sutton</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Dana M. Symons</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Assistant Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Stanbury, Sarah</editor>
+            <title>Pearl</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2001</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/stanbury-pearl/blob/main/stanbury-pearl-export-corrections-log.docx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 2001</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Stanbury-Pearl-Export-03-Intro"/>
+      <div type="text">
+        <p style="bodyfirst" n="1">The poem known as <hi rend="italic">Pearl</hi> was written in
+          England in the fourteenth century. It exists today in a small vellum manuscript, one of
+          the treasures of the British Library, MS Cotton Nero A.x., as the first of four poems
+          copied by a single scribe. Following <hi rend="italic">Pearl</hi> are three more
+          alliterative narratives, two of them, <hi rend="italic">Patience</hi> and <hi
+            rend="italic">Cleanness</hi>, retellings of Old Testament stories, and the last the
+          Arthurian masterpiece, <hi rend="italic">Sir Gawain and the Green Knight</hi>. All four
+          poems were probably written by the same poet, but who that poet was remains a mystery, as
+          indeed does much of the manuscript’s history. There is little surprising about the absence
+          of an author’s name attached to one or all of these poems; until the fifteenth century and
+          later, writers working in English seldom signed their work. English was perhaps deemed too
+          common and “vernacular” to bear claiming in a world where French had remained the lingua
+          franca of international courtly business and of English high culture since the time of the
+          Norman conquest. What is more surprising is the apparent marginalization of these
+          sophisticated and exuberant poems. To gauge the popularity of a text in a pre-print
+          culture, we can often use the number of surviving manuscripts as a general guide. For <hi
+            rend="italic">Pearl</hi>, <hi rend="italic">Patience</hi>, <hi rend="italic"
+            >Cleanness</hi>, and <hi rend="italic">Sir Gawain and the Green Knight</hi>, there
+          remains only the one in which they have survived together. To gain a sense of a work’s
+          importance in its own time we can also pay attention to its critical legacy, the responses
+          of contemporaries and followers, for popular narratives intercalate richly with other
+          texts as writers read and borrow from each other. For the texts in the <hi rend="italic"
+            >Pearl</hi> manuscript there exist only the vaguest of echoes in later writings to
+          suggest that they were read or known at all. Yet these poems rank with the works of
+          Chaucer and Langland for wit, virtuosity with language and prosody, learnedness, and sheer
+          skill in telling a story.</p>
+        <p style="body" n="1"><hi rend="italic">Pearl</hi>, the first poem in the manuscript, leads
+          off with a rich display of these qualities in a story of crossing-over, the stepping out
+          from the ordinary life into a parallel universe where things operate by different natural
+          laws: down the rabbit hole, through the wardrobe or looking glass, across the ocean to be
+          shipwrecked on Prospero’s island or, more recently, across a bridge to the island of
+          Willow Springs in Gloria Naylor’s haunting novel, <hi rend="italic">Mama Day</hi>, where
+          the crossing-over moves into a place of memory and hope, the nostalgic space of home as
+          well as Beulah or Eden, the earthly paradise. If <hi rend="italic">Pearl</hi> resists
+          identification by author, date, occasion, or place of composition, it can be localized by
+          its conversation with other stories of crossing-over, which most often take the form in
+          the Middle Ages of dream visions, stories of transport that occur when the figure telling
+          the story falls asleep. As a narrative structure, the dream vision claims a deep heritage
+          in some of the most widely read vernacular texts of western European culture. The Italian
+            <hi rend="italic">Divine </hi><hi rend="italic">Comedy</hi> by Dante and the French <hi
+            rend="italic">Roman de la Rose</hi>, begun by Guillaume de Lorris and continued by Jean
+          de Meun, both seem to have been read and known by the author of <hi rend="italic"
+            >Pearl</hi>. The use of the dream as a narrative point of departure also structures the
+          English <hi rend="italic">Piers </hi><hi rend="italic">Plowman</hi> by William Langland
+          and the four great dream visions by Geoffrey Chaucer. What these narratives share — and
+          indeed, what it may be said that all stories of crossing-over share — is a place of
+          possibility, where the narrative begins with a sense of being stuck or even trapped and
+          then moves into a place of freedom or expansiveness. In his dream the narrator of <hi
+            rend="italic">Pearl</hi> slips into an “aventure,” which means “marvel” or “quest” (line
+          64). Dante at the opening of <hi rend="italic">Inferno</hi> is trapped in a dark wood, in
+          the middle of his life, but in his vision becomes a traveler in time and space, circling
+          down through hell and then climbing up to a vision of paradise. Harry Potter is virtually
+          a prisoner of the Dursleys, but transposed to Hogwarts, he is the airborne star of
+          quidditch.</p>
+        <p style="body" n="2"><hi rend="italic">Pearl</hi> similarly opens in a setting that
+          emphasizes limits: “clos,” meaning “set” or “enclosed,” is a key word of the second line.
+          In its staging of a dream vision, <hi rend="italic">Pearl</hi> is explicitly situated
+          within a courtly and aristocratic world; and indeed, the poem in many respects takes its
+          shape and particular power from the interplay between a courtly habitus, a place of money,
+          judgment, pleasures, and rules of behavior, and the uncanny yet familiar space of the
+          crossing-over. Beginning with a precious object, the poem also opens with attention to
+          location and surveillance, set in motion through acts of judgment in familiar kinds of
+          spaces. The jeweler/narrator looks at and judges gems in general; he has one in particular
+          in a splendid setting, so “clanly clos” (line 2), but it falls from him and disappears
+          into the ground; his “[a]llas” (line 9) precipitates the poem backwards into the past
+          through a memory of loss.</p>
+        <p style="body" n="3">The poem takes off from this point of departure as a story of loss and
+          a quest, opening as well in a space that can only move outward from containment: the pearl
+          in a setting, the earth into which the pearl disappears, the garden into which the
+          narrator enters to grieve it. Following the narrator’s swoon in the garden, he finds
+          himself in a landscape peculiarly transformed into a place of natural delights, evocative
+          of accounts of the earthly paradise and also of the sensuous love gardens that appear so
+          frequently in medieval literature. In this sinuous Eden he forgets what he has lost. He
+          follows a stream and enjoys the pleasures of the senses — fragrances of flowers and fruit,
+          birdsong, the light through the leaves. Soon, however, he is literally brought up short
+          when he sees a young woman standing on the other side of the brook. Dressed all in white,
+          with a large pearl in the middle of her breast, she is disturbingly familiar. He asks her
+          if she is his lost pearl, a question that she evades as she points to his faulty logic in
+          saying that she is lost. From this point the story moves into a dialogue. In a passionate
+          interrogation the narrator struggles to place her within known frames of reference and
+          even to reclaim her: how can she be lost (dead) and found? Now that he has found her
+          again, how can he give her up? Where does she live? How can she, who lived “not two yer”
+          (line 483) in our land, be a queen in heaven? To his questions she responds with answers
+          that are both learned and measured, and occasionally even disciplinary, meeting the rage
+          of his questions with cool theological puzzles: he cannot understand the divide between
+          them because she has moved to a place that operates by an apparently different set of laws
+          — and whose operations form the intellectual substance of her replies. To his questions
+          about where she lives, she promises him a sight of her home, and finally leads him to a
+          vision of a beautiful city, the New Jerusalem, where she lives as a bride of the Lamb.
+          This forms the final location of the vision, a visionary chthonic moment that moves him to
+          try to cross the stream. It is at that point that he wakes up, and the poem ends.</p>
+        <p style="heading" n="1">Metaphor and Form</p>
+        <p style="bodyfirst" n="2">In the great dream vision stories of the Middle Ages, the drama
+          of the other-world adventure is made explicitly homely or familiar through use of a
+          first-person narrator, and one who conventionally falls into certain categories of
+          “ordinariness”: he is foolish or middle-aged, or overtired, or sad. The use of a
+          first-person voice, coupled with techniques of familiarization, make it easy to assume the
+          narrator’s persona and go along for the ride. In <hi rend="italic">Pearl</hi> that
+          assumption or costuming in the narrator’s identity quickly plays into a story of troubled
+          equivalence, since from the first word we get it wrong; what we take as a pearl, we soon
+          find out, is more than a pearl. The pearl is a metaphor whose various meanings, unfolding
+          as the story progresses, are subject to repeated reassessment. Paul Ricoeur speaks of
+          metaphor as a “planned category mistake” in which linguistic limits and categories are
+          willfully broken to engage new possibilities: “the power of metaphor would be to break an
+          old categorization, in order to establish new logical frontiers on the ruins of their
+            forerunners.”<note target="#1" type="footnotelink">1</note> Metaphor, that is, forces a
+          reevaluation of assumed truths: things may be as they seem, but are also more than they
+          seem. As it takes on narrative form, ordering a set of meanings over and beyond the
+          literal, metaphor becomes allegory. In medieval dream visions, most of them allegories, we
+          are particularly aware of the divide between things in their essences or “object-hoods”
+          and the contingencies of value and desire that circulate about them. Even as the naïve
+          wanderer in the dream vision encounters a cyber world, rich and strange, the living body
+          of the narrator is always present at the margins of the story, asleep in a swoon, however
+          much we forget him or her (in medieval vision literature, invariably him) — and is a
+          reminder that things operate according to familiar physical laws.</p>
+        <p style="body" n="4"><hi rend="italic">Pearl</hi> mobilizes a set of “calculated category
+          mistakes” through the responses of both the reader and the narrator, and also through an
+          extraordinarily rich set of changes rung on language throughout the poem. Both narrator
+          and reader engage in acts of misreading and misinterpretation; and, in fact, the
+          narrator’s acts of passionate misreading structure the dialogue with the <hi rend="italic"
+            >Pearl</hi>-maiden, which takes the form of a quiz in which he repeatedly tries to
+          categorize her within known and familiar frames of reference — a set of collisions, we
+          could argue, that pit the familiar surround of courtly culture, the narrator’s ambit,
+          against the scriptural stories and visions that the maiden lays out in the answers — that
+          sets allegorical “truths” with particular abruptness against sense perception. We begin
+          with the loss of a pearl in a garden; that pearl, we find out, is also a girl, the
+          narrator’s two-year-old daughter; it is also the kingdom of heaven described in Matthew
+          14:45–46: “the kingdom of heaven is like the merchant seeking valuable pearls, who, when
+          he had found a pearl of great price, went and sold all that he had, and bought it.” <hi
+            rend="italic">Pearl</hi> sets in motion a set of “category mistakes” that comment
+          uneasily on the very nature of categories: what is a pearl? What is a girl? How do we know
+          or evaluate what we see? What are the bases of aristocratic identity and affinity?</p>
+        <p style="body" n="5">One of the particular achievements of <hi rend="italic">Pearl</hi>
+          lies in its overlay of a linear narrative with a set of metaphoric registers that with
+          extraordinary facility rewrites the definitions of the poem’s central terms. That which
+          appears fixed, stable, and known is not: like the pearl itself, which slips away to
+          transform into something else, words recur throughout the poem with new meanings. The
+          economy of metaphor, or rather its hyper-economy, lies in its uncanny ability to express
+          both equivalence and multiplicity; ostensibly an equation of identity, marked by an equal
+          sign, metaphor also adds up to the sum of its parts.<note target="#2" type="footnotelink"
+            >2</note> The pearl <hi rend="italic">is</hi> a gem, <hi rend="italic">is</hi> a
+          two-year old child, <hi rend="italic">is</hi> a beautiful young woman, <hi rend="italic"
+            >is</hi> the immortal soul, <hi rend="italic">is</hi> the heavenly city — as well as a
+          collective of the properties that inhere to each term singly. The language of <hi
+            rend="italic">Pearl</hi> is unusually rich in the double entendre, also a form of
+          metaphor, particularly in terms for judgment and evaluation.<note target="#3"
+            type="footnotelink">3</note> Indeed, <hi rend="italic">Pearl</hi> uses a dizzying
+          punnology, embedded within concepts, words and grammatical structures and even within the
+          system of its meter and rhyme,<note target="#4" type="footnotelink">4</note> as if in
+          invitation to engage with language as an encounter with haunting and repetition. In the
+          first set of stanzas, the stanza-group in which the narrator returns to the place or spot
+          where his pearl — née daughter — was lost, “spot” recurs in ways that force associative
+          relationships between location and absence, between the set of compass points that places
+          him physically and the negativity that marks the pearl as both without stain (without
+          “spot”) and without a place (without “spot”) in his world. In this elegy, the instability
+          of language recapitulates or, we might say, performs the poem’s story of bereavement.
+          Language itself tells us all we need to know about loss.</p>
+        <p style="body" n="6">Integral to the poem’s play with language are formal patternings that
+          build repetition and change into the structure of the poem. In its principles of rhyme,
+          versification, and numbering, <hi rend="italic">Pearl</hi> is unmatched for complexity in
+          Middle English poetry and perhaps rivaled only by Dante’s <hi rend="italic">Divine</hi><hi
+            rend="italic"> Comedy</hi>. Attention to number is a vital part of the poem’s design.
+          The use of a twelve-line stanza seems to be carefully chosen as part of a numerological
+          structure: the New Jerusalem has twelve tiers in its foundation and is also twelve
+          furlongs long; the poem itself, 1212 lines long, is a composite of twelves. Concepts of
+          perfection and blemish parlayed through the image of the pearl are also graphed through
+          number. Comprising twenty sets of five, the stanzas are grouped to add up to 100, a number
+          of perfection. This symmetry is offset, however, by the curious addition of an extra
+          stanza in the fifteenth set — with the result that the stanzas total 101. One hundred and
+          one, a strong number that suggests new beginning after return, is doubtless no accident.
+          This number appears as a stanza or chapter total in several other medieval texts; and most
+          strikingly, 101 is also the sum of the stanzas of the Cotton Nero A.x. manuscript’s most
+          famous poem, <hi rend="italic">Sir Gawain and the Green Knight</hi>.<note target="#5"
+            type="footnotelink">5</note></p>
+        <p style="body" n="7">Repetition and change also structure the prosodic form of <hi
+            rend="italic">Pearl</hi> to an unusual degree. The stanzas themselves follow a tight
+          rhyme scheme, with three sets of rhyme appearing in each: ababababbcbc. In stanza form,
+            <hi rend="italic">Pearl</hi> shares many affinities with French, Italian, and Latin
+          fourteenth-century poems as well as with other lyrics in English from the late thirteenth
+          century through the early fifteenth century. In its use of heavy alliteration and a
+          complex stanza form <hi rend="italic">Pearl</hi> bears some similarities to the lyrics
+          from MS Harley 2253, c. 1340. In prosodic form, however, it shares closer affinities with
+          later poems. <hi rend="italic">Pearl</hi>’s use of a refrain and a twelve-line form of the
+          ballade or pseudo-ballade stanza link it with a continental form that first appeared in
+          English with lyrics by Chaucer, c. 1380, and that is used in several of the lyrics in the
+          Vernon manuscript (c. 1390).<note target="#6" type="footnotelink">6</note>
+          <hi rend="italic">Pearl</hi>’s stanza moves with a rippling kind of musicality: two rhyme
+          words alternate until the final four lines, which often work as a quatrain, where one of
+          the rhymes continues, and a new counterpoint is picked up. Rhyme moves the poem in
+          increments of repetition and change. As Marie Borroff describes the effect of rhyme in the
+          ballade stanza, it is “like a series of shifts to the next higher musical key in
+          successive choruses of a popular song.”<note target="#7" type="footnotelink">7</note></p>
+        <p style="body" n="8">Where <hi rend="italic">Pearl</hi> departs from English and
+          continental forms of the ballade, however, is in its use of an intricate system of verbal
+          echoes. While a refrain and verbal repetition are common features of late medieval lyrics,
+          both English and continental, <hi rend="italic">Pearl</hi> transforms the refrain into an
+          echoic play of concatenation. Not only do the five stanzas in each stanza-group share a
+          repeating last word and often entire line, but stanzas are also linked together by
+          repetition of the last word of the refrain of one stanza in the first line of the next, an
+          echoic effect that strings stanzas together like pearls on a necklace. <hi rend="italic"
+            >Pearl</hi>’s mathematically precise system of stanza numbering and its uses of
+          repetition and verbal linking produce a poem that is crafted with unusual care, the poem
+          itself as a kind of precious object. At the same time, however, repetition of its
+          link-words also allows an unusual latitude and play with the possibilities of meaning. In
+          each stanza within a stanza-group the final word is always the same, but the line in which
+          that word is embedded is not, so meaning can vary by syntax as well as by the play of
+          lexical possibilities within words themselves. Far from restricting or confining meaning,
+            <hi rend="italic">Pearl</hi>’s elaborate form allows the fullest play of its punnology.
+          Words may repeat and return, but return as altered bearers of meaning.</p>
+        <p style="body" n="9">The experience of reading <hi rend="italic">Pearl</hi> can thus be
+          unsettling, for while the story, as a narrative, appears to proceed in a sequential or
+          linear way, the multiple meanings that radiate out from central terms, and the shifts in
+          its categories that displace from its central image, are far less clear, particularly in
+          the hallucinatory transformation of the pearl to the beautiful young woman who herself is
+          understood to represent a two-year-old child, presumably the narrator’s daughter. Yet at
+          the same time that language and prosody enact processes of transformation on the pearl,
+          and even theological possibilities of post-mortem transfiguration, its central metaphor
+          never departs fully from its primary identity: the pearl is a pearl. Writing of the
+          curious materiality of metaphor, Darrel Mansell locates the impulse to metaphor in a
+          desire to ground language in objects, an impulse he assigns to a yearning for a mythic
+          lost time of pre-linguistic plenitude when things were as they seemed: in metaphor, which
+          is always a surplus, “the original world of matter is glimpsed still almost innocent of
+            predication.”<note target="#8" type="footnotelink">8</note> In <hi rend="italic"
+            >Pearl</hi>, language and image never abandon the materiality of their metaphoric point
+          of departure. <hi rend="italic">Pearl</hi>, that is, continues to be the word/name that
+          the narrator utters when addressing the maiden. Pearls appear throughout the transformed
+          landscape of the crossed-over world: in the gems gleaming in the river, in the clothing of
+          the maiden and indeed in the very whiteness of her skin, on the gates of the New
+          Jerusalem, and, metaphorically, in the pearly fleece of the Lamb.</p>
+        <p style="body" n="10">This material grounding in pearls points to a question: is pearl
+          afferent or referent? Signifier or signified? While the pearl is of course a symbol for
+          the evanescent or the spiritual, the child and/or immortal soul, and the narrator’s search
+          for the pearl an allegory for a spiritual search, the pearl lends the poem a peculiar
+          materiality and presence; it is not just a point of departure. In his study of the elegy
+          Peter Sacks writes of the ways that elegiac poetry grounds itself repetitively, indeed
+          obsessively, in objects, replaying in poetry and in language the central trauma of loss,
+          Freud’s <hi rend="italic">fort</hi>/<hi rend="italic">da</hi>. The elegy, Sacks writes, is
+          hauntingly recapitulative in impulse and form, replaying a series of losses that looks
+          back to an originary trauma, the primal separation from maternal plenitude.<note
+            target="#9" type="footnotelink">9</note> Language in elegy is unusually concretized,
+          Sacks argues, and in <hi rend="italic">Pearl</hi> we can perhaps see how the poem’s
+          central metaphor or object also enacts this material requirement.<note target="#10"
+            type="footnotelink">10</note> The poem offers consolation through the maiden’s discourse
+          on the delights of heaven, but perhaps an even deeper consolation in the visual promise
+          that that which is lost, the pearl, does not go away.</p>
+        <p style="heading" n="2">Contexts: Date, Authorship, Occasion</p>
+        <p style="bodyfirst" n="3">To this point I have been concerned with the poem’s uses of words
+          and of techniques of prosody as tools skillfully deployed to produce emotional and
+          aesthetic effects — and effects, as we shall see, that are also ethically and politically
+          charged. The poem’s uses of language and of images, and especially the pearl, can also
+          help to localize a possible time, place, and occasion for its composition. Efforts to
+          identify a date and occasion of composition and an author for the poems of the <hi
+            rend="italic">Pearl</hi> manuscript, indeed, have occupied the attention of numerous
+          scholars in the last century. <hi rend="italic">Pearl</hi>, along with <hi rend="italic"
+            >Patience</hi>, <hi rend="italic">Cleanness</hi>, and <hi rend="italic">Sir Gawain and
+            </hi><hi rend="italic">the Green Knight</hi>, is remarkably evasive on matters that
+          could identify a time and place of its composition, such as names of living people, real
+          places, or current events, a feature of all four poems that Charles Muscatine has
+          speculated is a form of escapism or reaction through “allegiance to high-medieval
+            feudalism.”<note target="#11" type="footnotelink">11</note> Some evidence for localizing
+          the manuscript is provided by dialect, which has been identified as Northwest Midlands.
+          Both text and manuscript have been localized to Cheshire, with a recent study by Hoyt
+          Duggan placing the poet’s natal dialect in Staffordshire and the scribe somewhat more
+            northerly.<note target="#12" type="footnotelink">12</note> The dialect of the poems is
+          difficult for most speakers of English today, for standard modern English has descended
+          not from the Cheshire dialect of the Northwest Midlands but from London English, used by
+          Chaucer and his London contemporaries. Although the dialect can locate the language of
+          poet and scribe within a fairly precise isoglos, it does not necessarily identify the
+          place of composition; and one question that has perplexed scholars is whether the poems
+          are the product of a regional and provincial culture, or whether they could be at home in
+          a much more central and urban location, or even the London court.<note target="#13"
+            type="footnotelink">13</note> As for dating, language provides no clear evidence that
+          can pinpoint the poems with precision, though one computer-based statistical study
+          calibrating the percentages of words of Germanic, French, or Scandinavian origin indicates
+          that the etymological mix of Cotton Nero A.x. is consistent with Middle English in
+            1390.<note target="#14" type="footnotelink">14</note> Use of descriptive details in
+          these poems for purposes of dating can be particularly slippery. One scholar has attempted
+          to locate <hi rend="italic">Gawain</hi> in the mid-1300s on the basis of costume and
+          armor; yet those details could well be the product of calculated invention to situate the
+          poem in a somewhat earlier time.<note target="#15" type="footnotelink">15</note> In her
+          study of <hi rend="italic">Pearl</hi> and the ballade form Susanna Fein argues for dating
+            <hi rend="italic">Pearl</hi> in the mid-1380s, but that date may attempt to pinpoint its
+          production somewhat too exactly.<note target="#16" type="footnotelink">16</note> As with
+          language or details of place and costume, evidence from prosody can more securely suggest
+          an earliest date rather than a final one, since a poet working somewhat later (1390s)
+          could have chosen to work within a traditional form rather than attempt the latest thing.
+          For fixed points regarding the production of these poems we have two dates that are quite
+          widely separated in time. The earliest date must be 1348, the date for the founding of the
+          order of the garter, whose motto, “honi soit qui mal pense,” appears as a coda to <hi
+            rend="italic">Sir Gawain </hi><hi rend="italic">and the Green Knight</hi>. On
+          paleographical evidence the <hi rend="italic">terminus ad </hi><hi rend="italic">quem</hi>
+          must be c. 1400, the latest date for the composition of the manuscript.<note target="#17"
+            type="footnotelink">17</note> While the question is by no means settled, recent research
+          on the poems of the <hi rend="italic">Pearl</hi> manuscript, and especially <hi
+            rend="italic">Gawain</hi> and <hi rend="italic">Pearl</hi>, has tended to favor a late
+          rather than an early date, in the 1380s or even the 1390s.</p>
+        <p style="body" n="11">Authorship remains one of the prize questions about the poems of
+          Cotton Nero A.x. Were the four poems contained in the <hi rend="italic">Pearl</hi>
+          manuscript written by a single poet, and might that poet also have written <hi
+            rend="italic">St. Erkenwald</hi>, a poem that has survived in a separate manuscript? <hi
+            rend="italic">St. Erkenwald</hi>, an alliterative London poem in the Cheshire dialect,
+          shares many features of language and imagery, and on that basis has been linked with the
+            <hi rend="italic">Pearl</hi>-poet, though most readers now discount the connection.<note
+            target="#18" type="footnotelink">18</note> The argument for linking the four poems in
+          the Cotton Nero A.x. manuscript to a single author rests on a good deal of subjective
+          criteria but also on certain features of the manuscript itself that give it an unusual
+          integrity. It is the unique Middle English manuscript to contain only alliterative poems;
+          it also contains illustrations, an unusual feature in a Middle English verse
+            manuscript.<note target="#19" type="footnotelink">19</note> Dialect also argues in favor
+          of common authorship, as do shared metrical and stylistic characteristics. Three are
+          narratives written in an alliterative long line, and <hi rend="italic">Pearl</hi>, a
+          metrically regular poem, also makes use of alliterative patterning. Less quantifiably, the
+          poems share certain thematic preoccupations: all four repeatedly pressure questions of
+          behavior, or what we might call modeling, how one “confourns” or conforms to ideals of
+          courtly or Christian behavior, to use a word from <hi rend="italic">Cleanness</hi>. All
+          four tell stories of crises in commensurating individual behavior with top-down or divine
+          ordinances. All four present brilliantly visualized descriptions, particularly of nature,
+          and make skilled and strategic uses of point of view. All four are “courtly.”<note
+            target="#20" type="footnotelink">20</note></p>
+        <p style="body" n="12">There is no firm evidence at all to suggest who might have written
+          the poems, though numerous names have been put forth. The scholars who propose that <hi
+            rend="italic">Pearl</hi> is an elegy written on the death of Margaret, daughter of John
+          Hastings, Earl of Pembroke, also suggest that the poem was written by either John Prat or
+          John Donne, both of them clerks of Pembroke.<note target="#21" type="footnotelink"
+            >21</note> By far the candidate with the greatest longevity in the critical literature
+          is Mascy or Massey. A spate of discussions has debated the possibility that the poems were
+          written by a member of the Mascy family, a discussion initiated by linking the inscription
+          “Hugo de” in the manuscript to the name “Masse” in <hi rend="italic">St. Erkenwald</hi>,
+          producing “Hugo de Masse,” a name that can be connected to an important Cheshire family.
+          Subsequent support for Mascy has drawn on a variety of cryptographic evidence, finding
+          signatures hidden in the manuscript marginalia and encoded in the numbering and
+            lettering.<note target="#22" type="footnotelink">22</note> The idea that <hi
+            rend="italic">Pearl</hi>, in particular, could contain a cryptogram in its elaborate
+          prosodic and mathematical structure is plausible. As I discuss below, some of the
+          marguerite poems of Machaut and Froissart, with which <hi rend="italic">Pearl</hi> can
+          perhaps be linked, hide the names of the poet and the poetic subject within cryptograms,
+          as if to suggest that a hidden authorial signature is part of the game with metaphor.<note
+            target="#23" type="footnotelink">23</note> Evidence from cryptography or other forms of
+          textual and historical data has to date produced no consensus on the authorship of <hi
+            rend="italic">Pearl</hi> or any of the poems in Cotton Nero A.x, although it has
+          produced many assertions.</p>
+        <p style="body" n="13">In considering the occasion for which <hi rend="italic">Pearl</hi>
+          might have been written, the narrative form provides perhaps the most articulate evidence.
+          Quite a few readers have approached <hi rend="italic">Pearl</hi> as a formal allegory or
+          spiritual quest, a poem that details the soul’s progress, with the pearl as a symbol for
+          certain bodily or spiritual qualities: purity or virginity; the soul; heaven.<note
+            target="#24" type="footnotelink">24</note>
+          <hi rend="italic">Pearl</hi> clearly is informed by mystical and devotional practices
+          current in late fourteenth-century England. Yet <hi rend="italic">Pearl</hi>, in form an
+          allegory, is above all an elegy, a poem written about the death of one who was beloved.
+          Most early readers of <hi rend="italic">Pearl</hi> assumed that the poet was writing of
+          the death of his own daughter, with the implication that the poem was written in an effort
+          to “work through” his grief.<note target="#25" type="footnotelink">25</note> An
+          understanding of the systems of text production in the Middle Ages within structures of
+          patronage now would argue against identifying the author with the narrator, and suggest
+          instead that the poem was more likely a commissioned work, probably written as a
+          consolatory piece to commemorate the death of a daughter, and probably the daughter of an
+          important magnate or member of the royal house. As a possible source or model for <hi
+            rend="italic">Pearl</hi>, Boccaccio’s <hi rend="italic">Olympia</hi> is often mentioned,
+          a poem in which a man named Silvio is granted a vision of Violante, his lost daughter,
+          transformed and living as Olympia with the Virgin and Son on a paradisal mountain.<note
+            target="#26" type="footnotelink">26</note> Although <hi rend="italic">Olympia</hi> and
+            <hi rend="italic">Pearl</hi> bear some notable parallels, the form of Boccaccio’s poem
+          as Latin eclogue and its classicizing allusions give it a markedly different tenor from
+            <hi rend="italic">Pearl</hi>. Closer to <hi rend="italic">Pearl</hi> in form and feeling
+          is Chaucer’s <hi rend="italic">Book of the Duchess</hi>, a dream vision elegy written on
+          the occasion of the death of Blanche, wife of John of Gaunt. Names proposed for whom the
+          poem could be commemorating include Margaret, granddaughter of Edward III,<note
+            target="#27" type="footnotelink">27</note> and Anne of Bohemia.<note target="#28"
+            type="footnotelink">28</note> Speculations on the occasion of the poem are not limited
+          to elegy, however. Ian Bishop has suggested that the poem marks the initiation of an adult
+          catechumen, or newly baptized person, and more recently Lynn Staley has suggested that the
+          poem was composed to commemorate the entrance into a nunnery, a figurative death to the
+          world, of an aristocratic child, and specifically Isabel, born in 1384 as third daughter
+          of Thomas of Woodstock, one of the younger sons of Edward III.<note target="#29"
+            type="footnotelink">29</note></p>
+        <p style="heading" n="3">Courtly Economics and the Ricardian Court</p>
+        <p style="bodyfirst" n="4">By identifying the narrator as a jeweler and the central image as
+          a pearl, the poet seems to be writing with the values and possessions of the rich clearly
+          in mind. The term jeweler can encompass not only a goldsmith or artisan but also a dealer
+          in or even owner of gems or art objects, and hence the projected identity of the speaker
+          could be entirely at home among an aristocratic audience.<note target="#30"
+            type="footnotelink">30</note> The poem’s central image keeps the poem firmly grounded in
+          a world of money and exchange, a world whose values and deluxe detailing are consonant
+          with the cultural values and fittings of the fourteenth-century English court. If
+          consolation is effected in part in the return of its repressed, the pearl, it is also
+          effected in the certainty that the world in which the poem is “set” is also fixed and
+          stable. “Paye,” the last word of the poem’s first line and also the link-word of the last
+          stanza-group and, indeed, final word of the poem, bespeaks a set of comfortably transposed
+          values, and values that are fully legible within idealized terms of monied exchange:
+          “paye” in the first line refers to the judgment and pleasure of princes, who value pearls;
+          “pay” in the last line refers to the reward and pleasures of heaven.<note target="#31"
+            type="footnotelink">31</note> Indeed, the poem’s elaborate gemmology and interest in
+          aristocratic values have led recent scholars to argue for dating it in the last years of
+          the fourteenth century and specifically within the milieu of Richard II’s court. While
+          these arguments are speculative, the circumstantial evidence is rich and tantalizing
+          enough to merit summarizing here. Until recently the poem’s dialect has led scholars to
+          assume that it was produced within a monastic establishment or baronial home in Cheshire,
+          and probably by a learned cleric intimately familiar with the Bible and also well-versed
+          in French and Italian poetry. Recent studies on the cultural and even manpower
+          interchanges between Cheshire and the royal court have led to a reevaluation of this view.
+          Michael Bennett has argued persuasively that the poet’s regional dialect does not limit
+          the place of origin to a regional location. Richard II’s court was fully hospitable to
+          arts patronage of the kind that would support the <hi rend="italic">Pearl</hi>-poet.
+          Richard also surrounded himself with a large group of knights from Cheshire and elevated
+          Cheshire to a region of prime importance: far from being an alien tongue, the dialect of
+          the <hi rend="italic">Pearl</hi>-poet would have been fully at home in Richard’s court
+            circles.<note target="#32" type="footnotelink">32</note> Perhaps a highly sophisticated
+          and learned cleric, writing with the interests and tastes of a court in mind and au
+          courant with the reading tastes of international high culture, the poet of <hi
+            rend="italic">Pearl</hi> was above all a “courtier’s courtier.”<note target="#33"
+            type="footnotelink">33</note></p>
+        <p style="body" n="14">John Bowers has further argued for a set of parallels between the
+          poem and the cultural life of Richard’s court, with particular attention to some of the
+          poem’s more dramatic and vivid images, including the pearl, the lamb, and the New
+            Jerusalem.<note target="#34" type="footnotelink">34</note> The remarkable detailing of
+          ornament, the love of description as a kind of piling on of the deluxe, fits with
+          particular consonance in Richard’s court, which was often cited and criticized for
+          extravagance by contemporary chroniclers. Richard’s court was marked by its love of all
+          things French, “a passion for jewelry in the court circles” and a love of aristocratic
+            regalia.<note target="#35" type="footnotelink">35</note> Bowers, proposing a date for
+            <hi rend="italic">Pearl</hi> in or around 1395, argues that <hi rend="italic">Pearl</hi>
+          bespeaks Richard’s political aspirations, with the poem’s court of heaven as a visionary
+          courtly body politic.<note target="#36" type="footnotelink">36</note> Both Bowers and
+          Bennett have argued that the locus of the <hi rend="italic">Pearl</hi>-poet within Richard
+          II’s court could also account for the demise and dramatic marginalization of this
+          spectacular set of poems.<note target="#37" type="footnotelink">37</note> This scenario,
+          while built on circumstantial evidence, provides a fascinating if hypothetical political
+          backdrop for the manuscript’s history. The manuscript that survives, in single form, is
+          doubtless a copy of an earlier exemplar, and an exemplar that perhaps was quite lavish.
+          One scholar has argued, on the basis of scribal errors, that the surviving manuscript is
+          at six or seven removes from the original version.<note target="#38" type="footnotelink"
+            >38</note> With the ascendancy of Henry IV and the Lancastrians after Richard’s death or
+          execution in 1399, the new court exacted a thorough repression of signs of the deposed
+          king, extinguishing with particular thoroughness the Cheshire connection to promote London
+          as the place of the new court, and of London English as the new language of the state. If
+          the poems of the <hi rend="italic">Pearl</hi> manuscript were a product of the Ricardian
+          court, they could well have suffered a similar erasure. Written in the Cheshire dialect,
+          the manuscript of <hi rend="italic">Pearl</hi> might also have been the target of this
+          systematic political repression and rewriting of the past.</p>
+        <p style="body" n="15">Whether or not we situate <hi rend="italic">Pearl</hi> within Richard
+          II’s court with the precision that Bowers and Bennett suggest, the poem certainly
+          expresses many of the intellectual interests and aesthetic demands of an aristocratic
+          milieu in the late fourteenth century — and an aristocratic milieu, it could be argued,
+          that is at work to reconcile the pressures of the marketplace with both courtly and
+          theological values. If the poem’s visible surface is constructed of precious objects, from
+          the pearl to the gem-encrusted and gilded New Jerusalem, those surfaces are also
+          repeatedly subjected to speculation about their value and operate in the poem within a
+          complex commentary on measure, merit, quantification and valuation. In a recent study of
+          market economics and scholastic theology in the fourteenth century, Joel Kaye argues that
+          a “passion to measure,” which came to pervade every area of scholastic thinking in the
+          fourteenth century, was directly influenced by the new monetization of the European
+          marketplace. Rather than emerging solely from within intellectual debates within
+          universities, the “measuring mania” of scholastic philosophy was directly influenced by
+          interactions between gown and town; geometrical theorems of a new economics responded
+          directly to daily transactions in the market squares in a dynamic interaction that, Kaye
+          argues, was crucial to the development of scientific methodologies. Some of the most
+          dramatic developments in new economic thinking in the fourteenth century, and particularly
+          in geometry, concerned theories of equalization and commensurability, for money, like
+          geometry, “commensurated the most seemingly in-commensurable goods and services.”<note
+            target="#39" type="footnotelink">39</note></p>
+        <p style="body" n="16">In <hi rend="italic">Pearl</hi>, with its intricate numerological
+          structure, verbal concatenation, and complex rhyme, we certainly find evidence of a
+          “measuring mania,” and indeed the poem could be described as a study in issues of relation
+          — with language, in its rich metaphoricity and punnologies, itself a medium of exchange.
+          The image of the pearl may itself situate the poem within a dialogue among late
+          fourteenth-century poets on poetic composition, and particularly on the instability of
+          language in a commensurate set of relationships. Another word for pearl is “margery,” from
+          the French <hi rend="italic">marguerite</hi>, a term that is used to designate the pearl
+          four times in the poem. Marguerite was a popular female name, given prominence, no doubt,
+          by the tremendous vogue of St. Margaret in the late Middle Ages, and in French <hi
+            rend="italic">marguerite</hi> was also the word for the daisy or heliotrope. In 1364
+          Guillaume de Machaut, the popular French composer and poet, wrote the first of several
+          “marguerite” poems, with the marguerite an allegorical daisy designating an actual woman,
+          Marguerite of Flanders.<note target="#40" type="footnotelink">40</note> Following Machaut,
+          marguerite poems, several of which take an allegorical daisy as an elaborate conceit to
+          designate historical women, were also written in French by Machaut’s contemporaries, Jean
+          Froissart and Eustache Deschamps, and in English by Chaucer. It seems quite possible that
+          the poet of <hi rend="italic">Pearl</hi>, which also rings a set of changes between a
+          “margery pearl” and a young girl or young woman, was familiar with at least some of these
+          poems. In an essay on metaphor and the marguerite poems, Peter Travis has recently argued
+          that the marguerite poems constitute an international dialogue of sorts among poets. In
+          the marguerite poems, their practitioners were engaged in an exploration, through a
+          metaphor, of the instability of language, or indeed, of the very workings of poetry.<note
+            target="#41" type="footnotelink">41</note></p>
+        <p style="body" n="17">The theology of <hi rend="italic">Pearl</hi>, played out in images
+          and in the debate between the narrator and the maiden, also circles repeatedly around the
+          problematics of relation. The poem’s central homily, the maiden’s long story of the
+          parable of the vineyard and the penny, takes as its central problem the issue of relation
+          or of equivalence, and specifically the commensurability between the rewards of the
+          marketplace and the rewards of heaven: how is it that an infant, the narrator asks, can
+          merit the same reward in heaven as those who have lived a long and devout life, or even
+          those who have given their lives over to the church in the most directed ways as nuns or
+            clerics?<note target="#42" type="footnotelink">42</note> In the parable the maiden tells
+          to answer this question, the court — in this case the heavenly court — is ordered by a
+          utopic labor system, one that resolves by edict the central tensions about fairness that
+          govern market labor and exchange. The parable, a kind of homily or sermon right in the
+          middle of the vision, seems surprisingly long and almost digressive, but as an explanation
+          of the economics of a heavenly marketplace, it is strategically situated immediately
+          before the vision of the New Jerusalem that will put theory into practice. The parable
+          offers a textual definition of “paye” or reward.</p>
+        <p style="body" n="18">The vision of the New Jerusalem that follows the parable, the most
+          elaborately detailed of the poem’s sequence of locations, is itself introduced as a
+          problem in relation, voiced in the narrator’s demand to the <hi rend="italic"
+          >Pearl</hi>-maiden to know where she lives, and then in his incredulity that she, a
+          two-year-old child, could be elevated to the status of a queen in such a place. In
+          choosing the New Jerusalem as the climactic moment in which the two-year-old child is
+          perceived fully transposed as a full participant in the heavenly court, a bride of the
+          Lamb, the poet makes a brilliant strategic move to accommodate, in Kaye’s terms,
+          quantities that are incommensurable. As the final location in <hi rend="italic"
+          >Pearl</hi>’s sequence of transforming places, the New Jerusalem is a rich and
+          multi-layered symbol, understood in medieval theology and allegory to represent the soul,
+          heaven, and both ideal city and ideal church. Frequently painted or sculpted on the west
+          wall of the church, either inside or out, images of the Lamb and the throne of God and
+          images of the Last Judgment marked central points of entrance — and, indeed, the saved
+          from the damned. St. Peter’s in Rome, an important pilgrimage site, had on its façade a
+          mosaic of the adoration of the Lamb by the twenty-four elders, the same image that is the
+          culminating moment in <hi rend="italic">Pearl</hi>.<note target="#43" type="footnotelink"
+            >43</note> In a dramatic final move that ties mystical transport to daily collective
+          ritual, the New Jerusalem in <hi rend="italic">Pearl</hi> also takes the narrative <hi
+            rend="italic">into</hi> a church, as if the textual city were itself an invitation over
+          a triumphal arch, a theophanic move that is furthered as well by Eucharistic echoes. Some
+          readers have suggested that the poem unfolds in imitation of the Mass, and that the pearl
+          signifies the host; the round pearl enclosed in gold denotes a round and white Eucharistic
+          wafer, displayed in a monstrance<note target="#44" type="footnotelink">44</note> — an
+          equivalence that I would argue is just one of many in the poem’s rich metaphoric display.
+          The image of the Lamb, both symbol and enactment of the Eucharist, places the narrator,
+          and reader as well, before the Eucharist, or more exactly within the performance of the
+          Mass. In a final accommodation the New Jerusalem offers a housing not only for the maiden,
+          but also for those who participate in the sacraments.</p>
+        <p style="body" n="19">The New Jerusalem as depicted in <hi rend="italic">Pearl</hi> is
+          above all a power image, carefully keyed to the tastes and intellectual interests of an
+          aristocratic audience in the late Middle Ages. The main textual source is the Book of
+          Revelation, but the poet was evidently familiar with visual schema for representing the
+          city in Apocalypse cycles, many examples of which survive in deluxe manuscripts.<note
+            target="#45" type="footnotelink">45</note> Apocalypse cycles decorated not only the
+          triumphal arches of churches and cathedrals, but also royal chapels and chapter houses. An
+          elaborate Apocalypse cycle that still decorates the walls of Chapel of the Holy Cross at
+          Karlstein Castle in Bohemia offers an example of the close ties between royal interests
+          and devotional economics of salvation. Built in 1348–57 at a country residence for Charles
+          IV that was also a treasury for the crown jewels, the chapel includes among the scenes
+          painted on the walls between the arches the adoration of the Lamb by the elders with
+          musical instruments, as in <hi rend="italic">Pearl</hi>. In this exquisite gothic chapel
+          the Apocalypse cycle seems designed to provide a housing not only for the imperial jewels
+          but also for imperial souls. The woman clothed with the sun is symbolically equated with
+          Anne of Schweidnitz, third wife of Charles IV.<note target="#46" type="footnotelink"
+            >46</note> While a chapel in a Bohemian castle may seem remote from the compositional
+          context of <hi rend="italic">Pearl</hi>, shared cultural interests in the late Middle Ages
+          and the international movement of artists created a rich cosmopolitan exchange in
+          patterns, subjects, and styles. If <hi rend="italic">Pearl</hi> were produced in the
+          circle of Richard II in the 1380s or 1390s, the choice to use the New Jerusalem as the
+          poem’s visionary destination could even be imagined as a deliberate one. In 1381 Richard
+          married Anne of Bohemia, daughter of Charles IV. Doubtless Anne would have known of her
+          father’s chapel at Karlstein and have been familiar with its visual story of the
+          Apocalypse. Bennett and Bowers even suggest that <hi rend="italic">Pearl</hi> may have
+          been composed as an elegy for Anne, who died in 1394.<note target="#47"
+            type="footnotelink">47</note> If that is so, the New Jerusalem would be an entirely
+          fitting housing for her imperial soul. A favorite image for aristocratic patrons, <hi
+            rend="italic">Pearl</hi>’s New Jerusalem, one might speculate, was strategically chosen
+          to link not only this world with eternity, but also England with Bohemia and a royal
+          international lineage.</p>
+        <p style="body" n="20">In the culminating vision of the New Jerusalem, the poet overlays
+          sharply contrasting ways of knowing and seeing. On the one hand, the narrator moves
+          expansively from an enclosed garden to the mystical city; on the other, the dreamer passes
+          through the delightfully open meadows of the otherworld to end the vision within a walled
+          edifice in many ways evocative of the church. This overlay or juxtaposition in spatial
+          resolution gives us the poem’s most skillful act of commensuration, linking the
+          unmeasurable with the measurable: we can be both here and there. “Here” and “there” are
+          extravagant in latitude. Of the many desires expressed in this poem, a controlling drive
+          is a passion for equalizing, the structuring of equivalences according to linguistic,
+          musical, and mathematical models that can make it possible for a lost child to be a
+          resident of the heavenly kingdom or, for that matter, for ordinary and aristocratic folks
+          alike to attain salvation: the parochial moves engaged with the imagery of the New
+          Jerusalem suggest that like rewards are available if we will be docile subjects, faithful
+          parishioners and observers of the sacraments. Crucial to the narrator’s spiritual
+          progress, I would argue, is his understanding of accommodation, the “calculated category
+          mistake” that makes it possible for the pearl, or lost child, to be both lost and found.
+          On an individual level, <hi rend="italic">Pearl</hi> describes the difficulties of the
+          individual who we might say is “working through” grief with the aid of devotional
+          psychology. On the collective level, <hi rend="italic">Pearl</hi> offers the promise that
+          the particular accommodation represented in the vision, the maiden one of 144,000 brides
+          of Christ, can be available to all. And if the New Jerusalem suggests a figurative
+          movement into clerical space replete with Eucharistic echoes, that transposition is even
+          given an explicitly homely dimension in the poem’s final stanza-group, when the narrator
+          awakens roughly from the dream to acknowledge the consolation to be found in the daily
+          ritual of the Mass, the subjection of the self to the social and ritual order.</p>
+        <p style="body" n="21">A question that lingers with <hi rend="italic">Pearl</hi>, and
+          perhaps that accounts for much of its appeal, lies with the body of the narrator: does the
+          poem resolve in an aristocratized and utopic vision, or is there a remnant, the narrator
+          himself, not totally encapsulated within a formal sacramental or courtly system? The
+          narrator skulks the banks of the stream: he cannot cross, and when he tries he awakens,
+          and not very happily. Does he become, as he asserts, a docile subject (taking the
+          sacrament), or does he remain a single consciousness, separate from the vision of
+          metaphoric accumulation that he witnesses?<note target="#48" type="footnotelink">48</note>
+          Excluded from paradise, is he the “spot” or blot, the one hundred and first stanza, so to
+          speak? Among readers there has been little consensus on this point. Longing and what we
+          might call “reality” seem to be across the stream, and perhaps how we read the resolution
+          will depend on how compelling we find the poem’s vision of theophany. However communal the
+          vision of heaven, that social order, as one reader has put it, is of a fully
+          “aristocratized theology.”<note target="#49" type="footnotelink">49</note> Juxtaposed to
+          the individualized venture works a public, hierar-chic, and above all courtly
+          performance.</p>
+        <p style="heading" n="4">Notes on This Edition</p>
+        <p style="bodyfirst" n="5"><hi rend="italic">Pearl</hi>’s first printer and modern editor
+          was Richard Morris, who edited <hi rend="italic">Pearl</hi> for the Early English Text
+          Society in 1864. Before Morris’ edition, <hi rend="italic">Pearl</hi> had remained in
+          manuscript form. The first mention of the poem appears in a catalogue of books belonging
+          to Henry Savile of Yorkshire, a collector of manuscripts from the northern monasteries
+          (1568–1617). By 1621 the manuscript had been acquired by the antiquarian Sir Robert
+          Cotton, where it remained until 1700, when the Cotton collection was given to the British
+          nation, and finally to the British Museum in 1753.</p>
+        <p style="body" n="22">Early printed editions of <hi rend="italic">Pearl</hi> tended to the
+          view that the copyist, or scribe, had produced a text substantively different from the
+          poet’s intent. Israel Gollancz, who edited <hi rend="italic">Pearl</hi> in 1891 and then
+          again in 1921, included in his later edition 124 emendations, or corrections, to the
+          manuscript. Many of Gollancz’s emendations were aimed at restoring metrical regularity to
+          a poem he understood to be in a form of iambic tetrameter, with four regular stresses to a
+            line.<note target="#50" type="footnotelink">50</note> Later editors, however,
+          increasingly retained the scribe’s transcription. A tendency to adhere to the scribe’s
+          version of the poem was based in part on E. V. Gordon’s influential characterization of
+          the poem’s highly problematic meter as a form in effect corrupted by the influence of the
+          alliterative long line. Under the influence of writing alliterative verse, the poet wrote
+            <hi rend="italic">Pearl</hi> in a hybrid form that is part metrical verse, part
+          alliterative line: “the chief effect of this close relationship is that the line is not
+          measured, has not a fixed number of syllables, like the lines of French verse, nor is it
+          systematically iambic or anapaestic, as the modern reader tends to make it.”<note
+            target="#51" type="footnotelink">51</note> A reluctance to correct potential errors in
+          the manuscript also reflects practices in textual editing in general, which have tended
+          against emending texts in cases where there is only a single copy. Andrew and Waldron, in
+          their important edition of 1979, revised in 1996, have ninety-one emendations, and
+          generally follow the lead of Gordon, the poem’s most important modern editor (1953), in
+          emending for lexical sense rather than for meter. The most recent edition, William
+          Vantuono’s from 1984, aiming to retain manuscript readings “wherever possible,” has only
+          twelve emendations.<note target="#52" type="footnotelink">52</note></p>
+        <p style="body" n="23">In its use of emendation to restore the regularity of the meter, this
+          edition has more in common with Gollancz than with Vantuono. The poet who wrote <hi
+            rend="italic">Pearl</hi> had an expert ear for sound, language, and music, and it is
+          hard to account for the poem’s many rhythmically clashing stresses and mismetered lines
+          unless we attribute them to the poem’s copyists. Recent studies on alliterative meter and
+          also on <hi rend="italic">Pearl</hi> have mounted convincing arguments that the <hi
+            rend="italic">Pearl</hi> poet was a careful metrical stylist, and that deviations from
+          metrical regularity represent scribal editing rather than authorial intent. Hoyt Duggan
+          has recently argued that the poet wrote not in a hybrid and irregularly metrical form, as
+          Gordon supposed, but in a regular iambic tetrameter, as described nearly ninety years ago
+          in early studies on the poem’s meter and more recently by Marie Borroff.<note target="#53"
+            type="footnotelink">53</note> The poem uses alliteration, but in ways markedly different
+          from the patternings of unrhymed alliterative poetry.<note target="#54"
+            type="footnotelink">54</note> For the purposes of reading, <hi rend="italic">Pearl</hi>
+          should be thought of, as Borroff describes, as “iambic tetrameter varied by an occasional
+          anapest” (p. 32), a form that she also compares to Gerard Manly Hopkins’ sprung rhythm.
+          There are four stresses to a line, but an irregular number of dips in between stresses.
+          Final -<hi rend="italic">e</hi> is not normally sounded, but occasionally it is required
+          to avoid clashing stress — required, that is, to provide a dip between two words, often
+          monosyllabic, that are stressed, as in line 17, “my herte thrange.” Many of the lines have
+          a natural pause, or caesura, in mid-line. In this edition I have added final <hi
+            rend="italic">e</hi> to remove clashing stress in the middle of the line, following the
+          lead of Gollancz and Duggan.</p>
+        <p style="body" n="24">In transcription of the manuscript, I have followed METS guidelines.
+          Thorns and edhs are written as <hi rend="italic">th</hi>, and yoghs have been transcribed
+          as <hi rend="italic">g</hi>, <hi rend="italic">gh</hi>, <hi rend="italic">y</hi>, <hi
+            rend="italic">s</hi>, according to the letter in modern spelling that the sound
+          represented by the yogh has come to represent. <hi rend="italic">T</hi> plus yogh is
+          written as <hi rend="italic">s</hi>. Manuscript abbreviations have been silently expanded.
+          My choices for word division, often ambiguous in the manuscript, are indicated in the
+          notes only where the choice of where to divide a word poses a significant interpretive
+          problem. The manuscript, like many medieval English texts, is unpunctuated. I have
+          punctuated minimally for sense. Lines are only rarely enjambed. In <hi rend="italic"
+            >Pearl</hi>, the line is paramount as the unit of thought. In the notes, I have
+          indicated manuscript forms as well as emendations adopted among a group of six comparison
+          editions.</p>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="1"><space rend="indent1"/>Paul Ricoeur, <hi rend="italic">The Rule
+            of </hi><hi rend="italic">Metaphor: Multi-disciplinary Studies of the Creation of
+            Meaning in </hi><hi rend="italic">Language</hi>, trans. Robert Czerny, with Kathleen
+          McLaughlin and John Costello, S. J. (London: Routledge and Kegan Paul, 1978), p. 197;
+          Ricoeur takes the idea of the “category mistake” from Gilbert Ryle, <hi rend="italic">The
+            Concepts of Mind</hi> (London: Hutchinson, 1949), p. 10.</note>
+        <note type="footnote" n="2"><space rend="indent1"/>For an important discussion of medieval
+          theories of metaphor, see Peter W. Travis, “Chaucer’s Heliotropes and the Poetics of
+          Metaphor,” <hi rend="italic">Speculum</hi> 72 (1997), 399–427.</note>
+        <note type="footnote" n="3"><space rend="indent1"/>For legal judgment, see Silar.</note>
+        <note type="footnote" n="4"><space rend="indent1"/>I take this term from Tomasch.</note>
+        <note type="footnote" n="5"><space rend="indent1"/>For Franciscan texts based on 101, see
+          Fleming; for discussion of the uses of number in <hi rend="italic">Pearl</hi>, see Bishop,
+            <hi rend="italic">Pearl </hi><hi rend="italic">in Its Setting</hi>, pp. 27–32; Peck, pp.
+          44–51, 58–64; Røstvig; and Condren.</note>
+        <note type="footnote" n="6"><space rend="indent1"/>Fein, pp. 368, 382; Gordon, ed., <hi
+            rend="italic">Pearl</hi>, pp. 86–87; David Lawton, “Middle English Alliterative Poetry:
+          An Introduction,” in <hi rend="italic">Middle English Alliterative Poetry and Its Literary
+            Background: Seven </hi><hi rend="italic">Essays</hi>, ed. David Lawton (Woodbridge,
+          Suffolk: D. S. Brewer, 1982), pp. 8–9.</note>
+        <note type="footnote" n="7"><space rend="indent1"/>Marie Borroff, <hi rend="italic">Pearl: A
+            Verse Translation</hi> (New York: W. W. Norton, 1977), p. 35.</note>
+        <note type="footnote" n="8"><space rend="indent1"/>Darrel Mansell, “Metaphor as Matter,” <hi
+            rend="italic">Language and Literature</hi> 17 (1992), 117.</note>
+        <note type="footnote" n="9"><space rend="indent1"/>Peter Sacks, <hi rend="italic">The
+            English Elegy: Studies in the Genre from </hi><hi rend="italic">Spenser to Yeats</hi>
+          (Baltimore: Johns Hopkins University Press, 1985), pp. 1–37.</note>
+        <note type="footnote" n="10"><space rend="indent1"/>Stanbury, “The Body and the City in <hi
+            rend="italic">Pearl</hi>”; for the gendering of the poem’s embodied language, see
+          Cox.</note>
+        <note type="footnote" n="11"><space rend="indent1"/>Muscatine, pp. 37, 40; see also Putter,
+          who speaks of the poet’s “techniques of defamiliarization” (p. 156).</note>
+        <note type="footnote" n="12"><space rend="indent1"/>Angus McIntosh, “A New Approach to
+          Middle English Dialectology,” <hi rend="italic">English Studies</hi> 44 (1963), 1–11; H.
+          N. Duggan, “Meter, Stanza, Vocabulary, Dialect,” in Brewer and Gibson, pp. 240–42.</note>
+        <note type="footnote" n="13"><space rend="indent1"/>For a discussion of this question and of
+          regional versus urban production in Ricardian poetry, see Turville-Petre, pp.
+          276–94.</note>
+        <note type="footnote" n="14"><space rend="indent1"/>Duggan, “Meter,” pp. 238–39, cites
+          Norman Hinton, “The Language of the <hi rend="italic">Gawain</hi>-Poems,” <hi
+            rend="italic">Arthurian Interpretations</hi> 2 (1987), 83–94, and an unpublished paper
+          by Hinton.</note>
+        <note type="footnote" n="15"><space rend="indent1"/>W. G. Cooke, “<hi rend="italic">Sir
+            Gawain and the Green Knight</hi>: A Restored Dating,” <hi rend="italic">Medium </hi><hi
+            rend="italic">Aevum</hi> 58 (1989), 34–48.</note>
+        <note type="footnote" n="16"><space rend="indent1"/>Fein, p. 393.</note>
+        <note type="footnote" n="17"><space rend="indent1"/>C. E. Wright, <hi rend="italic">English
+            Vernacular Hands from the Twelfth to the </hi><hi rend="italic">Fifteenth Centuries</hi>
+          (Oxford: Clarendon Press, 1960), p. 15.</note>
+        <note type="footnote" n="18"><space rend="indent1"/>For a review of the discussion, see
+          Andrew, “Theories of Authorship,” in Brewer and Gibson, pp. 26–28. For a recent argument
+          including <hi rend="italic">St. Erkenwald</hi>, see Borroff, “Narrative Artistry.”</note>
+        <note type="footnote" n="19"><space rend="indent1"/>A. S. G. Edwards, “The Manuscript:
+          British Library MS Cotton Nero A.x,” in Brewer and Gibson, pp. 197, 210. For a
+          reconsideration of the illustrations and argument that they were composed with attention
+          to the numerological and thematic issues of the poems, see Reichardt.</note>
+        <note type="footnote" n="20"><space rend="indent1"/>For a study of the thematic similarities
+          among the four poems, see Spearing, <hi rend="italic">The Gawain-Poet</hi>.</note>
+        <note type="footnote" n="21"><space rend="indent1"/>Oscar Cargill and Margaret Schlauch,
+          “The Pearl and Its Jeweler,” <hi rend="italic">PMLA</hi> 43 (1928), 105–23.</note>
+        <note type="footnote" n="22"><space rend="indent1"/>For essays advancing the Mascy
+          hypothesis, see Ormerod Greenwood, trans., <hi rend="italic">Sir Gawain and the </hi><hi
+            rend="italic">Green Knight</hi> (London: Lion and Unicorn Press, 1956), pp. 6–12;
+          Barbara Nolan and David Farley-Hills, “The Authorship of <hi rend="italic">Pearl</hi>: Two
+          Notes,” <hi rend="italic">Review of English Studies</hi> n.s. 22 (1971), 295–302; William
+          Vantuono, “A Name in the Cotton MS. Nero A.x Article 3,” <hi rend="italic">Medieval
+            Studies</hi> 34 (1975), 537–42, and “John de Mascy ”; Katherine Adam, <hi rend="italic"
+            >The Anomalous Stanza of Pearl: </hi><hi rend="italic">Does it Disclose a Six-Hundred
+            Year Old Secret?</hi> (Fayetteville: Monograph Publishers, 1976); Eric Kooper, “The Case
+          of the Encoded Author: John Massey in <hi rend="italic">Sir Gawain and the Green
+            Knight</hi>,” <hi rend="italic">Neuphilologische Mitteilungen</hi> 83 (1982), 158–68.
+          For counter arguments see Thorlac Turville-Petre and Edward Wilson, “Hoccleve, ‘Maister
+          Massy’, and the <hi rend="italic">Pearl</hi>-Poet: Two Notes,” <hi rend="italic">Review of
+            English Studies</hi> n.s. 26 (1975), 129–43; Clifford Peterson and Edward Wilson,
+          “Hoccleve, the Old Hall Manuscript, Cotton Nero A.x and the <hi rend="italic"
+          >Pearl</hi>-Poet,” <hi rend="italic">Review of English Studies</hi> n.s. 28 (1977), 49–56.
+          These arguments are summarized in detail by Andrew, in Brewer and Gibson, pp. 28–31; see
+          also William Vantuono, ed., <hi rend="italic">The</hi><hi rend="italic"> Pearl Poems</hi>,
+          pp. xxii–xxiv. </note>
+        <note type="footnote" n="23"><space rend="indent1"/>James Wimsatt, <hi rend="italic">The
+            Marguerite</hi><hi rend="italic"> Poetry of Guillaume de Machaut</hi> (Chapel Hill:
+          University of North Carolina Press, 1970), pp. 40–41; see also Travis, “Chaucer’s
+          Heliotropes,” pp. 404–05.</note>
+        <note type="footnote" n="24"><space rend="indent1"/>For symbolism of pearls, see Donkin, pp.
+          250–75; and for studies with application to <hi rend="italic">Pearl</hi>, see Bishop, <hi
+            rend="italic">Pearl in Its Setting</hi>, pp. 51–98; Kean, pp. 143–47; Bogdanos; and the
+          brief but cogent discussion in Gordon, ed., pp. xxvii–xxix. For readings of the poem as
+          developmental spiritual allegory, see Blenkner; Wimsatt, pp. 122–33; Hamilton; Finlayson;
+          and Clopper.</note>
+        <note type="footnote" n="25"><space rend="indent1"/>Gollancz, in his 1921 edition, provides
+          an imaginary biography for the poet in which a formative episode is his daughter’s death,
+          pp. xl–xlvi. A more recent autobiographical narrative has been constructed by Bowers, “The
+          Politics of <hi rend="italic">Pearl</hi>,” pp. 432–41.</note>
+        <note type="footnote" n="26"><space rend="indent1"/>Gollancz, pp. 258–85, appends an edition
+          and translation of <hi rend="italic">Olympia</hi> to his edition.</note>
+        <note type="footnote" n="27"><space rend="indent1"/>See note 21.</note>
+        <note type="footnote" n="28"><space rend="indent1"/>Michael J. Bennett, “The Historical
+          Background,” in Brewer and Gibson, p. 84; the argument is detailed at length in John
+          Bowers, <hi rend="italic">The Politics of Pearl: Court Poetry</hi>.</note>
+        <note type="footnote" n="29"><space rend="indent1"/>Bishop, <hi rend="italic">Pearl in Its
+            Setting</hi>, pp. 113–21; Staley, “<hi rend="italic">Pearl</hi> and the Contingencies of
+          Love and Piety.”</note>
+        <note type="footnote" n="30"><space rend="indent1"/>See Riddy, in Brewer and Gibson; Bowers,
+            “<hi rend="italic">Pearl</hi> in Its Royal Setting,” p. 139; and especially Barr.</note>
+        <note type="footnote" n="31"><space rend="indent1"/>See David Aers, “Christianity for
+          Courtly Subjects,” in Brewer and Gibson, p. 94.</note>
+        <note type="footnote" n="32"><space rend="indent1"/>Bennett, “The Court of Richard II,” pp.
+          11–16; and Bennett, “The Historical Background,” p. 78.</note>
+        <note type="footnote" n="33"><space rend="indent1"/>Bennett, “The Historical Background,” p.
+          81.</note>
+        <note type="footnote" n="34"><space rend="indent1"/>Bowers, “<hi rend="italic">Pearl</hi> in
+          Its Royal Setting,” pp. 419–41.</note>
+        <note type="footnote" n="35"><space rend="indent1"/>Gervase Mathew, <hi rend="italic">The
+            Court of Richard II</hi> (London: Murray, 1968), pp. 38–39.</note>
+        <note type="footnote" n="36"><space rend="indent1"/>Bowers, “<hi rend="italic">Pearl</hi> in
+          Its Royal Setting,” pp. 145–51.</note>
+        <note type="footnote" n="37"><space rend="indent1"/>Bennett, “The Court of Richard II,” pp.
+          14–16; and Bowers, “<hi rend="italic">Pearl</hi> in Its Royal Setting,” pp. 151–55.</note>
+        <note type="footnote" n="38"><space rend="indent1"/>J. P. Oakden, <hi rend="italic"
+            >Alliterative Poetry in Middle English</hi> (Manchester: Manchester University Press,
+          1930), pp. 261–63; cited in Fein, p. 369n.</note>
+        <note type="footnote" n="39"><space rend="indent1"/>Joel Kaye, <hi rend="italic">Economy and
+            Nature in the Fourteenth </hi><hi rend="italic">Century: Money, Market Exchange, and the
+            Emergence of Scientific Thought</hi> (New York: Cambridge University Press, 1998), pp.
+          3, 219.</note>
+        <note type="footnote" n="40"><space rend="indent1"/>James Wimsatt, Chaucer and his French
+          Contemporaries: Natural Music in the Fourteenth Century (Toronto: University of Toronto
+          Press, 1993), p. 96.</note>
+        <note type="footnote" n="41"><space rend="indent1"/>Travis, “Chaucer’s Heliotropes,” pp.
+          403–05.</note>
+        <note type="footnote" n="42"><space rend="indent1"/><hi rend="italic">Pearl</hi>’s theology
+          of reward has been recently addressed by Watson, “The <hi rend="italic">Gawain</hi>-Poet
+          as a Vernacular Theologian,” in Brewer and Gibson, pp. 293–313. The relationship between
+          the parable of the vineyard and concerns with labor and economics in late
+          fourteenth-century England is addressed by Bowers, “The Politics of <hi rend="italic"
+            >Pearl</hi>,” pp. 419–41; and by Watkins.</note>
+        <note type="footnote" n="43"><space rend="indent1"/>See Jonathan Alexander, with Michael
+          Michael and Martin Kauffmann, “The Last Things: Representing the Unrepresentable,” in <hi
+            rend="italic">The Apocalypse and the Shape of Things to </hi><hi rend="italic"
+          >Come</hi>, ed. Frances Carey (London: British Museum Press, 1999), pp. 49, 44.</note>
+        <note type="footnote" n="44"><space rend="indent1"/>See Phillips; Marti, pp. 44, 84–88; and
+          Gatta.</note>
+        <note type="footnote" n="45"><space rend="indent1"/>See Whitaker; Field; Nolan, pp. 54–83;
+          and Stanbury, <hi rend="italic">Seeing the Gawain-Poet</hi>, pp. 21–35.</note>
+        <note type="footnote" n="46"><space rend="indent1"/>Vlasta Dvoraková, J. Krása, A.
+          Merhautová, and K. Stejskal, <hi rend="italic">Gothic Mural Painting in</hi><hi
+            rend="italic"> Bohemia and Moravia 1300–1378</hi>, trans. R. Finlayson-Samsour and I.
+          Urwin (London: Oxford University Press, 1964), p. 97; Alfred Thomas, <hi rend="italic"
+            >Anne’s Bohemia: Czech Literature and Society 1310–1420</hi> (Minneapolis: University of
+          Minnesota Press, 1998), p. 101.</note>
+        <note type="footnote" n="47"><space rend="indent1"/>Thomas, p. 19, also proposes Anne as a
+          candidate.</note>
+        <note type="footnote" n="48"><space rend="indent1"/>For the text’s representation of
+          individual self-consciousness, see Aers; and Watkins.</note>
+        <note type="footnote" n="49"><space rend="indent1"/>Watson, in Brewer and Gibson, p.
+          312.</note>
+        <note type="footnote" n="50"><space rend="indent1"/>Gollancz, pp. xxiii–ivn. Gollancz’s
+          understanding of the poem as iambic tetrameter was based on an essay by C. S. Northup, “A
+          Study of the Metrical Structure of the Middle English Poem <hi rend="italic">The
+            Pearl</hi>,” <hi rend="italic">PMLA</hi> 12 (1897), 326–40.</note>
+        <note type="footnote" n="51"><space rend="indent1"/>Gordon, p. 89.</note>
+        <note type="footnote" n="52"><space rend="indent1"/>Vantuono, <hi rend="italic">The Pearl
+            Poems</hi>, pp. liv–lv.</note>
+        <note type="footnote" n="53"><space rend="indent1"/>Duggan, “Libertine Scribes,” pp. 219–37;
+          and Duggan, “Meter, Stanza, Vocabulary, Dialect,” in Brewer and Gibson, pp. 221–42. <hi
+            rend="italic">Pearl</hi> was first characterized as iambic tetrameter by Northrup; for a
+          succinct description of the form in <hi rend="italic">Pearl</hi> see Borroff, <hi
+            rend="italic">Pearl</hi>, pp. 32–35.</note>
+        <note type="footnote" n="54"><space rend="indent1"/>Duggan’s argument that the poet wrote a
+          metrically regular line that the scribe, or scribes, transformed is based in part on
+          recent studies defining the metrical characteristics of the alliterative long line; see
+          Duggan, “Final –E and the Rhythmic Structure of the B-Verse in Middle English Alliterative
+          Poetry,” <hi rend="italic">Modern Philology</hi> 86 (1988), 119–45; Marie Borroff, <hi
+            rend="italic">Sir</hi><hi rend="italic"> Gawain and the Green Knight: A Stylistic and
+            Metrical Study</hi> (New Haven: Yale University Press, 1962); and Thorlac
+          Turville-Petre, <hi rend="italic">The Alliterative Revival</hi> (Cambridge: D. S. Brewer,
+          1977). In <hi rend="italic">Sir</hi><hi rend="italic"> Gawain and the Green Knight</hi>,
+            <hi rend="italic">Cleanness</hi>, and <hi rend="italic">Patience</hi>, the three
+          alliterative poems of the manuscript, the scribe consistently makes lines unmetrical by
+          the uses of dissyllabic forms, writing <hi rend="italic">other</hi> for <hi rend="italic"
+            >or</hi>. In copying <hi rend="italic">Pearl</hi>, the scribe makes similar changes,
+          using dissyllabic forms to transform metrically regular lines to unmetrical ones; Duggan,
+          “Libertine Scribes,” pp. 224–25.</note>
+
+
+      </div>
+    </body>
+  </text>
+</TEI>
