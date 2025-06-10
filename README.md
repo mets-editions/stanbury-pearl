@@ -2,7 +2,7 @@
 
 This repository is for the edition _Pearl_, edited by Sarah Stanbury. It contains:
 
-- A PDF of the entire edition. Current version: 04/30/2025
+- A PDF of the entire edition. Current version: 06/10/2025
 
 - TEI-XML files of the digital edition. Last file updated: 05/01/2025
 
